@@ -21,16 +21,16 @@ endif::withRemarks[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language}{remarks};!*
 
-:curriculum-short: MODULKUERZEL
+:curriculum-short: T3
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: MODULNAME IN VOLLER LAENGE
-:curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
+:curriculum-name: Train-the-Trainer
+:curriculum-header-title: iSAQB-Curriculum für den Train-the-Trainer Kurs ({curriculum-short})
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: FULL NAME OF MODULE
-:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+:curriculum-name: Train-the-Trainer
+:curriculum-header-title: iSAQB curriculum for the Train-the-Trainer course ({curriculum-short})
 endif::[]
 
 // you might want to output some internal information...
