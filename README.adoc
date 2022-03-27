@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= Curriculum for the https://isaqb.org[iSAQB] Train-the-Trainer Course
 
 :toc:
 :toc-placement!:
@@ -44,7 +44,7 @@ git clone https://github.com/isaqb-org/curriculum-t3.git --recursive
 ----
 --
 . Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK) via `./gradlew`.
-. Once the "BUILD SUCCESSFUL" is show, you can review the build result under `./build/index.html`
+. Once the "BUILD SUCCESSFUL" is shown, you can review the build result under `./build/index.html`
 
 
 === How to organize files?
@@ -165,8 +165,6 @@ task buildDocs {
 
 In the task "renderNoRemarksDE", certain attributes (aka variables) are defined that configure the corresponding output.
 
-== Additional translations/languages
-include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
