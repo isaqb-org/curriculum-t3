@@ -1,13 +1,15 @@
 // tag::DE[]
-== Einführung: Allgemeines zum iSAQB Advanced Level
+== Einführung: Allgemeines zum Train-the-Trainer Kurs
 // end::DE[]
 
 // tag::EN[]
-== Introduction: General information about the iSAQB Advanced Level
+== Introduction: General information about the T3 course
 // end::EN[]
 
-include::01-what-to-expect-of-an-advanced-level-module.adoc[{include_configuration}]
+include::01-what-to-expect-of-a-t3-course.adoc[{include_configuration}]
 
-include::02-advanced-level-knowledge.adoc[{include_configuration}]
+include::02-t3-knowledge.adoc[{include_configuration}]
 
-include::03-prerequisites.adoc[{include_configuration}]
+include::03-prerequisites-participants.adoc[{include_configuration}]
+
+include::04-prerequisites-trainers.adoc[{include_configuration}]

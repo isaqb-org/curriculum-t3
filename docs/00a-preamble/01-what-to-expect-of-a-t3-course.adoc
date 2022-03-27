@@ -1,0 +1,17 @@
+// tag::DE[]
+=== Was vermittelt Train-the-Trainer-Kurs?
+
+// end::DE[]
+
+// tag::EN[]
+=== What is taught in a Train-the-Trainer course?
+
+
+
+
+
+// end::EN[]
+
+// tag::REMARK[]
+TODO
+// end::REMARK[]

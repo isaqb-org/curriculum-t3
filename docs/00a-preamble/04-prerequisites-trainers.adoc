@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Voraussetzungen zur CPSA-A-Zertifizierung
+=== Voraussetzungen zur Durchführung eines T3-Trainings
 * erfolgreiche Ausbildung und Zertifizierung zum Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F)
 * mindestens drei Jahre Vollzeit-Berufserfahrung in der IT-Branche; dabei Mitarbeit an Entwurf und Entwicklung von mindestens zwei unterschiedlichen IT-Systemen
 ** Ausnahmen sind auf Antrag zulässig (etwa: Mitarbeit in Open-Source-Projekten)
@@ -10,7 +10,7 @@
 // end::DE[]
 
 // tag::EN[]
-=== Requirements for CPSA-A certification
+=== Requirements for providing a T3 training
 * Successful training and certification as a Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F)
 * At least three years of full-time professional experience in the IT sector; collaboration on the design and development of at least two different IT systems
 ** Exceptions are allowed on application (e.g., collaboration on open source projects)
@@ -19,12 +19,6 @@
 * Successful completion of the CPSA-A certification exam
 // end::EN[]
 
-{empty} +
-{empty} +
-
-[.text-center]
-image:00-preamble/cpsa-a-logo.png[pdfwidth=50%,align=center,alt="Certified Professional for Software Architecture^(R)^ Advanced Level (CPSA-A)"]
-
-
 // tag::REMARK[]
+TODO, this is just the template from the advanced module.
 // end::REMARK[]
