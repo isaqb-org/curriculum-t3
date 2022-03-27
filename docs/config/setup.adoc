@@ -14,7 +14,7 @@ endif::withRemarks[]
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
-:language: DE
+:language: EN
 
 // ":include_configuration:" always consists of the language, optionally
 // followed by ";REMARK"
