@@ -22,16 +22,16 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/advanced-template.sv
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+This repository contains a very early work-in-progress version for the iSAQB Train-the-Trainer curriculum in AsciiDoc.
 
 toc::[]
 
 == How to contribute or participate
 Create an issue, a merge- or pull-request
 
-== How to use this template
+== How to use this repository
 
-. Either click on "Use this template" in the Github UI or Clone the repository - including the submodule:
+. Clone the repository - including the submodule:
 +
 --
 [source,shell]
@@ -43,60 +43,9 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/advanced-template.git --recursive
 ----
 --
-. Rename the repository to the name of your curriculum e.g. `curriculum-flex`
-. Rename the file `/docs/advanced-template.adoc` to the name of your curriculum e.g. `curriculum-flex.adoc` (this is later on referred to as `curriculumFileName`)
-. Open the file `./config/setup.adoc` to adjust configuration specific to your curriculum:
-.. `:curriculum-short: MODULKUERZEL`: this is the abbreviation of your module. Replace MODULKUERZEL with your module name e.g. FLEX
-.. `:curriculum-name: MODULNAME IN VOLLER LAENGE`: the full German title of your CPSA-A module. replace "MODULNAME IN VOLLER LAENGE" with your module name e.g. "Flexible Architecture Models - Microservices und Self-Contained Systems"
-.. `:curriculum-name: MODULNAME IN VOLLER LAENGE`: the full English title of your CPSA-A module. replace "MODULNAME IN VOLLER LAENGE" with your module name e.g. "Flexible Architecture Models - Microservices and Self-Contained Systems"
-. Open the file `build.gradle` to adjust attributes specific to your curriculum:
-[loweralpha]
-.. `curriculumFileName`: the name of the asciidoc root file of your curriculum e.g. `curriculum-flex` (see above! The `.adoc` suffix is added automatically, omit it here!)
-. Edit the file `document.version` and enter the version number this new version of the curriculum shall have e.g. "2020.1".
-. Open README.adoc and replace the string `curriculum-template` with the name of your Github repository e.g. `curriculum-flex`
 . Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK) via `./gradlew`.
 . Once the "BUILD SUCCESSFUL" is show, you can review the build result under `./build/index.html`
 
-== How to write iSAQB Advanced Level Curricula with AsciiDoc
-
-=== Requirements and (our) solutions
-
-[cols="1,2a",options="header"]
-|===
-|Requirement
-|Solution
-
-|Visually appealing pdf output
-|We created an iSAQB pdf theme, located under the `/style` directory. The original is maintained in the `adoc2pdf` repository.
-
-|Multiple people contribute content, review and comment
-|highly modularized content: Small chunks, like learning-goals or subsections, are contained in their own asciidoc-files.
-
-|Multiple languages, at least EN and DE (i18n)
-|Every piece of text is enclosed in _tags_ like `tag::EN[]`. The build process collects all parts for the desired language.
-
-|Authors want to comment on specific parts of the text
-|You can create a comment within every single adoc file by writing:
-
-[source,asciidoc]
-----
-  // tag::REMARK[]
-  Your comment goes here, with all styling and formatting options.
-  You can even use language tags within the REMARK tag for multi-lingual comments.
-  // end::REMARK[]
-----
-
-|Simple conversion from asciidoc to pdf (and html)
-|There is currently one option available:
-
-* Gradle based build, requiring a local Java runtime.
-|===
-
-- - -
-
-**TODO:** Add explanation for keywords and general procedure when creating a new Advanced Level Curriculum.
-
-- - -
 
 === How to organize files?
 
@@ -195,9 +144,6 @@ include::00-preamble/00-introduction.adoc[] // //<6>
 6. Include the whole file 00-introduction.adoc.
 
 
-=== Suggestions
-
-TBD.
 
 == How to build the documents
 
@@ -224,9 +170,9 @@ include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
-This repository is currently maintained by Benjamin Wolf.
-It was forked from https://github.com/isaqb-org/curriculum-template,
-so the contributors of that project basically contributed to this one, too.
+This repository is currently maintained by the iSAQB Train-the-Trainer Working Group (T3WG).
+It was forked from https://github.com/isaqb-org/advanced-template currently maintained by Benjamin Wolf, which in turn was forked from https://github.com/isaqb-org/curriculum-template,
+so the contributors of those projects basically contributed to this one, too.
 
 
 [[copyrighted]]
