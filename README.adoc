@@ -37,10 +37,10 @@ Create an issue, a merge- or pull-request
 [source,shell]
 ----
 Via SSH:
-git clone git@github.com:isaqb-org/advanced-template.git --recursive
+git clone git@github.com:isaqb-org/curriculum-t3.git --recursive
 
 Via HTTPS:
-git clone https://github.com/isaqb-org/advanced-template.git --recursive
+git clone https://github.com/isaqb-org/curriculum-t3.git --recursive
 ----
 --
 . Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK) via `./gradlew`.
