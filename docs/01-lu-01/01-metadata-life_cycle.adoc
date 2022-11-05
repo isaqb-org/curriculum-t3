@@ -1,0 +1,31 @@
+// tag::REMARK[]
+:sectnums!:
+[discrete]
+=== Metadata and Lifecycle Information
+
+The following meta data and lifecycle information concerning this specific learing unit is only
+included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
+
+|===
+| Status and version of this learning unit     | *DRAFT v0.02*
+| This LU is based on the LU template revision | *v0.02 from 2021-11-07*
+|===
+
+==== Authors, Contributors, Reviewers 
+
+* Hiral Dave (HDE, Author)
+* Alexander Lorz (ALZ, Author)
+
+==== Revision History for this Learning Unit
+
+Please use reverse chronological order. Most recent changes are on top.
+
+[cols="4,^3,^2,20"]
+|===
+| 2022-11-05 | v0.02 | ALZ | rewrite/transfer to asciidoc
+| 2022-03-28 | v0.01 | HDE | Initial Draft
+|===
+
+:sectnums:
+// end::REMARK[]
+

@@ -1,0 +1,16 @@
+// tag::EN[]
+[discrete]
+=== Important
+// end::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+What are particular important points that a T3 trainer should highlight or prioritize (because it is of outstanding relevance for future trainers).
+====
+// end::REMARK[]
+
+// tag::EN[]
+This LU is specific for T3 participants and not a part of the foundation level curriculum. So here important points to highlight by a T3 trainer would be,
+How to utilize existing knowledge and past experience to come up with example scenarios. Because: Students ask questions and we can come up with more details if the example is related to one of our past projects.
+// end::EN[]

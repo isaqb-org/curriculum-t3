@@ -1,0 +1,22 @@
+// tag::EN[]
+[discrete]
+=== Topic
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+Coarse grained topic or learning area, e.g., “Executing the Training”, “Recommended setup for online trainings”
+====
+// end::REMARK[]
+
+// tag::EN[]
+Example-Scenario - How to and what is?
+Identify purposes and required qualities of example scenarios.
+How to create a scenario and evaluate it so that it fits your target group.
+This topic covers the following objectives:
+
+1. How to find or create  a good example scenario? Best practices.
+2. What is a good scenario?
+3. Checklist for evaluating own scenarios.
+// end::EN[]

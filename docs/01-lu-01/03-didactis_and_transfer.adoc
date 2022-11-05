@@ -1,0 +1,87 @@
+// tag::EN[]
+[discrete]
+=== Didactics and Transfer
+// tag::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Method hints
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+Suggestions and recommendations for presenting the topic, ideas for exercises, and general hints for increasing student participation.  There is a Didaktopedia out there (for internal use), maybe we can reference it in the future.
+====
+// end::REMARK[]
+
+// tag::EN[]
+* Start with the participants idea for example scenario.
+* How would they proceed? Any past experience of training that comes to mind and is helpful? 
+* Do they know any references that they might want to put to use?
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Previous knowledge regarding the contents
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. learners should have finished LU xy, should know what pattern X is.
+Note: this leads to constraints on the order of Learning Units!
+====
+// end::REMARK[]
+
+// tag::EN[]
+Learners should be familiar with the CPSA-F curriculum.
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Sustaining knowledge transfer - short term
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+Follow-up activities: What do participants need to be able to independently follow up on the training session (additional material, links, literature references, videos, ....)? What things or artifacts can or should participants take home (screenshots, their own notes, photos of whiteboards, chat transcripts, ....)?
+====
+// end::REMARK[]
+
+// tag::EN[]
+Sample example scenario used during this learning unit will be shared with participants as a PDF.
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Sustaining knowledge transfer - long term
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+Follow-up success control: How to check later, e.g. on subsequent days, if the content has been understood (e.g. warm-up exercise the next day, ....). How can this be verified after a longer period of time (e.g., offering a discussion session after several days, exam, term paper as in Advanced Level, ....)?
+How can participants actually apply what they have learned. "How can I do $tuff."
+====
+// end::REMARK[]
+
+// tag::EN[]
+Participants must create their own example scenario. Present, explain their specific exercises,
+How do I later on evaluate MY scenario. How do I find out if it helped my students
+
+
+// tag::REMARK[]
+[IMPORTANT]
+====
+TBD: Some follow-up exercises to be discussed???
+====
+// end::REMARK[]
+
+
+// end::EN[]

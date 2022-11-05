@@ -1,0 +1,50 @@
+// header file for curriculum section 1: ERSTE LERNEINHEIT
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::EN[]
+== LU01 - Designing and Evaluating Example Scenarios
+// end::EN[]
+
+// tag::REMARK[]
+WARNING: Numbering of learning units is provisionary, the T3WG has not yet decided on a specific sequence.
+// end::REMARK[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+// end::EN[]
+
+// tag::REMARK[]
+[IMPORTANT]
+====
+Enter reasonable times for duration and practice time.
+====
+// end::REMARK[]
+
+include::01-metadata-life_cycle.adoc[{include_configuration}]
+
+include::02-01-topic.adoc[{include_configuration}]
+
+include::02-02-purpose.adoc[{include_configuration}]
+
+include::02-03-learning_objectives.adoc[{include_configuration}]
+
+include::02-04-takeaways.adoc[{include_configuration}]
+
+include::02-05-important.adoc[{include_configuration}]
+
+include::02-06-discussion_points.adoc[{include_configuration}]
+
+include::02-07-donts.adoc[{include_configuration}]
+
+include::02-08-references.adoc[{include_configuration}]
+
+include::02-0X-rummage_box.adoc[{include_configuration}]
+
+include::03-didactis_and_transfer.adoc[{include_configuration}]
+
+include::04-preparation.adoc[{include_configuration}]
+
+include::05-success_factors_risks.adoc[{include_configuration}]

@@ -1,0 +1,17 @@
+// tag::EN[]
+[discrete]
+=== Purpose
+// end::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+The intention behind a LU. Should be one (coarse) goal, e.g.: People should know the GoF patterns.
+You can’t convey to many different things at once, 
+====
+// end::REMARK[]
+
+// tag::EN[]
+Enable trainers to provide a consistent example scenario throughout the course which fits the audience, that is, it connects to their previous knowledge and delivers the learning goals of the FL curriculum.
+Enable trainers to evaluate the quality of example scenarios created or chosen by them.
+// end::EN[]

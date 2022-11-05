@@ -68,7 +68,7 @@ task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
   //dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN"
-  dependsOn "includeLearningObjectives", "renderWithRemarksEN"
+  dependsOn "includeLearningObjectives", "renderNoRemarksEN", "renderWithRemarksEN"
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,

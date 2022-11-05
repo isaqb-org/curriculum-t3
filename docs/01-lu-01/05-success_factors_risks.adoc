@@ -1,0 +1,64 @@
+// tag::EN[]
+[discrete]
+=== Success factors and risks
+// tag::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== General Risks
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+Fundamental disruptive factors (what could irritate, offend, trigger people about the topic, ....) e.g.:  could be interpreted as socially unacceptable behavior, racial prejudice, nationalism, religiously offending, ...
+====
+// end::REMARK[]
+
+// tag::EN[]
+* Acceptance challenge – Considering participants years of experience and designation.
+* Sunken costs. People cant let go of their scenario even if its not a good one because they invested a lot of time
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+
+// tag::EN[]
+==== Possible barriers to knowledge transfer
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+Is this sending people in the wrong direction?  Is there a danger of building up "false knowledge"?
+
+Is there a risk that, depending on the person of the trainer, the learners will not be able to acquire the knowledge? I.e. would they be able to do it in principle, but with certain trainers it does not work?
+(NOTE TO OURSELFES: This might be a more general high level topic)
+
+Have people possibly learned something different, a different background of experience or fundamentally different thought structures that prevent learners from coming to grips with the subject.
+====
+// end::REMARK[]
+
+// tag::EN[]
+People might know a *lot* more about the domain of the example scenario.
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Success factors
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+What contributes to the learning success? What are connections that lead out of the module? This might be things that motivate participants because what they have learned has greater practical value. How can LU success possibly be measured or determined (quantitatively/qualitatively)? "Definition of Done", not necessarily quantifiable: e.g. quizzes, exercise, role play, own presentation. 
+====
+// end::REMARK[]
+
+// tag::EN[]
+Out of 6, at least 1-2 participants come up with quick example scenarios of their own which passes 70% of the example scenario validation checklist.
+// end::EN[]
+
+// --------------------------------------------------------------------

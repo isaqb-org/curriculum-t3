@@ -1,0 +1,126 @@
+// tag::EN[]
+[discrete]
+=== Preparation
+// tag::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Time and activities for trainer preparation
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g, 10 min research and collect materials on the day before the session
+====
+// end::REMARK[]
+
+// tag::EN[]
+Be ready with example scenario which will be used as a sample scenario while teaching this LU. Should be prepared prior to the training commencement day.
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Time and activities for student preparation
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. 30 minutes 1 day in advance
+====
+// end::REMARK[]
+
+// tag::EN[]
+N/A
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Time for activity
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. 15 minutes shared discussion
+====
+// end::REMARK[]
+
+// tag::EN[]
+30 minutes in collaboration with other participants. Any pending work can be given as at home exercise and discussed next day for 30 mins (Any 1/2).
+// end::EN[]
+
+
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Physical space required for activities
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. large room with 3 square meters per participant
+====
+// end::REMARK[]
+
+// tag::EN[]
+none
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Physical materials required for activities 
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. whiteboard, flipchart, note-blocks, pencils
+====
+// end::REMARK[]
+
+// tag::EN[]
+If in-person training, Few plain white papers and pen/pencil.
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Virtual material/infrastructure
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind possible constraints that have to be met, (e.g. max usage duration for tools, limits on number of participants)
+====
+// end::REMARK[]
+
+// tag::EN[]
+If online, shared whiteboard.
+// end::EN[]
+
+// --------------------------------------------------------------------
+
+// tag::EN[]
+==== Prior knowledge of participants in the use of materials and infrastructure
+// tag::EN[]
+
+// tag::REMARK[]
+[sidebar]
+====
+e.g. must be confident in using the virtual whiteboard, soldering skills, …
+====
+// end::REMARK[]
+
+// tag::EN[]
+Hands-on using the whiteboard
+// end::EN[]
+
