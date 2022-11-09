@@ -9,18 +9,18 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 // end::REMARK[]
 
 // tag::EN[]
-[[LG-X-1]]
 [discrete]
+[[LG-X-1]]
 ==== LG X-1: Your first learning goal
 TBD - LGs MUST be provided - your content here
 
-[[LG-X-2]]
 [discrete]
+[[LG-X-2]]
 ==== LG X-2: Your second learning goal
 TBD
 
-[[LG-X-3]]
 [discrete]
+[[LG-X-3]]
 ==== LG 1-3: Your third learning goal
 TBD
 
