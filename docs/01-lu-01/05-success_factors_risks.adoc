@@ -1,13 +1,14 @@
 // tag::EN[]
 [discrete]
 === Success factors and risks
-// tag::EN[]
+// end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== General Risks
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -25,8 +26,9 @@ Fundamental disruptive factors (what could irritate, offend, trigger people abou
 
 
 // tag::EN[]
+[discrete]
 ==== Possible barriers to knowledge transfer
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -47,8 +49,9 @@ People might know a *lot* more about the domain of the example scenario.
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Success factors
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]

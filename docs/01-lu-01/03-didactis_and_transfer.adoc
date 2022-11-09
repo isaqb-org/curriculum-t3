@@ -1,13 +1,14 @@
 // tag::EN[]
 [discrete]
 === Didactics and Transfer
-// tag::EN[]
+// end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Method hints
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -25,8 +26,9 @@ Suggestions and recommendations for presenting the topic, ideas for exercises, a
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Previous knowledge regarding the contents
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -43,8 +45,9 @@ Learners should be familiar with the CPSA-F curriculum.
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Sustaining knowledge transfer - short term
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -60,8 +63,9 @@ Sample example scenario used during this learning unit will be shared with parti
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Sustaining knowledge transfer - long term
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -74,7 +78,7 @@ How can participants actually apply what they have learned. "How can I do $tuff.
 // tag::EN[]
 Participants must create their own example scenario. Present, explain their specific exercises,
 How do I later on evaluate MY scenario. How do I find out if it helped my students
-
+// end::EN[]
 
 // tag::REMARK[]
 [IMPORTANT]
@@ -84,4 +88,3 @@ TBD: Some follow-up exercises to be discussed???
 // end::REMARK[]
 
 
-// end::EN[]

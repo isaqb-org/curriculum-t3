@@ -1,13 +1,14 @@
 // tag::EN[]
 [discrete]
 === Preparation
-// tag::EN[]
+// end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Time and activities for trainer preparation
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -23,8 +24,9 @@ Be ready with example scenario which will be used as a sample scenario while tea
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Time and activities for student preparation
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -40,8 +42,9 @@ N/A
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Time for activity
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -59,8 +62,9 @@ e.g. 15 minutes shared discussion
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Physical space required for activities
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -76,8 +80,9 @@ none
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Physical materials required for activities 
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -93,8 +98,9 @@ If in-person training, Few plain white papers and pen/pencil.
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Virtual material/infrastructure
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
@@ -110,8 +116,9 @@ If online, shared whiteboard.
 // --------------------------------------------------------------------
 
 // tag::EN[]
+[discrete]
 ==== Prior knowledge of participants in the use of materials and infrastructure
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]

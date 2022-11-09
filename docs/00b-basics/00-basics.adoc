@@ -2,7 +2,9 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {basics}
+// tag::EN[]
+== Essentials
+// end::EN[]
 
 include::01-what-to-expect-of-this-module.adoc[{include_configuration}]
 

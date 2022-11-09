@@ -1,5 +1,9 @@
 // tag::REMARK[]
+// tag::EN[]
+
 :sectnums!:
+
+
 [discrete]
 === Metadata and Lifecycle Information
 
@@ -11,11 +15,13 @@ included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
 | This LU is based on the LU template revision | *v0.02 from 2021-11-07*
 |===
 
+[discrete]
 ==== Authors, Contributors, Reviewers 
 
 * Hiral Dave (HDE, Author)
 * Alexander Lorz (ALZ, Author)
 
+[discrete]
 ==== Revision History for this Learning Unit
 
 Please use reverse chronological order. Most recent changes are on top.
@@ -27,5 +33,6 @@ Please use reverse chronological order. Most recent changes are on top.
 |===
 
 :sectnums:
+// end::EN[]
 // end::REMARK[]
 

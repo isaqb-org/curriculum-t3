@@ -1,4 +1,7 @@
 :sectnums!:
+
+// tag::EN[]
+
 [discrete]
 === Rummage  Box
 
@@ -26,5 +29,7 @@ Trainer is able to design example scenarios such that participants are able to r
 5.	Other design constraints
 6.	Architecture method
 7.  … maybe more, connect to FL LG’s make clear that you do not have to cover all of them
+
+// end::EN[]
 
 :sectnums:

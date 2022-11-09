@@ -1,7 +1,7 @@
 // tag::EN[]
 [discrete]
 === Topic
-// tag::EN[]
+// end::EN[]
 
 // tag::REMARK[]
 [sidebar]
