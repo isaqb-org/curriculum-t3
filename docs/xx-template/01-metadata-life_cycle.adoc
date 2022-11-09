@@ -1,0 +1,39 @@
+// tag::REMARK[]
+// tag::EN[]
+
+:sectnums!:
+
+[discrete]
+=== Metadata and Lifecycle Information
+
+The following meta data and lifecycle information concerning this specific learing unit is only
+included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
+
+|===
+| Status and version of this learning unit     | *DRAFT v0.01*
+| This LU is based on the LU template revision | *v0.03 from 2021-11-09*
+|===
+
+[discrete]
+==== Authors, Contributors, Reviewers 
+
+* First Author (<Shorthand>, <Role>)
+* Jane Smith (JSH, Reviewer)  
+* John Example (JEE, Author)
+
+[discrete]
+==== Revision History for this Learning Unit
+
+Please use reverse chronological order. Most recent changes are on top.
+
+[cols="4,^3,^2,20"]
+|===
+| YYYY-MM-DD | v0.02 | JSH | Adding all the content
+| YYYY-MM-DD | v0.01 | JEE | Confabulating initial draft version
+|===
+
+:sectnums:
+
+// end::EN[]
+// end::REMARK[]
+

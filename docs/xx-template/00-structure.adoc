@@ -1,0 +1,77 @@
+// TEMPLATE for Learning Units (delete this line after copying it)
+// header file for curriculum section X: YOUR NAME FOR THE LEARNING UNIT HERE
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::EN[]
+== LU<XX> - Template for Learning Units (edit this title after copying the template)
+// end::EN[]
+
+
+// vvvvvvvvvvvvvvvv  DELETE PART BELOW WHEN USING THE TEMPLATE vvvvvvvvvvvvvvvvvvv
+
+
+:sectnums!:
+[discrete]
+=== Authors and Revision History of the Learning Unit Template
+
+This information concerns *only* the template and *MUST* be deleted when using ist.
+
+* Gerrit Beine (GBE, Author)
+* Alexander Lorz (ALZ, Author) 
+
+Please use reverse chronological order. Most recent changes are on top.
+
+[cols="4,^3,^2,20"]
+|===
+| 2022-11-09 | v0.03 | ALZ | transfer to GitHub and asciidoc, some very minor content changes
+| 2021-11-07 | v0.02 | ALZ | some formatting and structuring, complete translation
+| 2021-10-29 | v0.01 | GBE, ALZ | rough collection of initial ideas and things that should be in here
+
+|===
+
+:sectnums:
+
+// ^^^^^^^^^^^^^^^^  DELETE PART ABOVE WHEN USING THE TEMPLATE ^^^^^^^^^^^^^^^^^^^
+
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+// end::EN[]
+
+// tag::REMARK[]
+[IMPORTANT]
+====
+Enter reasonable times for duration and practice time.
+====
+// end::REMARK[]
+
+
+// Use comments to hide parts that you don't want to fill in yet.
+// But please, don't delete them.
+
+include::01-metadata-life_cycle.adoc[{include_configuration}]
+
+include::02-01-topic.adoc[{include_configuration}]
+
+include::02-02-purpose.adoc[{include_configuration}]
+
+include::02-03-learning_objectives.adoc[{include_configuration}]
+
+include::02-04-takeaways.adoc[{include_configuration}]
+
+include::02-05-important.adoc[{include_configuration}]
+
+include::02-06-discussion_points.adoc[{include_configuration}]
+
+include::02-07-donts.adoc[{include_configuration}]
+
+include::02-08-references.adoc[{include_configuration}]
+
+include::03-didactis_and_transfer.adoc[{include_configuration}]
+
+include::04-preparation.adoc[{include_configuration}]
+
+include::05-success_factors_risks.adoc[{include_configuration}]

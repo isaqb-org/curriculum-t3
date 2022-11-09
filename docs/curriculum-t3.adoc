@@ -50,6 +50,6 @@ include::01-lu-01/00-structure.adoc[{include_configuration}]
 <<<
 include::99-references/00-references.adoc[{include_configuration}]
 
-//<<<
-//include::xx-template/00-structure.adoc[{include_configuration}]
+// <<<
+// include::xx-template/00-structure.adoc[{include_configuration}]
 
