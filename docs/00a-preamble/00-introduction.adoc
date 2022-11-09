@@ -13,3 +13,7 @@ include::02-t3-knowledge.adoc[{include_configuration}]
 include::03-prerequisites-participants.adoc[{include_configuration}]
 
 include::04-prerequisites-trainers.adoc[{include_configuration}]
+
+// tag::REMARK[]
+// just to get rid of a warning in the build process
+// end::REMARK[]

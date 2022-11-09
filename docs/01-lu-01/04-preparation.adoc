@@ -12,9 +12,7 @@
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g, 10 min research and collect materials on the day before the session
-====
 // end::REMARK[]
 
 // tag::EN[]
@@ -30,9 +28,7 @@ Be ready with example scenario which will be used as a sample scenario while tea
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g. 30 minutes 1 day in advance
-====
 // end::REMARK[]
 
 // tag::EN[]
@@ -48,9 +44,7 @@ N/A
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g. 15 minutes shared discussion
-====
 // end::REMARK[]
 
 // tag::EN[]
@@ -68,9 +62,7 @@ e.g. 15 minutes shared discussion
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g. large room with 3 square meters per participant
-====
 // end::REMARK[]
 
 // tag::EN[]
@@ -86,9 +78,7 @@ none
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g. whiteboard, flipchart, note-blocks, pencils
-====
 // end::REMARK[]
 
 // tag::EN[]
@@ -104,9 +94,7 @@ If in-person training, Few plain white papers and pen/pencil.
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind possible constraints that have to be met, (e.g. max usage duration for tools, limits on number of participants)
-====
 // end::REMARK[]
 
 // tag::EN[]
@@ -122,9 +110,7 @@ If online, shared whiteboard.
 
 // tag::REMARK[]
 [sidebar]
-====
 e.g. must be confident in using the virtual whiteboard, soldering skills, …
-====
 // end::REMARK[]
 
 // tag::EN[]

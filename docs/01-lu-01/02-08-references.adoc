@@ -5,11 +5,7 @@
 
 // tag::REMARK[]
 [sidebar]
-====
-Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants.
-
-A reference source is referenced via `<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
-====
+Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via `<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
 // end::REMARK[]
 
 // tag::EN[]

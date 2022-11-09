@@ -5,9 +5,7 @@
 
 // tag::REMARK[]
 [sidebar]
-====
 The learning objective(s) that are covered by the LU. Try to formulate learning goals as a learning outcome by using the formula “Behavior + Concept or Skill = Learning Outcome” (see Bowman, Training from the Back of the room, chapter “Begin with the end”). E. g. “Future trainers can adapt a learning unit to the target audience and can explain the necessary adaptation steps.”
-====
 // end::REMARK[]
 
 // tag::EN[]

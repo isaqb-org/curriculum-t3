@@ -33,3 +33,7 @@ Trainer is able to design example scenarios such that participants are able to r
 // end::EN[]
 
 :sectnums:
+
+// tag::REMARK[]
+// just to get rid of a warning in the build process
+// end::REMARK[]

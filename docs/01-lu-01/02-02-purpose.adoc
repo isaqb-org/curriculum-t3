@@ -5,10 +5,8 @@
 
 // tag::REMARK[]
 [sidebar]
-====
 The intention behind a LU. Should be one (coarse) goal, e.g.: People should know the GoF patterns.
 You can’t convey to many different things at once, 
-====
 // end::REMARK[]
 
 // tag::EN[]
