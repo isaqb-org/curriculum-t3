@@ -1,0 +1,86 @@
+// tag::EN[]
+
+[discrete]
+=== Rummage Box
+
+[CAUTION]
+====
+This section contains all the the notes from "Competence Profile for iSAQB Trainers" document from nextcloud.  It should be inserted where appropriate and cleaned up. What doesn't fit should be deleted.
+====
+
+[discrete]
+==== Notes from NextCloud
+
+_Draft by Alfredo Delgado Sanchez  and  Ralf Leipner_
+
+
+_Comments by ALZ:_ Reduce and clarify - are those things that participants ...
+
+* should already bring with them (prerequisites),
+* are we going to train them or is this
+* something they should work on afterwards?
+
+e.g.: "This is a profile for those who are already iSAQB trainers." or "This is what you should be/become as a trainer.“
+
+* Provide "scenarios" what do we mean by this competence,
+* Ranking (before T3T, after T3T, long term importance)
+* Provide Info on whether this is covered in the T3T.
+
+Let's build a quality tree, operationalize it for motivating LUs.
+
+[discrete]
+===== 1. Subject matter competence
+
+* The trainer is familiar with the subject matter. 
+* He/she is an expert, has knowledge of the subject matter.
+* The trainer can refer to practical experience.
+* He/she keeps his knowledge up to date. This is the solid basis of any training. Without expert knowledge, the trainer cannot demonstrate confidence. 
+* The trainer should in broad have more expert knowledge than the participants. This is at least easier. 
+* Typical questions are: 
+* What should I know about the subject?
+* What should my expertise on the topic cover?
+* Is my expertise up to date?
+* What questions might be asked during the training?
+
+
+[discrete]
+===== 2. Methodical competence
+
+* How do I design a training course?  - Trainers can design a training course.
+* How do I communicate content in a comprehensible way?
+* How do adults learn?
+* How do I achieve the teaching objectives?
+* How do I make a training lively and sustainable?
+* How do I prepare content in a way that is suitable for the brain?
+* Which media do I use?
+* Which methods can I use?
+* How do I keep participants "on their toes"?
+* How do I speak in an interesting and varied way?
+* How do I use my body language?
+* How do I motivate participants?
+
+
+[discrete]
+===== 3. Social competence
+
+* How do I build a good group atmosphere?
+* How do I shape group processes?
+* How do I deal with conflicts and troublemakers?
+* How do I give feedback?
+* How do I build a good relationship with participants?
+
+[discrete]
+===== 4. Personality competence
+
+* How do I motivate myself?
+* How do I achieve a good mood at the beginning of the training?
+* How do I radiate confidence and competence?
+* How do I deal with stress?
+* How do I use my personal resources optimally in the training?
+
+// end::EN[]
+
+
+// tag::REMARK[]
+// just to get rid of a warning in the build process
+// end::REMARK[]

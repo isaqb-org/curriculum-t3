@@ -1,5 +1,5 @@
 // tag::DE[]
-=== Was vermittelt Train-the-Trainer-Kurs?
+=== Was vermittelt ein Train-the-Trainer-Kurs?
 
 // end::DE[]
 
