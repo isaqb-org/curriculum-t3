@@ -9,5 +9,14 @@ Things you might want to discuss with students since the topics may differ depen
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+* What is a good set length?
+* Differences between different training formats and time allocations.
+* Conflicting needs of training providers and customers (e.g. over how many days?)
 // end::EN[]
+
+
+// tag::DE[]
+* Was ist eine gute Set-Länge?
+* Unterschiede zwischen verschiedenen Trainingsformaten und zeitlichen Aufteilungen
+* Spannungsfeld zwischen Bedürfnissen der Trainingsprovider und Kunden (über wie viele Tage?) 
+// end::DE[]

@@ -16,7 +16,115 @@ Suggestions and recommendations for presenting the topic, ideas for exercises, a
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+
+[discrete]
+===== Make T3 participants aware of the importance to know their audience
+
+// tag::REMARK[]
+[CAUTION]
+====
+Turn Bloom's Taxonomy into a real reference (ALZ).
+====
+// end::REMARK[]
+
+When setting up the structure for a training it is necessary to start with the student in mind. The two most important questions are:
+
+. Who is my student and what are they trying to achieve by attending the training.
+. What do I want the student to _understand, know, or be able to do_ after the training? These aspects of learning are part of Bloom's Taxonomy (https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), a set of models to classify educational learning.
+
+The iSAQB curriculae offer answers to those two questions, but they don't describe how to deliver a training that is able to achieve those goals. Therefore it is crucially important for trainers to create a course structure that helps delivering a training that is worthwhile for our students. We will describe a few things that can and should be kept in mind when setting up a course structure for your training.
+
+
+
+[discrete]
+===== The Golden Thread
+
+Each training should have a golden thread, that is a story line that guides the students (and us trainers) through the content.
+
+This can be an actual story, where we 'tell' the curriculum in the form of a made-up organization or challenge. The content and learning material would then be organized and aligned on the story line.
+
+It can also be structured by a flow of work, e.g. how does a software architect work when thinking about, designing, creating agreement, or executing software architecture.
+
+No matter how your golden thread looks like, it should be able for you and your students at any time to have a look at the bigger picture and understand exactly what you are doing, where it fits into the bigger picture, and why it is important.
+
+The golden thread of your training should give answers to the following questions:
+
+ . Why is this important / why should I learn this? Connect the challenges your students try to solve with what the training as a whole will offer to overcome them right at the beginning of the training; most people like to understand why they should do things before they are able to do them
+ . What do I have to learn? This is the main part of your training where you give your students the chance to learn what the training has to offer; this question is tightly interwoven with
+ . How am I going to apply this? Offer exercises and make the training as experiential as possible; this will connect the theoretical learning with the students' experience and will create a deeper learning
+ . What else is there? Offer pointers that go beyond the scope of your training so that students who would like to dive deeper into something are able to do so; this can be done by the end of a training to create a learning journey that doesn't stop with the training ending.
+
+// tag::REMARK[]
+[CAUTION]
+====
+Turn Sharon Bowman into a real reference (ALZ).
+====
+// end::REMARK[]
+
+These four questions also nicely align with Sharon Bowman's 4C Model (no to be confused with Simon Brown's C4 Model), so if you want to dig deeper on this, maybe have a look at https://www.bowperson.com/.
+
+
+[discrete]
+===== Structuring a Set
+
+Each set can be structured independently from the others.
+There will be references between them and they will probably be based on each other, but they should be designed and organized as well-structured software modules: loosely coupled with high internal cohesion.
+
+You can use the same four questions that you used for the golden thread of your training or for a LU to decide how a set should be set up, just on a smaller scale:
+
+ . Why is this topic relevant for me?
+ . What is to learn in this topic?
+ . How can it be applied?
+ . What else is there that goes beyond the scope that we have?
+
+If you are going to teach more than one topic in a set, just think about those four questions (or the 4Cs) for each of the topics.
+
+
+[discrete]
+===== Structuring a Multi-Day-Training
+
+It is usually helpful to structure the training days available into sessions of 45 to 90 minutes. A break is necessary at the latest after this period to give students the opportunity to process the content that has just been delivered.
+
+A training day can thus be split easily as follows:
+
+
+*Sets of 60 Minutes*
+
+
+[cols="2,^2"]
+|===
+| Arrival and setup  |  8.30 -  9.00
+| Set 1	             |  9.00 - 10.00
+| Break	             | 10.00 - 10.10
+| Set 2	             | 10.10 - 11.10
+| Break	             | 11.10 - 11.20
+| Set 3	             | 11.20 - 12.20
+| Lunch	             | 12.20 - 13.20
+| Set 4	             | 13.20 - 14.20
+| Break	             | 14.20 - 14.30
+| Set 5	             | 14.30 - 15.30
+| Break	             | 15.30 - 15.40
+| Set 6	             | 15.40 - 16.40
+| Wrap-up and close  | 16.40 - 17.00
+|===
+ 
+
+*Sets of 90 Minutes*
+
+[cols="2,^2"]
+|===
+| Arrival and setup  |  8.30 -  9.00
+| Set 1	             |  9.00 - 10.30
+| Break	             | 10.30 - 10.45
+| Set 2	             | 10.45 - 12.15
+| Lunch	             | 12.15 - 13.15
+| Set 3	             | 13.15 - 14.45
+| Break	             | 14.45 - 15.00
+| Set 4	             | 15.00 - 16.30
+| Wrap-up and close  | 16.30 - 17.00
+|===
+
+
 // end::EN[]
 
 // --------------------------------------------------------------------

@@ -9,5 +9,5 @@ What are particular important points that a T3 trainer should highlight or prior
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+Curriculum content does not equal course structure!
 // end::EN[]

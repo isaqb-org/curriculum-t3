@@ -16,7 +16,7 @@ e.g, 10 min research and collect materials on the day before the session
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+Setting up a course structure that works usually takes time and needs to be refined a few times based on experiences from trainings.
 // end::EN[]
 
 // --------------------------------------------------------------------

@@ -8,6 +8,14 @@
 Things that should be avoided. E.g. some LUs work poorly when introduced by example, so don't introduce a sample beforehand. Depends: Do I want to "frame" something to steer people in one direction or do I want people to explore the solution space without bias.
 // end::REMARK[]
 
+// tag::REMARK[]
+[CAUTION]
+====
+I don't thing the below information fits. This is not the takeaway for students section but rather a "how not to teach the creating a schedule LU" (ALZ).
+====
+// end::REMARK[]
+
+
 // tag::EN[]
-TBD - CAN be provided, might not always be relevant - your content here
+Don't just set up your course to reflect the structure of the curriculum.
 // end::EN[]

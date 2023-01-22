@@ -8,6 +8,14 @@
 Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via `<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
 // end::REMARK[]
 
+
+// tag::REMARK[]
+[CAUTION]
+====
+Yes, we definitely should provide some references here (ALZ).
+====
+// end::REMARK[]
+
 // tag::EN[]
-TBD - SHOULD be provided, good references are always helpful - your content here
+_TBD, if appropriate resources are available; at the moment, this reflects Kim's and Peter's experience only._
 // end::EN[]

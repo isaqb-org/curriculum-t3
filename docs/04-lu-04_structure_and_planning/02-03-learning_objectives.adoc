@@ -11,17 +11,60 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 // tag::EN[]
 [discrete]
 [[LG-4-1]]
-==== LG 4-1: Your first learning goal
-TBD - LGs MUST be provided - your content here
+==== LG 4-1: Derive learning objectives from prerequisites
+T3P should be able to systematically work out what the prerequisites and needs of their target group are and describe these in target group-specific learning objectives.
 
 [discrete]
 [[LG-4-2]]
-==== LG 4-2: Your second learning goal
-TBD
+==== LG 4-2: Design didactial path
+T3P can design and document a didactical path (what is covered in what order? what builds on each other?) through the learning material, compare it with the learning objectives of the curriculum and, if necessary, identify gaps (what is not yet included) or content that goes beyond the curriculum.
 
 [discrete]
 [[LG-4-3]]
-==== LG 4-3: Your third learning goal
-TBD
+==== LG 4-3: Modularize contents
+T3P can break down learning content along the didactic path into modular units with clearly delineated learning objectives and appropriate granularity.
+
+
+[discrete]
+[[LG-4-4]]
+==== LG 4-4: Create timetable
+T3P can schedule these units and and choose appropriate methods or methodological building blocks to deliver the learning units.
+To do so, they should be able to explain how different didactical methods complement each other over the duration of a course and over the flow of a day.
+
+[discrete]
+[[LG-4-5]]
+==== LG 4-5: Adapt timetable
+T3P are able to adapt the schedule to the learning progress and the needs of the participants, if necessary, also during the training.
 
 // end::EN[]
+
+
+// tag::DE[]
+[discrete]
+[[LG-4-1]]
+==== LG 4-1: Ableitung von Lernzielen aus Voraussetzungen
+T3P sollen in der Lage sein, systematisch zu erarbeiten, was die Voraussetzungen und Bedürfnisse ihrer Zielgruppe sind und diese in zielgruppenspezifischen Lernzielen zu beschreiben.
+
+[discrete]
+[[LG-4-2]]
+==== LG 4-2: Didaktischen Pfad gestalten
+T3P können einen didaktischen Pfad (Was wird in welcher Reihenfolge behandelt? Was baut aufeinander auf?) durch den Lernstoff entwerfen und dokumentieren, diesen mit den Lernzielen des Curriculums abgleichen und ggfs. Lücken (was ist noch nicht enthalten) bzw. über das Curriculum hinausgehende Inhalte zu identifizieren.
+
+
+[discrete]
+[[LG-4-3]]
+==== LG 4-3: Inhalte modularisieren
+T3P können die Lerninhalte entlang des didaktischen Pfades in modulare Einheiten mit klar abgegrenzten Lernzielen und angemessener Granularität zerlegen.
+
+[discrete]
+[[LG-4-4]]
+==== LG 4-4: Zeitplan erstellen
+T3P können diese Einheiten in einen Zeitplan einordnen und und geeignete Methoden bzw. methodische Bausteine wählen um die Lerneinheiten zu vermitteln. Dazu sollten sie in der Lage sein, zu erklären, wie sich verschiedene didaktische Methoden über die Dauer eines Kurses und über den Ablauf eines Tages hinweg ergänzen.
+
+
+[discrete]
+[[LG-4-5]]
+==== LG 4-5: Zeitplan anpassen
+T3P sind in der Lage den Zeitplan ggfs. auch während des Trainings an den Lernfortschritt und die Bedürfnisse der TN anzupassen.
+
+// end::DE[]
