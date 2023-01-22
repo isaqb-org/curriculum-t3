@@ -5,7 +5,7 @@
 
 [CAUTION]
 ====
-This section contains all the the notes from "Competence Profile for iSAQB Trainers" document from nextcloud.  It should be inserted where appropriate and cleaned up. What doesn't fit should be deleted.
+This section contains all the the notes from "Competence Profile for iSAQB Trainers" document from nextcloud as well as from our confluence page concerning prerequsites. It should be inserted where appropriate and cleaned up. What doesn't fit should be deleted bit by bit but please retain the parts that need further discussion in the group, possibly merk them with a remarks-section.
 ====
 
 [discrete]
@@ -77,6 +77,64 @@ Let's build a quality tree, operationalize it for motivating LUs.
 * How do I radiate confidence and competence?
 * How do I deal with stress?
 * How do I use my personal resources optimally in the training?
+
+
+
+[discrete]
+==== Notes from Confluence
+
+Migration of document https://confluence.isaqb.org/x/VQPhB
+
+[discrete]
+===== Wording and Terms
+
+For clarification: A T3 trainer is a person who conducts/gives a train-the-trainer training. This does not mean the training participants or future foundation-level trainers.
+
+[discrete]
+===== Experience and skills that we believe a T3 trainer should have
+
+* At least "quite a bit more experience than a regular trainer".
+
+* Extensive experience in giving training, e.g. already X training days delivered and providing training for Y years.
+** X= 50-100 training days? Y = 2-3 years? What is our opinion on this.
+
+* Background knowledge of didactics.  Not only advisable, but required in the way that they have studied this or can present equivalent knowledge.
+** This is a very high barrier. What kind of "proof" do we accept?
+** Could be checked by having a examination committee/panel.
+** For this panel we should include a person who has background on this.
+** We don't really require a formal degree, but candidate should proof knowledge.
+
+* Along with the training experience, practical experience working in software industry or hands on with design/development assignments.
+** Eg: Person may be a good trainer of ISTQB, IREB, PMP ... certification but may not have great examples if he/she has no sound background of software development/design. It would be advisable to have that
+** Should have cleared at least the FL exam
+
+
+[discrete]
+===== Further prerequisites
+
+* The trainer must have access to accredited training material to use it as example on how to provide a training.
+* This material *might* be provided by iSAQB GmbH.
+
+[CAUTION]
+====
+There is an ongoing discussion about whether the training material currently distributed by iSAQB GmbH (reference slide set) should be mandatory to be used as an example in T3 trainings. This could be made available to T3 trainers specifically for this purpose. From the point of view of internationalization, this makes sense, but there are also arguments against it. We are in the process of forming an opinion and collecting pro and con arguments.
+
+*Pro's*
+
+* We understand why a standardized slide deck is a good thing for the international market. New trainers outside DACH will very likely use it and should be trained with it.
+
+*Con's*
+
+* Limits options and freedom of choice for T3 trainers.
+* Can not be acquired for usage inside DACH, therefore many existing trainers do not know it.
+* Trainers know their own material very well and can give hands-on-examples on how to use it.
+
+*Alternative Solutions*
+
+* It should be a mandatory part of the course description to specify which training material is used as an example. This gives training participants a basis for evaluating whether this or another T3 training is useful for them.
+====
+
+
 
 // end::EN[]
 
