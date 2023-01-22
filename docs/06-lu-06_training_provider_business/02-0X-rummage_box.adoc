@@ -1,0 +1,32 @@
+:sectnums!:
+
+// tag::EN[]
+
+[discrete]
+=== Rummage Box
+
+[CAUTION]
+====
+This section contains a lot of unsorted stuff from the original overview document from NextCloud. It should be inserted where appropriate and cleaned up. What doesn't fit should be deleted.
+====
+
+[discrete]
+==== Notes from NextCloud
+
+* finding customers, registering participants, completing the iSAQB reporting requirements
+*  "How to organize my business as trainer or training provider." (This is clearly out of scope for the training but this topic might come up and we should advise on how to handle this.)
+* What to do when exams are not included in the training?
+* Contact point from iSAQB to get the slide deck notification and updates
+* Contact point from iSAQB for any query related to training and training material as well as for overall work as a Training Provider and Trainer
+* Self-promotion" may need to be separated but would be enormously helpful for internationalization.
+* iSAQB reporting requirements and fee reporting
+* Announcing Trainings ( e.g. adding course dates to the iSAQB website)
+
+// end::EN[]
+
+:sectnums:
+
+// tag::REMARK[]
+// just to get rid of a warning in the build process
+// end::REMARK[]
+

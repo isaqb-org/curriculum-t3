@@ -1,0 +1,14 @@
+// tag::EN[]
+[discrete]
+=== Takeaways for students
+// end::EN[]
+
+// tag::REMARK[]
+[sidebar]
+A short (!) summary of the LUs content from the learners perspective.
+This is the TL;DR of relevant information that should be conveyed to learners.
+// end::REMARK[]
+
+// tag::EN[]
+TBD - SHOULD be provided - your content here
+// end::EN[]

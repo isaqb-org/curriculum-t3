@@ -1,0 +1,52 @@
+// header file for curriculum section 3: Didactics, Methods, Tools and Best Practices
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::EN[]
+== LU03 - Didactics, Methods, Tools and Best Practices
+// end::EN[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+// end::EN[]
+
+// tag::REMARK[]
+[IMPORTANT]
+====
+Enter reasonable times for duration and practice time.
+====
+// end::REMARK[]
+
+
+// Use comments to hide parts that you don't want to fill in yet.
+// But please, don't delete them.
+
+// tag::REMARK[]
+include::01-metadata-life_cycle.adoc[{include_configuration}]
+// end::REMARK[]
+
+include::02-0X-rummage_box.adoc[{include_configuration}]
+
+include::02-01-topic.adoc[{include_configuration}]
+
+include::02-02-purpose.adoc[{include_configuration}]
+
+include::02-03-learning_objectives.adoc[{include_configuration}]
+
+include::02-04-takeaways.adoc[{include_configuration}]
+
+include::02-05-important.adoc[{include_configuration}]
+
+include::02-06-discussion_points.adoc[{include_configuration}]
+
+include::02-07-donts.adoc[{include_configuration}]
+
+include::02-08-references.adoc[{include_configuration}]
+
+include::03-didactis_and_transfer.adoc[{include_configuration}]
+
+include::04-preparation.adoc[{include_configuration}]
+
+include::05-success_factors_risks.adoc[{include_configuration}]

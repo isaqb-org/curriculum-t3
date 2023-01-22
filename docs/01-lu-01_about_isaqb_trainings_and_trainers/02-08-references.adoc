@@ -1,0 +1,13 @@
+// tag::EN[]
+[discrete]
+===  Reference material and resources for learners and trainers
+// end::EN[]
+
+// tag::REMARK[]
+[sidebar]
+Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via `<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
+// end::REMARK[]
+
+// tag::EN[]
+TBD - SHOULD be provided, good references are always helpful - your content here
+// end::EN[]

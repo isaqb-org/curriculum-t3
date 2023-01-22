@@ -45,7 +45,27 @@ include::00b-basics/00-basics.adoc[{include_configuration}]
 
 <<<
 :sectnums:
+include::01-lu-01_about_isaqb_trainings_and_trainers/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::02-lu-02_conveying_the_t3_curriculum/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::03-lu-03_didactics_methods_tools/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::04-lu-04_structure_and_planning/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
 include::05-lu-05_example_scenarios_and_exercises/00-structure.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::06-lu-06_training_provider_business/00-structure.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

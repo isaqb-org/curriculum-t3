@@ -1,0 +1,37 @@
+:sectnums!:
+
+// tag::EN[]
+
+[discrete]
+=== Rummage Box
+
+[CAUTION]
+====
+This section contains a lot of unsorted stuff from the original overview document from NextCloud. It should be inserted where appropriate and cleaned up. What doesn't fit should be deleted.
+====
+
+[discrete]
+==== Notes from NextCloud
+
+* Purpose 
+** Even while having a solid background on Software Architecture is a prerequisite for participating in a T3T and becoming a trainer, not all T3P will know every detail of the FL curriculum's content. During a T3 training, the T3 trainer as well as the T3 participants have to find what gaps to cover and which concepts to explore in greater detail.
+** One possibility to do this is by going through a slide set for a foundation level training, explaining to the T3P how things are presented, what has to be emphasized, what show stoppers to expect, etc. AND by letting the T3P having a go at  doing this by themselves, e.g. by handing out parts of the training to them and by providing feedback.
+** Also: The FL curriculum is basically a collection of things to teach and does not explain them in great detail. As there is no normative body of knowledge regarding the engineering science of SWA, for some concepts there is no consolidate view on the topic. So the iSAQB's view (or sometimes the multitude of views) have to be conveyed.
+
+* Learning objectives
+** T3P are - for each FL curriculum LG - able to explain the concepts described in there, and if applicable explain that there are different concepts out there.
+** T3P should be able to explain this in the flow of the curriculum and/or a course structure. (e.g. notions of Quality Requirements vs. NFR)
+
+* Explaining test format, time frame, and scoring
+* Best practices for teaching
+* How to handle Advanced Level questions.
+* Effective use of materials provided by iSAQB e.g. curriculum, glossary and mock exam. Relationship between learning objectives and exam questions.
+
+// end::EN[]
+
+:sectnums:
+
+// tag::REMARK[]
+// just to get rid of a warning in the build process
+// end::REMARK[]
+

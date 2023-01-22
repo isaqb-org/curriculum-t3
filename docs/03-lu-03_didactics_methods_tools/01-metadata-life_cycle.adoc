@@ -1,0 +1,36 @@
+// tag::REMARK[]
+// tag::EN[]
+
+:sectnums!:
+
+[discrete]
+=== Metadata and Lifecycle Information
+
+The following meta data and life cycle information concerning this specific learning unit is only
+included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
+
+|===
+| Status and version of this learning unit     | *DRAFT v0.01*
+| This LU is based on the LU template revision | *v0.03 from 2021-11-09*
+|===
+
+[discrete]
+==== Authors, Contributors, Reviewers 
+
+* Alexander Lorz (ALZ, Author)
+
+[discrete]
+==== Revision History for this Learning Unit
+
+Please use reverse chronological order. Most recent changes are on top.
+
+[cols="4,^3,^2,20"]
+|===
+| 2023-01-22 | v0.01 | ALZ | transfer contents from T3WG NextCloud
+|===
+
+:sectnums:
+
+// end::EN[]
+// end::REMARK[]
+

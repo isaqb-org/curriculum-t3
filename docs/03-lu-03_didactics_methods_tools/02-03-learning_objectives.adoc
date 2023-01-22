@@ -1,0 +1,27 @@
+// tag::EN[]
+[discrete]
+=== Learning Objectives
+// end::EN[]
+
+// tag::REMARK[]
+[sidebar]
+The learning objective(s) that are covered by the LU. Try to formulate learning goals as a learning outcome by using the formula “Behavior + Concept or Skill = Learning Outcome” (see Bowman, Training from the Back of the room, chapter “Begin with the end”). E. g. “Future trainers can adapt a learning unit to the target audience and can explain the necessary adaptation steps.”
+// end::REMARK[]
+
+// tag::EN[]
+[discrete]
+[[LG-3-1]]
+==== LG 3-1: Your first learning goal
+TBD - LGs MUST be provided - your content here
+
+[discrete]
+[[LG-3-2]]
+==== LG 3-2: Your second learning goal
+TBD
+
+[discrete]
+[[LG-3-3]]
+==== LG 3-3: Your third learning goal
+TBD
+
+// end::EN[]
