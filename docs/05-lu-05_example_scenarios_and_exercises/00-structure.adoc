@@ -1,14 +1,10 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
+// header file for curriculum section 5: FIFTH LEARNING UNIT
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::EN[]
-== LU01 - Designing and Evaluating Example Scenarios
+== LU05 - Designing and Evaluating Example Scenarios and Exercises
 // end::EN[]
-
-// tag::REMARK[]
-WARNING: Numbering of learning units is provisionary, the T3WG has not yet decided on a specific sequence.
-// end::REMARK[]
 
 // tag::EN[]
 |===
@@ -25,6 +21,8 @@ Enter reasonable times for duration and practice time.
 
 include::01-metadata-life_cycle.adoc[{include_configuration}]
 
+include::02-0X-rummage_box.adoc[{include_configuration}]
+
 include::02-01-topic.adoc[{include_configuration}]
 
 include::02-02-purpose.adoc[{include_configuration}]
@@ -40,8 +38,6 @@ include::02-06-discussion_points.adoc[{include_configuration}]
 include::02-07-donts.adoc[{include_configuration}]
 
 include::02-08-references.adoc[{include_configuration}]
-
-include::02-0X-rummage_box.adoc[{include_configuration}]
 
 include::03-didactis_and_transfer.adoc[{include_configuration}]
 

@@ -11,7 +11,7 @@ The following meta data and lifecycle information concerning this specific leari
 included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
 
 |===
-| Status and version of this learning unit     | *DRAFT v0.02*
+| Status and version of this learning unit     | *DRAFT v0.03*
 | This LU is based on the LU template revision | *v0.02 from 2021-11-07*
 |===
 
@@ -28,6 +28,7 @@ Please use reverse chronological order. Most recent changes are on top.
 
 [cols="4,^3,^2,20"]
 |===
+| 2023-01-22 | v0.03 | ALZ | transfer remaining content from NextCloud, move rummage box to top
 | 2022-11-05 | v0.02 | ALZ | rewrite/transfer to asciidoc
 | 2022-03-28 | v0.01 | HDE | Initial Draft
 |===
