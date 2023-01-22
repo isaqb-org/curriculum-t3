@@ -125,6 +125,11 @@ A training day can thus be split easily as follows:
 |===
 
 
+These are just ideas that can be changed to your or your students preference or as the situation demands.
+Some trainers like to offer longer breaks and end their trainings later.
+
+It is usually not a good idea to have more than six hours of learning in a day, as students will start to be overwhelmed and won't be able to properly process the input any more.
+
 // end::EN[]
 
 // --------------------------------------------------------------------
