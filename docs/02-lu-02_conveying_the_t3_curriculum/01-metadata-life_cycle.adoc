@@ -10,7 +10,7 @@ The following meta data and life cycle information concerning this specific lear
 included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
 
 |===
-| Status and version of this learning unit     | *DRAFT v0.01*
+| Status and version of this learning unit     | *DRAFT v0.02*
 | This LU is based on the LU template revision | *v0.03 from 2021-11-09*
 |===
 
@@ -26,6 +26,7 @@ Please use reverse chronological order. Most recent changes are on top.
 
 [cols="4,^3,^2,20"]
 |===
+| 2023-03-13 | v0.02 | ALZ | move most things from rummage box to the appropriate location; formulate topic, purpose, formulate LG 2-1 to LG 2-3, provide a stub for LG 2-4 to 2-7, provide sections takeaway and important.
 | 2023-01-22 | v0.01 | ALZ | transfer contents from T3WG NextCloud
 |===
 

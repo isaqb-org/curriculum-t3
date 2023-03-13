@@ -9,5 +9,6 @@ What are particular important points that a T3 trainer should highlight or prior
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+This is *not* a LU intended to be delivered as a standalone part of an T3 training.
+Instead, it runs throughout the course and should be used as a vehicle to explain the learning goals of the other units and give participants a chance to practice what they have learned in a real-life setting while simultaneously exploring the contents of the T3 curriculum. 
 // end::EN[]

@@ -9,5 +9,5 @@ Coarse grained topic or learning area, e.g., “Executing the Training”, “Re
 // end::REMARK[]
 
 // tag::EN[]
-TBD - MUST be provided - your content here
+Consolidate participants' comprehension of the FL curriculum by illustrating and practicing how its content can be taught.
 // end::EN[]

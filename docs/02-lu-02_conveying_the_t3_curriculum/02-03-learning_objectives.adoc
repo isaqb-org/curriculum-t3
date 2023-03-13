@@ -11,17 +11,59 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 // tag::EN[]
 [discrete]
 [[LG-2-1]]
-==== LG 2-1: Your first learning goal
-TBD - LGs MUST be provided - your content here
+==== LG 2-1: Profound understanding and broad knowledge of the FL curriculum
+T3P can explain the content described in each learning goal of the FL curriculum and respond to in-depth questions from learners.
 
 [discrete]
 [[LG-2-2]]
-==== LG 2-2: Your second learning goal
-TBD
+==== LG 2-2: Handle incomplete, fuzzy, or inconsistent  knowledge
+For content where there is no clear consensus in the software architecture community or where there is a significant difference between academic and practical viewpoints, the T3 participants can explain and contrast the different perspectives and explain the reasons behind them.
 
 [discrete]
 [[LG-2-3]]
-==== LG 2-3: Your third learning goal
-TBD
+==== LG 2-3: Turning the FL curriculum into an FL course
+T3P should understand and be able to demonstrate by themselfes how everything that's described in LU3 to LU5 is applied to the FL curriculum.
+They should  recognize best practices in action and be able to apply didactial methods and tools (see LU3) to the content of the FL curriculum by seeing how it's done and by doing it themselfes.
+The should be able to recognize and demonstrate how course structuring and planing is applied to the FL curriculem (see LU4) and how examples tie in (see LU5).
+
+[discrete]
+[[LG-2-4]]
+==== LG 2-4: Common challengens and questions
+* What is usually difficult with the FL curriculum
+* How to handle those situations
+* What questions to anticipate
+* ...
+
+
+[discrete]
+[[LG-2-5]]
+==== LG 2-5: Handling advanced Level questions
+* How to handle Advanced Level questions.
+* ...
+
+[discrete]
+[[LG-2-6]]
+==== LG 2-6: Effective FL exam preparation
+* Explaining test format, time frame, and scoring
+* Explaining exam organization and exam procedure
+* Relationship between learning objectives and exam questions.
+* ...
+
+[discrete]
+[[LG-2-7]]
+==== LG 2-7: Use of materials provided by iSAQB
+* Effective use of materials provided by iSAQB
+* e.g. curriculum, glossary and mock exam. 
+* How (and when) materials change over time
+* How to contribute to the FL curriculum and other material 
+* ...
+
+
+
 
 // end::EN[]
+
+
+
+
+

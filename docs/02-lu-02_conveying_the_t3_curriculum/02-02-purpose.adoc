@@ -10,5 +10,14 @@ You can’t convey to many different things at once,
 // end::REMARK[]
 
 // tag::EN[]
-TBD - MUST be provided - your content here
+While future FL trainers should have a solid professional background on software archtitecture as a prerequisite, not everyone will know every detail of the FL curriculum's content.
+During a T3 training session, possible knowledge gaps must be identified and addressed.
+
+In addition, the FL curriculum only defines *what* should be taught, but does not provide explanations of the content or best practices for teaching it. 
+In some areas of the discipline of software architecture, there is not yet a normative body of knowledge or a consolidated view on certain concepts and methods. 
+So it is a matter of communicating the iSAQB's view (or sometimes the multiplicity of views).
+
+Last but not least, the learning goals of the FL curriculum also provide a good basis for demonstrating how content can be didactically prepared and delivered and allows participants to actively practice this.
+Therefore, piggybacking the other learning goals of the curriculum on the basis of this learning unit is recommended.
+
 // end::EN[]
