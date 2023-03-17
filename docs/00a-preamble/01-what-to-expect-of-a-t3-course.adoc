@@ -1,17 +1,26 @@
-// tag::DE[]
-=== Was vermittelt ein Train-the-Trainer-Kurs?
-
-// end::DE[]
-
 // tag::EN[]
-=== What is taught in a Train-the-Trainer course?
+=== What does a Train-the-Trainer course convey?
 
+A train-the-trainer course will enable (future) trainers to efficiently and effectively deliver high-quality training content in iSAQB-accredited trainings.
 
+It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB CPSA Foundation-Level trainings, but does not exclude software architecture trainers at other levels from participating.
 
+It enables new iSAQB accredited trainers a fast start into training delivery, improves the quality of their training delivery by providing efficient knowledge transfer and exam preparation to their training participants.
+
+It offers continuing education for accredited software architecture trainers and prepares future software architecture trainers for accreditation.
+
+It communicates iSAQB’s values and objectives to new trainers.
+
+It conveys knowledge of didactics, education methodology, and psychology of learning with relevance towards iSAQB-accredited software architecture trainings.
+
+It assure that trainers are well-versed in the iSAQB CPSA curricula and share a common understanding of the corresponding concepts.
+Share best practices and lessons learned from experienced trainers.
+
+However, a T3 training is neither a guarantee for passing the trainer accreditation nor is it a prerequisite.
 
 
 // end::EN[]
 
 // tag::REMARK[]
-TODO
+// just to get rid of a warning in the build process
 // end::REMARK[]

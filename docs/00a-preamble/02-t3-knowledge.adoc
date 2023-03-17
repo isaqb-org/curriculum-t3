@@ -5,14 +5,15 @@
 
 // tag::EN[]
 === What can T3 training graduates do?
-CPSA-A graduates can:
+T3 graduates can:
 
-- Independently and methodically design medium to large IT systems
-- In IT systems of medium to high criticality, assume technical and content-related responsibility
-- Conceptualize, design, and document actions to achieve quality requirements and support development teams in the implementation of these actions
-- Control and execute architecture-relevant communication in medium to large development teams
+- Independently and methodically create and deliver software architecture trainings that comply with the iSAQB curriculae.
+- Anticipate and handle challenging training situations.
+- Adapt, structure and delivery their training in a way that participants enjoy the training experience beyound delivering just the contents.
+- Reflect their training performance and enable further development and improvement of their training skills.
+- Communicate and live the values of iSAQB.
 // end::EN[]
 
 // tag::REMARK[]
-TODO, this is just the template from the advanced module.
+// just to get rid of a warning in the build process
 // end::REMARK[]
