@@ -1,21 +1,3 @@
-// tag::DE[]
-=== Struktur des Lehrplans und empfohlene zeitliche Aufteilung
-
-[cols="<,>", options="header"]
-|===
-| Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
-| |
-| Summe | 960 (16h)
-
-|===
-
-// end::DE[]
 
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
@@ -24,26 +6,19 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+|  LU01 - About iSAQB Trainings and Trainers  | 60
+| LU02 - Mastering and Conveying the FL Curriculum | 720
+| LU03 - Didactics, Methods, Tools and Best Practices  | 300
+| LU04 - Structure and Planning | 90
+| LU05 - Designing and Evaluating Example Scenarios and Exercises | 210
+| LU06 - Running a Training Provider Business (optional) | 30
 | |
-| Total | 960 (16h)
+| Total | 1410 (23.5h)
 
 |===
 
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====
+//
 // end::REMARK[]
