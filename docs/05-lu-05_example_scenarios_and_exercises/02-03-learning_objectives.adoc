@@ -29,4 +29,15 @@ They also should be able to explain the consequences of having unrelated example
 [[LG-5-4]]
 ==== LG 5-4: Know sources for example scenarios
 T3 participants should be able to name possible sources for example scenarios.
+
+[discrete]
+[[LG-5-5]]
+==== LG 5-5:  Provide stand-alone exercises
+T3P should be able to select, design and/or adapt exercises that
+* support selected topics and LGs,
+* provide a change of the didactical method,
+* activate participants.
+
+
+
 // end::EN[]
