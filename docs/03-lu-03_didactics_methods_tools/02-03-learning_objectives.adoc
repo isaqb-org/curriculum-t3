@@ -11,17 +11,31 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 // tag::EN[]
 [discrete]
 [[LG-3-1]]
-==== LG 3-1: Your first learning goal
-TBD - LGs MUST be provided - your content here
+==== LG 3-1: Adult learning and blooms taxonomy
+T3P should be able to describe the unique characteristics and special challenges of adult learning.
+They should know the training relevant parts of blooms taxonomy and be able to map the needs and expectations of participants to them.
 
 [discrete]
 [[LG-3-2]]
-==== LG 3-2: Your second learning goal
-TBD
+==== LG 3-2: Learning Objectives and benefits
+T3P should be able to explain the importance and benefits of clear, concise, and verifiyable learning objectives.
+They should be able to formulate such learning objectives and to show how each part of the traing maps to one or or more of them.
 
 [discrete]
 [[LG-3-3]]
-==== LG 3-3: Your third learning goal
-TBD
+==== LG 3-3: Attention and learning performance
+T3P should know factors that influence attention of learners (e.g. usual attention span, time of day, relation to breaks, tiredness, ... ) and be able to adjust the timing of the training and changes in training methods accordingly.
+
+[discrete]
+[[LG-3-4]]
+==== LG 3-4: Distraction factors and learning performance
+T3P should recognize and be able to describe distraction factors that impact learning. They know and can apply strategies to reduce and/or mitigate distractions. 
+
+[discrete]
+[[LG-3-5]]
+==== LG 3-5: Learning methods
+T3P should be able to describe and apply a variety of different learning methods and can describe how a change of method influences learning outcomes.
+
+
 
 // end::EN[]

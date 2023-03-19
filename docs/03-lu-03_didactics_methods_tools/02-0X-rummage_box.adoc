@@ -14,11 +14,7 @@ This section contains a lot of unsorted stuff from the original overview documen
 ==== Notes from NextCloud
 
 * Learning theory
-** Specific challenges and peculiarities of adult learning in general. Overview of learning methods and learning effect
-** Importance of learning objectives and benefit argumentation. Service value proposition and learner expectation
-** Taxonomy levels according to Bloom
-** Overview: Determine content, reduce content, structuring lessons (just a general overview, more details later in LU04)
-** Attention in the classroom. Distraction factors. Learning performance of students throughout the day/course.
+
 ** Dealing with very heterogeneous group of participants with different skill levels and backgrounds. Training younger and/or less experienced participants
 ** How to handle incomplete/inconsistent knowledge and different perspectives on topics and concepts.
 

@@ -10,7 +10,7 @@ The following meta data and life cycle information concerning this specific lear
 included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
 
 |===
-| Status and version of this learning unit     | *DRAFT v0.01*
+| Status and version of this learning unit     | *DRAFT v0.02*
 | This LU is based on the LU template revision | *v0.03 from 2021-11-09*
 |===
 
@@ -18,6 +18,9 @@ included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
 ==== Authors, Contributors, Reviewers 
 
 * Alexander Lorz (ALZ, Author)
+* Peter Goetz (PGZ, Author)
+* Ralf Leipner (RLR, Author)
+* Alfredo Delgado Sánchez (ASZ) 
 
 [discrete]
 ==== Revision History for this Learning Unit
@@ -26,6 +29,7 @@ Please use reverse chronological order. Most recent changes are on top.
 
 [cols="4,^3,^2,20"]
 |===
+| 2023-03-17 | v0.02 | ALZ, PGZ, RLR, ASZ | formulate LG3-1 to 3-5 from notes
 | 2023-01-22 | v0.01 | ALZ | transfer contents from T3WG NextCloud
 |===
 
