@@ -176,4 +176,4 @@ so the contributors of those projects basically contributed to this one, too.
 [[copyrighted]]
 == Licensing and Copyright
 
-include::LICENSE.adoc[]
+include::license-copyright/LICENSE.adoc[]
