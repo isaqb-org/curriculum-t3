@@ -1,0 +1,24 @@
+// tag::EN[]
+=== Important terms and concepts
+
+Communicating about requirements on trainers for a train-the-trainer course training other trainers comes as confusing as it gets. 
+Therefor we have to clarfy a few very basic concepts and terms right from the start:
+
+Train-the-Trainer (T3):: As we will use the term "Train-the-Trainer" extensively, it makes sense to abbreviate it to "T3", as in T3 trainer, T3 training, etc.
+
+T3 training, T3 course:: A T3 training or T3 course enables (future) trainers to efficiently and effectively deliver iSAQB-accredited trainings. This curriculum describes the contents of such a training.
+
+T3 trainer:: A person delivering a T3 training.
+
+T3 participant (T3P):: A person participating in a T3 training with the intention to deliver better CPSA trainings.
+
+CPSA training:: Any iSAQB accredited Foundation Level (FL) or Advanced Level (AL) training. Most T3P will attend a T3 training to get started delivering FL trainings.
+
+CPSA student, student:: We are going to use the term "student" or "CPSA student" exclusively for refering to persons attending a CPSA training (the future customers of the T3P) in order to distinguish them from T3 participants.
+
+Don't get lost in abstraction.
+This curriculum describes how to deliver a good T3 training.
+A good T3 training teaches how a good CPSA training should be conducted to make students happy.
+
+
+// end::EN[]

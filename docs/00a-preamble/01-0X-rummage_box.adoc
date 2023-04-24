@@ -85,10 +85,6 @@ Let's build a quality tree, operationalize it for motivating LUs.
 
 Migration of document https://confluence.isaqb.org/x/VQPhB
 
-[discrete]
-===== Wording and Terms
-
-For clarification: A T3 trainer is a person who conducts/gives a train-the-trainer training. This does not mean the training participants or future foundation-level trainers.
 
 
 // end::EN[]

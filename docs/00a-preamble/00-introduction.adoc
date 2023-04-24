@@ -6,6 +6,8 @@
 == Introduction: General information about the T3 course
 // end::EN[]
 
+include::01-00-important-terms.adoc[{include_configuration}]
+
 include::01-0X-rummage_box.adoc[{include_configuration}]
 
 include::01-what-to-expect-of-a-t3-course.adoc[{include_configuration}]
