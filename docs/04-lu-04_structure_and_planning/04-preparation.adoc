@@ -17,6 +17,7 @@ e.g, 10 min research and collect materials on the day before the session
 
 // tag::EN[]
 Setting up a course structure that works usually takes time and needs to be refined a few times based on experiences from trainings.
+It is also never finished, as every given instance of a class gives you new insights and ideas on how to improve the training experience for your students.
 // end::EN[]
 
 // --------------------------------------------------------------------
@@ -32,7 +33,9 @@ e.g. 30 minutes 1 day in advance
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+Students in this training are trainer candidates and should be familiar with the topics of the course in order to understand them from the meta level perspective needed to teach it.
+This usually means they need theoretical knowledge and practical expertise in the topics covered by the course they are about to teach, which they might want to refresh by skim-reading seminal works you suggest.
+Sometimes it is helpful to prepare with some of the teaching and didactics theory mentioned in the reference material above.
 // end::EN[]
 
 // --------------------------------------------------------------------
@@ -48,7 +51,7 @@ e.g. 15 minutes shared discussion
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+Trainer candidates should discuss set lengths, different training formats and different customer contexts that need adaptations, therefore some time for these discussions should be available.
 // end::EN[]
 
 

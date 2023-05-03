@@ -22,7 +22,7 @@ T3P can design and document a didactical path (what is covered in what order? wh
 [discrete]
 [[LG-4-3]]
 ==== LG 4-3: Modularize contents
-T3P can break down learning content along the didactic path into modular units with clearly delineated learning objectives and appropriate granularity.
+T3P can break down learning content along the didactic path into modular units with clearly delineated learning objectives and appropriate granularity, taking into account their audience and their context, the form of the training (online, in-person, or hybrid), and making use of different didactical methods (see LU 3).
 
 
 [discrete]
@@ -35,6 +35,12 @@ To do so, they should be able to explain how different didactical methods comple
 [[LG-4-5]]
 ==== LG 4-5: Adapt timetable
 T3P are able to adapt the schedule to the learning progress and the needs of the participants, if necessary, also during the training.
+
+[discrete]
+[[LG-4-6]]
+==== LG 4-6: Organize pre and post training experience
+T3P are able to create material that students can use to prepare for the training in order to use the time in the training as efficiently as possible.
+They are also able to wrap up the information after the training and set the students on their continuing path of learning. 
 
 // end::EN[]
 

@@ -36,6 +36,7 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 - [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[bowman,Bowman 2008]]] Bowman, S. (2008): Training from the Back of the Room!: 65 Ways to Step Aside and Let Them Learn. Pfeiffer, 2008
 
 **C**
 
@@ -48,6 +49,10 @@ ATTENTION: labels have to be non-numeric.
 **K**
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+
+**M**
+
+- [[[mccarthy,McCarthy 2000]]] McCarthy, B.: About Teaching: 4MAT in the Classroom (English Edition). About Learning, Inc., 2000
 
 **S**
 

@@ -28,6 +28,7 @@ Please use reverse chronological order. Most recent changes are on top.
 
 [cols="4,^3,^2,20"]
 |===
+| 2023-05-03 | v0.03 | PGZ | review and enhance LU content
 | 2023-01-22 | v0.02 | ALZ | integrate LU contents from confluence document by KDN and PGZ +
 (https://confluence.isaqb.org/x/aQGYB)
 | 2023-01-22 | v0.01 | ALZ | transfer contents from T3WG NextCloud

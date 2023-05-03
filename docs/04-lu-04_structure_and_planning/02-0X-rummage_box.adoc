@@ -13,17 +13,8 @@ This section contains a lot of unsorted stuff from the original overview documen
 [discrete]
 ==== Notes from NextCloud
 
-* Course structure (Peter Goetz )
-** Make clear that the structure of a curriculum (e.g. the FL curriculum) is not necessarily a good structure for learning content. T3 participants should be able to explain why that is the case (different objectives and stakeholders, e.g. maintainability vs. understandability) and how to handle this problem (e.g. provide mapping between LGs and course topics).
-** Overarching time planning (curriculum, mapping learning objectives to learning units).
-* Training planning 
-** Training planning, including time frames and methods (for frontal teaching, exercises, …)  incl. method and media mapping
-** Structuring online, offline (and possibly hybrid or blended learning) trainings
-* Time management : How to stick to your time plan and/or improve it.
 * Training Organization
-** Preparation and follow-up of a training (before and after the training and between training sessions)
-** Preparing and distributing training material and/or additional material to read before the training.
-** Registration process (What could possibly go wrong?)
+** Registration process (What could possibly go wrong?) *_PG 2023-05-03: Should we really cover this? I see this more as a training provider issue than a trainer issue and would leave it out._* 
 
 // end::EN[]
 
