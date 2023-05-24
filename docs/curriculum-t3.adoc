@@ -65,7 +65,7 @@ include::05-lu-05_example_scenarios_and_exercises/00-structure.adoc[{include_con
 
 <<<
 :sectnums:
-include::06-lu-06_training_provider_business/00-structure.adoc[{include_configuration}]
+include::06-lu-06_operational_aspects/00-structure.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

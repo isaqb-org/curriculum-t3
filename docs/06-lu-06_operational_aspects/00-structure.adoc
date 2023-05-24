@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::EN[]
-== LU06 - Running a Training Provider Business (optional)
+== LU06 - Operational Aspects (optional)
 // end::EN[]
 
 // tag::EN[]
