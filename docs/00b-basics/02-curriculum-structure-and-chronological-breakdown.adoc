@@ -6,14 +6,14 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-|  LU01 - About iSAQB Trainings and Trainers  | 60
+| LU01 - About iSAQB Trainings and Trainers  | 30-60
 | LU02 - Mastering and Conveying the FL Curriculum | 720
-| LU03 - Didactics, Methods, Tools and Best Practices  | 300
-| LU04 - Structure and Planning | 90
-| LU05 - Designing and Evaluating Example Scenarios and Exercises | 210
-| LU06 - Running a Training Provider Business (optional) | 30
+| LU03 - Didactics, Methods, Tools and Best Practices  | 240-360
+| LU04 - Structure and Planning | 90-120
+| LU05 - Designing and Evaluating Example Scenarios and Exercises | 180-240
+| LU06 - Operational Aspects (optional) | 0-60
 | |
-| Total | 1410 (23.5h)
+| Total | 1260-1560 (21-26h)
 
 |===
 
