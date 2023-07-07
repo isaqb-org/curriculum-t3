@@ -80,23 +80,38 @@ class RenderCurriculumTask extends AsciidoctorTask {
 }
 
 task buildDocs {
-    group 'Documentation'
-    description 'Grouping task for generating all languages in several formats'
-    dependsOn "includeLearningObjectives", "renderDE", "renderEN"
+  group 'Documentation'
+  description 'Grouping task for generating all languages in several formats'
+  //dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN"
+  dependsOn "includeLearningObjectives", "renderNoRemarksEN", "renderWithRemarksEN"
 }
 
-task renderDE(type: RenderCurriculumTask,
-        constructorArgs: [curriculumFileName, versionDate, "DE"]) {
-    doLast {
-        addSuffixToCurriculum("-de")
-    }
+task renderNoRemarksDE(type: RenderCurriculumTask,
+    constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
+  doLast {
+    addSuffixToCurriculum("-de")
+  }
 }
 
-task renderEN(type: RenderCurriculumTask,
-        constructorArgs: [curriculumFileName, versionDate, "EN"]) {
-    doLast {
-        addSuffixToCurriculum("-en")
-    }
+task renderWithRemarksDE(type: RenderCurriculumTask,
+     constructorArgs: [curriculumFileName, versionDate, "DE", true]) {
+  doLast {
+    addSuffixToCurriculum("-remarks-de")
+  }
+}
+
+task renderNoRemarksEN(type: RenderCurriculumTask,
+    constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
+  doLast {
+    addSuffixToCurriculum("-en")
+  }
+}
+
+task renderWithRemarksEN(type: RenderCurriculumTask,
+     constructorArgs: [curriculumFileName, versionDate, "EN", true]) {
+  doLast {
+    addSuffixToCurriculum("-remarks-en")
+  }
 }
 
 apply from: 'scripts/includeLearningObjectives.gradle'
