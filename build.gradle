@@ -38,7 +38,7 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
     @Inject
-    RenderCurriculumTask(WorkerExecutor we, String curriculumFileName, String versionDate, String language) {
+    RenderCurriculumTask(WorkerExecutor we, String curriculumFileName, String versionDate, String language, boolean renderWithRemarks) {
         super(we)
 
         forkOptions {
@@ -69,6 +69,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
                 'currentDate'       : versionDate,
                 'language'          : language,
                 'curriculumFileName': curriculumFileName,
+                'withRemarks'       : renderWithRemarks,
                 'debug_adoc'        : false,
                 'pdf-stylesdir'     : '../pdf-theme/themes',
                 'pdf-fontsdir'      : '../pdf-theme/fonts',
@@ -82,23 +83,9 @@ class RenderCurriculumTask extends AsciidoctorTask {
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  //dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN"
   dependsOn "includeLearningObjectives", "renderNoRemarksEN", "renderWithRemarksEN"
 }
 
-task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
-  doLast {
-    addSuffixToCurriculum("-de")
-  }
-}
-
-task renderWithRemarksDE(type: RenderCurriculumTask,
-     constructorArgs: [curriculumFileName, versionDate, "DE", true]) {
-  doLast {
-    addSuffixToCurriculum("-remarks-de")
-  }
-}
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
     constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
