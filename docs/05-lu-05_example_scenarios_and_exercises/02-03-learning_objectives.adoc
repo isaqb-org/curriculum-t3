@@ -5,7 +5,7 @@
 
 // tag::REMARK[]
 [sidebar]
-The learning objective(s) that are covered by the LU. Try to formulate learning goals as a learning outcome by using the formula “Behavior + Concept or Skill = Learning Outcome” (see Bowman, Training from the Back of the room, chapter “Begin with the end”). E. g. “Future trainers can adapt a learning unit to the target audience and can explain the necessary adaptation steps.”
+The learning objective(s) that are covered by the LU. Try to formulate learning goals as a learning outcome by using the formula “Behavior + Concept or Skill = Learning Outcome” (see Bowman, Training from the Back of the room, chapter “Begin with the end”). E.g. “Future trainers can adapt a learning unit to the target audience and can explain the necessary adaptation steps.”
 // end::REMARK[]
 
 // tag::EN[]
@@ -22,7 +22,7 @@ T3 participants can understand and describe the needs of their audience and from
 [discrete]
 [[LG-5-3]]
 ==== LG 5-3: Evaluate example scenarios
-T3 participants should be able to explain the importance of having a consistent and high quality example scenario and also be able to verify or evaluate that their example meets the required quality standard. 
+T3 participants should be able to explain the importance of having a consistent and high quality example scenario and also be able to verify or evaluate that their example meets the required quality standard.
 They also should be able to explain the consequences of having unrelated example scenarios.
 
 [discrete]
@@ -35,7 +35,7 @@ T3 participants should be able to name possible sources for example scenarios.
 ==== LG 5-5:  Provide stand-alone exercises
 T3P should be able to select, design and/or adapt exercises that
 * support selected topics and LGs,
-* provide a change of the didactical method,
+* provide a change of the didactic method,
 * activate participants.
 
 
