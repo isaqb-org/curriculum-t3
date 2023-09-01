@@ -16,20 +16,20 @@ T3P should be able to systematically work out what the prerequisites and needs o
 
 [discrete]
 [[LG-4-2]]
-==== LG 4-2: Design didactial path
-T3P can design and document a didactical path (what is covered in what order? what builds on each other?) through the learning material, compare it with the learning objectives of the curriculum and, if necessary, identify gaps (what is not yet included) or content that goes beyond the curriculum.
+==== LG 4-2: Design didactic path
+T3P can design and document a didactic path (what is covered in what order? what builds on each other?) through the learning material, compare it with the learning objectives of the curriculum and, if necessary, identify gaps (what is not yet included) or content that goes beyond the curriculum.
 
 [discrete]
 [[LG-4-3]]
 ==== LG 4-3: Modularize contents
-T3P can break down learning content along the didactic path into modular units with clearly delineated learning objectives and appropriate granularity, taking into account their audience and their context, the form of the training (online, in-person, or hybrid), and making use of different didactical methods (see LU 3).
+T3P can break down learning content along the didactic path into modular units with clearly delineated learning objectives and appropriate granularity, taking into account their audience and their context, the form of the training (online, in-person, or hybrid), and making use of different didactic methods (see LU 3).
 
 
 [discrete]
 [[LG-4-4]]
 ==== LG 4-4: Create timetable
 T3P can schedule these units and and choose appropriate methods or methodological building blocks to deliver the learning units.
-To do so, they should be able to explain how different didactical methods complement each other over the duration of a course and over the flow of a day.
+To do so, they should be able to explain how different didactic methods complement each other over the duration of a course and over the flow of a day.
 
 [discrete]
 [[LG-4-5]]
@@ -40,7 +40,7 @@ T3P are able to adapt the schedule to the learning progress and the needs of the
 [[LG-4-6]]
 ==== LG 4-6: Organize pre and post training experience
 T3P are able to create material that students can use to prepare for the training in order to use the time in the training as efficiently as possible.
-They are also able to wrap up the information after the training and set the students on their continuing path of learning. 
+They are also able to wrap up the information after the training and set the students on their continuing path of learning.
 
 // end::EN[]
 

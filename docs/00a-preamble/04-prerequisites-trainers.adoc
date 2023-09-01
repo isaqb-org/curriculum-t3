@@ -4,16 +4,16 @@
 
 T3T should
 
-* Substantially exceed the prerequisites required for T3P and active iSAQB trainers. 
-* Have a multi-year active history of providing iSAQB acredited trainings.  
-* Be able to draw from a didactical education or a long standing history of beeing an active trainer.
+* Substantially exceed the prerequisites required for T3P and active iSAQB trainers.
+* Have a multi-year active history of providing iSAQB accredited trainings.
+* Be able to draw from a didactic education or a long-standing history of being an active trainer.
 * Have cleared the FL exam or already work as an accredited iSAQB trainer.
 
 [discrete]
 ===== Further prerequisites
 
 * The T3 trainer must have access to accredited training material to use it as example on how to provide a training.
-* This material *might* be provided by iSAQB GmbH if a trainers can not use theire own material.
+* This material *might* be provided by iSAQB GmbH if a trainers can not use their own material.
 * When providing a T3 training, the type and source of training material used as an example *must* be stated in the training announcement.
 
 
