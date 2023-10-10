@@ -31,54 +31,50 @@ Let's build a quality tree, operationalize it for motivating LUs.
 [discrete]
 ===== 1. Subject matter competence
 
-* The trainer is familiar with the subject matter. 
-* He/she is an expert, has knowledge of the subject matter.
+* The trainer is an expert and has knowledge of the subject matter.
 * The trainer can refer to practical experience.
-* He/she keeps his knowledge up to date. This is the solid basis of any training. Without expert knowledge, the trainer cannot demonstrate confidence. 
-* The trainer should in broad have more expert knowledge than the participants. This is at least easier. 
-* Typical questions are: 
-* What should I know about the subject?
-* What should my expertise on the topic cover?
-* Is my expertise up to date?
-* What questions might be asked during the training?
-
+* The trainer practices continuously in his field of expertise.
+* The trainer keeps himself informed about new trend and developments in the area of expertise.
+* The trainer keeps his knowledge up to date. This is the solid basis of any training.
+Without expert knowledge, the trainer cannot demonstrate confidence.
+* The trainer should in broad have more expert knowledge than the participants.
+* The trainer is sure which expertise is in high demand at the moment and can anticipate with a high probability what questions might be asked during the training.
 
 [discrete]
 ===== 2. Methodical competence
 
-* How do I design a training course?  - Trainers can design a training course.
-* How do I communicate content in a comprehensible way?
-* How do adults learn?
-* How do I achieve the teaching objectives?
-* How do I make a training lively and sustainable?
-* How do I prepare content in a way that is suitable for the brain?
-* Which media do I use?
-* Which methods can I use?
-* How do I keep participants "on their toes"?
-* How do I speak in an interesting and varied way?
-* How do I use my body language?
-* How do I motivate participants?
+* The trainer has a clear concept regarding the design and structuring of the course.
+* The trainer is able to convey the content in an understandable way.
+* The trainer knows the specifics of adult learning.
+* The trainer is able to ensure the achievement of the learning objectives even for different learning types and qualification levels.
+* The trainer designs a stimulating, varied and sustainable training.
+* The trainer knows how to prepare learning content in a way that is suitable for the learners brain.
+* The trainer uses different media appropriately.
+* The trainer knows and uses different teaching methods and techniques.
+* Trainers can constantly motivate course participants and keep their attention focused.
+* The trainer knows how to communicate in an interesting, varied way.
+* The trainer knows how to use body language and, if necessary, how to interpret the students' body language.
 
 
 [discrete]
 ===== 3. Social competence
 
-* How do I build a good group atmosphere?
-* How do I shape group processes?
-* How do I deal with conflicts and troublemakers?
-* How do I give feedback?
-* How do I build a good relationship with participants?
+* The trainer is able to create a pleasant learning atmosphere.
+* The trainer can optimally integrate the course participants into the teamwork.
+* The trainer knows how group processes and group dynamics in general work.
+* The trainer is able to recognize and resolve conflicts.
+* The trainer knows how to deal with troublemakers.
+* The trainer practices a professional feedback culture.
+* The trainer is able to build a good relationship with the participants.
 
 [discrete]
 ===== 4. Personality competence
 
-* How do I motivate myself?
-* How do I achieve a good mood at the beginning of the training?
-* How do I radiate confidence and competence?
-* How do I deal with stress?
-* How do I use my personal resources optimally in the training?
-
-
+* The trainer can motivate himself even in difficult situations.
+* The trainer starts the training with a motivational kickoff for all participants.
+* The trainer exudes confidence, professionalism and competence.
+* The trainer also knows how to avoid and mitigate stress.
+* The trainer uses his personal resources in the training in an optimal and balanced way?
 
 [discrete]
 ==== Notes from Confluence
