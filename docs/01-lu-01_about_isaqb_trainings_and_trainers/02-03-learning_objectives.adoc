@@ -11,17 +11,38 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 // tag::EN[]
 [discrete]
 [[LG-1-1]]
-==== LG 1-1: Your first learning goal
-TBD - LGs MUST be provided - your content here
+==== LG 1-1: Understanding the objectives of a T3 Training
+T3P should be able to reflect on the purpose of a T3 training.
+They can explain the difference between a T3 training and a conventional CPSA training.
+T3P can identify and express their own learning goals regarding the T3 training.
 
 [discrete]
 [[LG-1-2]]
-==== LG 1-2: Your second learning goal
-TBD
+==== LG 1-2: iSAQB values and principles
+T3P can explain the values and principles of the iSAQB to their students and interested third parties.
+They can explain why the iSAQB strives to provide high-quality trainings with substantial and immediate practical value.
+
 
 [discrete]
 [[LG-1-3]]
-==== LG 1-3: Your third learning goal
-TBD
+==== LG 1-3: Value of an iSAQB training
+T3P can describe the target audience of iSAQB trainings and the added value such trainings deliver to the target audiences.
+They can name the key differentiators of iSAQB trainings and describe what distinguishes iSAQB trainings from comparable or similar training offers.
+They can explain the importance of tailoring trainings to the target market and audience.
+They can provide examples of different target markets (e.g. automotive, telco, finance, ...) and name strategies on how to cope with their needs by e.g. by using specialized or tailored examples and shifting the focus of the training.
+
+[discrete]
+[[LG-1-4]]
+==== LG 1-4: Obligations of trainers and training organizations
+T3P can describe the obligations that are implied on trainers and training organization by acting according to iSAQBs values.
+They can provide examples and counter examples for the expected behavior, demanour and business practices.
+T3P can name resources for acquiring more information about managing workload on the trainer side, improving mental strength, self-talk regulation, relaxation methods, and self-regulation techniques.
+
+[discrete]
+[[LG-1-5]]
+==== LG 1-5: Further development of trainer competencies
+T3P can describe the importance of developing and improving their skills and competencies.
+They can name and describe strategies and resources for continuous improvement of the training.
+
 
 // end::EN[]
