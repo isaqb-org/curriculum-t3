@@ -47,30 +47,30 @@ They are also able to wrap up the information after the training and set the stu
 
 // tag::DE[]
 [discrete]
-[[LG-4-1]]
-==== LG 4-1: Ableitung von Lernzielen aus Voraussetzungen
+[[LZ-4-1]]
+==== LZ 4-1: Ableitung von Lernzielen aus Voraussetzungen
 T3P sollen in der Lage sein, systematisch zu erarbeiten, was die Voraussetzungen und Bedürfnisse ihrer Zielgruppe sind und diese in zielgruppenspezifischen Lernzielen zu beschreiben.
 
 [discrete]
-[[LG-4-2]]
-==== LG 4-2: Didaktischen Pfad gestalten
+[[LZ-4-2]]
+==== LZ 4-2: Didaktischen Pfad gestalten
 T3P können einen didaktischen Pfad (Was wird in welcher Reihenfolge behandelt? Was baut aufeinander auf?) durch den Lernstoff entwerfen und dokumentieren, diesen mit den Lernzielen des Curriculums abgleichen und ggfs. Lücken (was ist noch nicht enthalten) bzw. über das Curriculum hinausgehende Inhalte zu identifizieren.
 
 
 [discrete]
-[[LG-4-3]]
-==== LG 4-3: Inhalte modularisieren
+[[LZ-4-3]]
+==== LZ 4-3: Inhalte modularisieren
 T3P können die Lerninhalte entlang des didaktischen Pfades in modulare Einheiten mit klar abgegrenzten Lernzielen und angemessener Granularität zerlegen.
 
 [discrete]
-[[LG-4-4]]
-==== LG 4-4: Zeitplan erstellen
+[[LZ-4-4]]
+==== LZ 4-4: Zeitplan erstellen
 T3P können diese Einheiten in einen Zeitplan einordnen und und geeignete Methoden bzw. methodische Bausteine wählen um die Lerneinheiten zu vermitteln. Dazu sollten sie in der Lage sein, zu erklären, wie sich verschiedene didaktische Methoden über die Dauer eines Kurses und über den Ablauf eines Tages hinweg ergänzen.
 
 
 [discrete]
-[[LG-4-5]]
-==== LG 4-5: Zeitplan anpassen
+[[LZ-4-5]]
+==== LZ 4-5: Zeitplan anpassen
 T3P sind in der Lage den Zeitplan ggfs. auch während des Trainings an den Lernfortschritt und die Bedürfnisse der TN anzupassen.
 
 // end::DE[]
