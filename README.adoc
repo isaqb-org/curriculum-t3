@@ -46,6 +46,31 @@ git clone https://github.com/isaqb-org/curriculum-t3.git --recursive
 . Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK) via `./gradlew`.
 . Once the "BUILD SUCCESSFUL" is shown, you can review the build result under `./build/index.html`
 
+== On writing style
+
+To keep writing style consistent accross multiple iSAQB documents, please apply the styles used in the Foundation Level Curriculum.
+
+=== Heading Capitalization
+
+Use title case for all headings:
+
+* capitalize: first and last word, nouns, pronouns, adjectives, verbs
+* lowercase: articles and prepositions
+
+When in doubt, opt for https://capitalizemytitle.com/style/Chicago/[Chicago Style].
+
+=== Bullet Point Lists
+
+To unify upper/lowercase within the (EN) version, we use the _Chicago manual of style proposal_":
+
+* short bullet items don't get a full-stop
+* next one starts lowercase
+* if bullets are phrases or fragments, dont use punctuation
+* if and only if an item is a really long sentence which deserves a full stop, or consists of several sentences, then we use it.
+* Only then does an item start with uppercase.
+
+For a possible German (DE) version, don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
+
 
 == Maintainers
 
