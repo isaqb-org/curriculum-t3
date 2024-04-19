@@ -10,5 +10,6 @@ You can’t convey to many different things at once,
 // end::REMARK[]
 
 // tag::EN[]
-TBD - MUST be provided - your content here
+Trainers need to be aware of the operational concept of iSAQB trainings and the ensuing obligations to trainers and training providers. This is to ensure trainings hold up to theses standards worldwide.
+Some trainers will be training providers as well and should know the rules for imparting trainings.
 // end::EN[]

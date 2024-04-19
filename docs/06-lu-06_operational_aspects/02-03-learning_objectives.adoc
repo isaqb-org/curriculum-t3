@@ -11,8 +11,40 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 // tag::EN[]
 [discrete]
 [[LG-6-1]]
+
 ==== LG 6-1: Your first learning goal
-TBD - LGs MUST be provided - your content here
+
+T3P can describe how training providers organize trainings and can check if the organization of trainings adhere to iSAQBs best practices and standards and is within the legal framework given by iSAQB.
+
+They should be able to apply quality control of the standards if they work as a consultant to the training provider or as a training provider themselves. 
+
+- Licensing
+- Rules 
+- Codes of conduct
+- Fees
+- How does the accreditation process work (for training providers and trainers)
+
+
+- What can be changed on the training/material
+- contract, payment conditions
+- Venue selection, Location, Group size limitation
+
+* finding customers, registering participants, completing the iSAQB reporting requirements
+
+*  "How to organize my business as trainer or training provider." (This is clearly out of scope for the training but this topic might come up and we should advise on how to handle this.)
+
+* use of material
+- Use and distribution of course material
+* Contact point from iSAQB to get the slide deck notification and updates
+* Contact point from iSAQB for any query related to training and training material as well as for overall work as a Training Provider and Trainer
+
+Examination
+* What to do when exams are not included in the training?
+
+* Self-promotion" may need to be separated but would be enormously helpful for internationalization.
+* iSAQB reporting requirements and fee reporting
+* Announcing Trainings ( e.g. adding course dates to the iSAQB website)
+
 
 [discrete]
 [[LG-6-2]]
