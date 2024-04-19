@@ -11,6 +11,6 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 
 // tag::EN[]
 * To successfully lay out a course structure, it is necessary to both look at the curriculum content and decide how to structure it in a meaningful way
-* Your course should tell a story instead of just transport facts
-* Take care of the macro and micro structure (days and sets)
+* Your course should tell a story instead of just delivering slide content.
+* Take care of the macro and micro structure - training days and modular units within training days (sets).
 // end::EN[]

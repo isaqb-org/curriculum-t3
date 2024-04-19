@@ -13,7 +13,7 @@ T3T should
 ===== Further prerequisites
 
 * The T3 trainer must have access to accredited training material to use it as example on how to provide a training.
-* This material *might* be provided by iSAQB GmbH if a trainers can not use their own material.
+* This material *might* be provided by iSAQB GmbH if trainers cannot use their own material.
 * When providing a T3 training, the type and source of training material used as an example *must* be stated in the training announcement.
 
 

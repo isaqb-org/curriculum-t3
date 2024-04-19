@@ -17,14 +17,14 @@ T3P can explain the content described in each learning goal of the FL curriculum
 [discrete]
 [[LG-2-2]]
 ==== LG 2-2: Handle incomplete, fuzzy, or inconsistent  knowledge
-For content where there is no clear consensus in the software architecture community or where there is a significant difference between academic and practical viewpoints, the T3 participants can explain and contrast the different perspectives and explain the reasons behind them.
+For content where there is no clear consensus in the software architecture community or where there is a significant difference between academic and practical viewpoints, the T3P can explain and contrast the different perspectives and explain the reasons behind them.
 
 [discrete]
 [[LG-2-3]]
 ==== LG 2-3: Turning the FL curriculum into an FL course
-T3P should understand and be able to demonstrate by themselves how everything that's described in LU3 to LU5 is applied to the FL curriculum.
-They should  recognize best practices in action and be able to apply didactic methods and tools (see LU3) to the content of the FL curriculum by seeing how it's done and by doing it themselves.
-They should be able to recognize and demonstrate how course structuring and planing is applied to the FL curriculum (see LU4) and how examples tie in (see LU5).
+T3P should understand and be able to demonstrate by themselves how everything described in LU3 to LU5 is applied to the FL curriculum.
+They should  recognize best practices in action and be able to apply didactic methods and tools (see LU3) to the content of the FL curriculum by observing how it's done and practicing it themselves.
+They should be able to recognize and demonstrate how course structuring and planning are applied to the FL curriculum (see LU4) and how examples tie in (see LU5).
 
 [discrete]
 [[LG-2-4]]

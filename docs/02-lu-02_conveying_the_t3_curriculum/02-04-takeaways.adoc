@@ -11,5 +11,5 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 
 // tag::EN[]
 The curriculum is neither a textbook nor a blueprint for a FL course.
-But it will help you to define the scope and structure of your own course and by getting a walkthrough to an existing FL course provided by an experienced trainer (wich is how a T3 training should be delivered) you will get the hang of what is important and how to deliver it yourself to your audience.
+But it will help you to define the scope and structure of your own course and by getting a walkthrough to an existing FL course provided by an experienced trainer (which is how a T3 training should be delivered) you will get the hang of what is important and how to deliver it yourself to your audience.
 // end::EN[]

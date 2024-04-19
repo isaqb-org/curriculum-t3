@@ -18,13 +18,13 @@ They should know the training relevant parts of blooms taxonomy and be able to m
 [discrete]
 [[LG-3-2]]
 ==== LG 3-2: Learning Objectives and benefits
-T3P should be able to explain the importance and benefits of clear, concise, and verifiyable learning objectives.
-They should be able to formulate such learning objectives and to show how each part of the traing maps to one or or more of them.
+T3P should be able to explain the importance and benefits of clear, concise, and verifiable learning objectives.
+They should be able to formulate such learning objectives and to show how each part of the training maps to one or more of them.
 
 [discrete]
 [[LG-3-3]]
 ==== LG 3-3: Attention and learning performance
-T3P should know factors that influence attention of learners (e.g. usual attention span, time of day, relation to breaks, tiredness, ... ) and be able to adjust the timing of the training and changes in training methods accordingly.
+T3P should know factors that influence attention of learners (e.g. usual attention span, time of day, relation to breaks, tiredness, ... ) and be able to adjust the timing of the training and adapt training methods accordingly.
 
 [discrete]
 [[LG-3-4]]

@@ -17,7 +17,7 @@ Fundamental disruptive factors (what could irritate, offend, trigger people abou
 
 // tag::EN[]
 * Acceptance challenge – Considering participants years of experience and designation.
-* Sunken costs. People cant let go of their scenario even if its not a good one because they invested a lot of time
+* Sunken costs. People cannot let go of their scenario even if it's not a good one because they invested a lot of time
 // end::EN[]
 
 // --------------------------------------------------------------------

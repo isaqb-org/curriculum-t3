@@ -10,6 +10,6 @@ You can’t convey to many different things at once,
 // end::REMARK[]
 
 // tag::EN[]
-Enable trainers to provide exercices and a consistent example scenario throughout the course which fits the audience, connects to their previous knowledge, and delivers the learning goals of the FL curriculum.
+Enable trainers to provide exercises and a consistent example scenario throughout the course which fits the audience, connects to their previous knowledge, and delivers the learning goals of the FL curriculum.
 Enable trainers to evaluate the quality of example scenarios and exercises created or chosen by them.
 // end::EN[]

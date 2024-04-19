@@ -3,9 +3,9 @@
 
 T3P should:
 
-* Completely fullfill all  prerequisites listed for participants in a Foundation Level course.
+* Completely fulfill all  prerequisites listed for participants in a Foundation Level course.
 * Having cleared the FL exam is not mandatory but advisable.
-* Posess extensive and repeated experience in providing presentations and trainings for medium sized groups of adult learners. 
+* Possess extensive and repeated experience in providing presentations and trainings for medium sized groups of adult learners. 
 * Have basic background knowledge of didactics, e.g. from studies of this discipline or equivalent activities.
 * Be able to draw from extensive practical experience working in software industry or hands on with design/development assignments, substantially surpassing those required for FL participants.
 

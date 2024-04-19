@@ -48,7 +48,7 @@ Without expert knowledge, the trainer cannot demonstrate confidence.
 * The trainer knows the specifics of adult learning.
 * The trainer is able to ensure the achievement of the learning objectives even for different learning types and qualification levels.
 * The trainer designs a stimulating, varied and sustainable training.
-* The trainer knows how to prepare learning content in a way that is suitable for the learners brain.
+* The trainer knows how to prepare learning content in a way that is suitable for the course participants.
 * The trainer uses different media appropriately.
 * The trainer knows and uses different teaching methods and techniques.
 * Trainers can constantly motivate course participants and keep their attention focused.
@@ -73,14 +73,8 @@ Without expert knowledge, the trainer cannot demonstrate confidence.
 * The trainer can motivate himself even in difficult situations.
 * The trainer starts the training with a motivational kickoff for all participants.
 * The trainer exudes confidence, professionalism and competence.
-* The trainer also knows how to avoid and mitigate stress.
-* The trainer uses his personal resources in the training in an optimal and balanced way?
-
-[discrete]
-==== Notes from Confluence
-
-Migration of document https://confluence.isaqb.org/x/VQPhB
-
+* The trainer knows how to avoid and mitigate stress.
+* The trainer uses resources in the training in an optimal and balanced way.
 
 
 // end::EN[]

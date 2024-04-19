@@ -12,5 +12,5 @@ You can’t convey to many different things at once,
 // tag::EN[]
 Breaking a course curriculum down into a course structure "that works" and brings value to students.
 Course structures "that work" take into consideration the prerequisites and needs of the participants, the required coverage of the curriculum, and the time constraints and imposed on the course - and possibly the implications of the course format (presence vs. online vs. online over a longer time period).
-At the end of the day, a specific time table with course units, exercises and possible additional activities has to be created.
+At the end of the day, a specific timetable with course units, exercises and possible additional activities must be created.
 // end::EN[]

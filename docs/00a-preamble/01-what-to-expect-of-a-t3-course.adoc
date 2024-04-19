@@ -1,4 +1,9 @@
 // tag::EN[]
+
+=== What is the Train-the-Trainer course about?
+
+TODO: Describe what is the role of a T3 training in the process of becoming a trainer
+
 === What does a Train-the-Trainer course convey?
 
 A train-the-trainer course will enable (future) trainers to efficiently and effectively deliver high-quality training content in iSAQB-accredited trainings by sharing best practices and lessons learned from experienced trainers.

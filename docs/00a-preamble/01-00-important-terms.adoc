@@ -2,7 +2,7 @@
 === Important terms and concepts
 
 Communicating about requirements on trainers for a train-the-trainer course training other trainers comes as confusing as it gets. 
-Therefor we have to clarfy a few very basic concepts and terms right from the start:
+Therefor we have to clarify the basic concepts and terms right from the start:
 
 Train-the-Trainer (T3):: As we will use the term "Train-the-Trainer" extensively, it makes sense to abbreviate it to "T3", as in T3 trainer, T3 training, etc.
 
@@ -10,11 +10,11 @@ T3 training, Train-the-Trainer training, T3 course:: A T3 training or T3 course 
 
 T3 trainer:: A person delivering a T3 training.
 
-T3 participant (T3P):: A person participating in a T3 training with the intention to deliver better CPSA trainings.
+T3 participant (T3P):: A person participating in a T3 training with the intention to deliver better CPSA (Certified Professional for Software Architecture) trainings.
 
-CPSA training:: Any iSAQB accredited Foundation Level (FL) or Advanced Level (AL) training. Most T3P will attend a T3 training to get started delivering FL trainings.
+CPSA training:: Any iSAQB accredited Foundation Level (CPSA-F^(R)^) or Advanced Level (CPSA-A^(R)^) training. Most T3P will attend a T3 training to get started delivering FL trainings.
 
-CPSA student, student, CPSA training participant (CTP):: We are going to use the term "student" or "CPSA student" exclusively for refering to persons attending a CPSA training (the future customers of the T3P) in order to distinguish them from T3 participants.
+CPSA student, student, CPSA training participant (CTP):: We are going to use the term "student" or "CPSA student" exclusively for referring to persons attending a CPSA training (the future customers of the T3P) in order to distinguish them from T3 participants.
 
 [#img-t3-context] 
 image::../images/t3-context.svg[Basic terms in the context of a Train-the-Trainer training,450, align="center"]

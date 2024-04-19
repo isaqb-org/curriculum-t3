@@ -16,25 +16,25 @@ T3P should be able to systematically work out what the prerequisites and needs o
 
 [discrete]
 [[LG-4-2]]
-==== LG 4-2: Design didactic path
+==== LG 4-2: Design didactic path or roadmap
 T3P can design and document a didactic path (what is covered in what order? what builds on each other?) through the learning material, compare it with the learning objectives of the curriculum and, if necessary, identify gaps (what is not yet included) or content that goes beyond the curriculum.
 
 [discrete]
 [[LG-4-3]]
 ==== LG 4-3: Modularize contents
-T3P can break down learning content along the didactic path into modular units with clearly delineated learning objectives and appropriate granularity, taking into account their audience and their context, the form of the training (online, in-person, or hybrid), and making use of different didactic methods (see LU 3).
+T3P can break down learning content along the didactic path into modular units (sets) with clearly delineated learning objectives and appropriate granularity, taking into account their audience and their context, the form of the training (online, in-person, or hybrid), and making use of different didactic methods (see LU 3).
 
 
 [discrete]
 [[LG-4-4]]
 ==== LG 4-4: Create timetable
-T3P can schedule these units and and choose appropriate methods or methodological building blocks to deliver the learning units.
+T3P can schedule these units and choose appropriate methods or methodological building blocks to deliver the learning units.
 To do so, they should be able to explain how different didactic methods complement each other over the duration of a course and over the flow of a day.
 
 [discrete]
 [[LG-4-5]]
 ==== LG 4-5: Adapt timetable
-T3P are able to adapt the schedule to the learning progress and the needs of the participants, if necessary, also during the training.
+T3P are able to adapt the time schedule to the learning progress and the needs of the participants, if necessary, also during the training.
 
 [discrete]
 [[LG-4-6]]

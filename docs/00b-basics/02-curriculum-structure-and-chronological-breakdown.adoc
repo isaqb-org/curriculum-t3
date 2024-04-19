@@ -2,6 +2,13 @@
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
+
+TODO: Describe overall structure and that it is divided into learning Units
+- describe how everything ties into LU02
+
+[#img-t3-learning-units] 
+image::../images/t3-learning-units.svg[Overview of the T3 learning units,450, align="center"]
+
 [cols="<,>", options="header"]
 |===
 | Content
