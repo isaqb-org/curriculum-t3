@@ -9,5 +9,5 @@ Coarse grained topic or learning area, e.g., “Executing the Training”, “Re
 // end::REMARK[]
 
 // tag::EN[]
-How to create or select, adapt, and evaluate example scenarios and excercises so that they fit the target group.
+Creating or selecting, adapting, and evaluating example scenarios and exercises so that they fit the target group and training goals.
 // end::EN[]

@@ -15,10 +15,7 @@ This section contains a lot of unsorted stuff from the original word document an
 
 _former LU 9. LU Designing and Evaluating Example Scenarios (Hiral Dave Alexander Lorz)_
 
-* Purpose
-** Enable trainers to provide a consistent example scenario throughout the course which fits the audience, that is it connects to their previous knowledge and delivers the learning goals of the FL curriculum.
-** Enable trainers to evaluate the quality of example scenarios created or chosen by them.
-	
+
 * Learning objectives 
 ** T3 participants are able to Identify and present relevant example scenarios that help their students to understand the underlying concepts of software architecture.
 ** T3 participants can understand and describe the needs of their audience and from this knowledge derive audience-specific requirements on the example scenario(s) they are going to present.

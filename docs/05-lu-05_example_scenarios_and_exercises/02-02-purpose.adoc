@@ -12,4 +12,6 @@ You can’t convey to many different things at once,
 // tag::EN[]
 Enable trainers to provide exercises and a consistent example scenario throughout the course which fits the audience, connects to their previous knowledge, and delivers the learning goals of the FL curriculum.
 Enable trainers to evaluate the quality of example scenarios and exercises created or chosen by them.
+Creating a link between theory and practical application facilitates the engagement of learners, improves practical problem solving skills, and ensures immediate feedback on learning content.
 // end::EN[]
+
