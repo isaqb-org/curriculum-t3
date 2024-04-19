@@ -9,5 +9,5 @@ Coarse grained topic or learning area, e.g., “Executing the Training”, “Re
 // end::REMARK[]
 
 // tag::EN[]
-TBD - MUST be provided - your content here
+Provide a basic introduction to didactics and learning theory as well as to methods, tools, and best practices for delivering trainings.
 // end::EN[]
