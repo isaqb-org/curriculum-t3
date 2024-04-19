@@ -22,7 +22,11 @@
 
 - [[[bowman,Bowman2008]]] Sharon Bowman: Training from the Back of the Room! 65 Ways to Step Aside and Let Them Learn. Pfeiffer, 2008
 
+- [[[ford,Ford+2022]]] Ford, Neal; Richards, Mark; Sadalage, Pramod; Dehghani, Zhamak. Software Architecture: The Hard Parts (English Edition) 
+
 - [[[hase,Hase+2000]]] Hase, Stewart & Kenyon, Chris. (2000). From andragogy to heutagogy. Ultibase Articles. 5. 1-10. https://webarchive.nla.gov.au/awa/20010220130000/http://ultibase.rmit.edu.au/Articles/dec00/hase2.htm
+
+- [[[isaqbFLC,iSAQB-FLC]]] iSAQB Foundation Level Curriculum - todo: add canonical URL
 
 - [[[kruchten,Kruchten1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
@@ -36,5 +40,7 @@
 - [[[libstruc,LibStruc]]] Liberating Structures to plan and facilitate exercises and make the training more interactive: https://www.liberatingstructures.com/
 
 - [[[mccarthy,McCarthy2000]]] McCarthy, B.: About Teaching: 4MAT in the Classroom (English Edition). About Learning, Inc., 2000
+
+- [[[richards,Richards+2020]]] Richards, Mark; Ford, Neal.: Fundamentals of Software Architecture: An Engineering Approach (English Edition), 2020
 
 - [[[starke,Starke2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
