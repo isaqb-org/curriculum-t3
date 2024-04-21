@@ -45,6 +45,8 @@
 
 - [[[starke,Starke2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
 
+- [[[tttgithub,T3GitHub]]] GitHub Repository of the Train-the-Trainer Curriculum. https://github.com/isaqb-org/curriculum-t3
+
 // tag::EN[]
 // Keep to avoid warning for missing EN tag
 // end::EN[]

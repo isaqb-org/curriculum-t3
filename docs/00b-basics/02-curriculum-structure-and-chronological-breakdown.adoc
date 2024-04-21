@@ -2,12 +2,13 @@
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
+This curriculum is structured into learning units (LUs) based on subject areas.
+The following diagram and table describe the division of the curriculum into learning units and their recommended duration.
+As described in LU02, the content of this learning unit is often used to convey the learning objectives of the other learning units. 
 
-TODO: Describe overall structure and that it is divided into learning Units
-- describe how everything ties into LU02
 
 [#img-t3-learning-units] 
-image::../images/t3-learning-units.png[Overview of the T3 learning units,450, align="center"]
+image::../images/t3-learning-units.png[Overview of the T3 learning units,550, align="center"]
 
 [cols="<,>", options="header"]
 |===

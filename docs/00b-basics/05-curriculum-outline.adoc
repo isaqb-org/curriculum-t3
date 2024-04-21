@@ -13,13 +13,15 @@ Dieser Abschnitt skizziert damit auch die zu erwerbenden Kenntnisse in entsprech
 // tag::EN[]
 === Structure of Learning Units
 
-The individual sections of the curriculum are described according to the following structure:
+Each LU always contains the following sections:
 
-- **Terms/principles**: Essential core terms of this topic.
-- **Teaching/practice time**: Defines the minimum amount of teaching and practice time that must be spent on this topic or its practice in an accredited training course.
-- **Learning goals**: Describes the content to be conveyed including its core terms and principles.
+ * **Topic:** Coarse grained topic or learning area.
+ * **Purpose:** The intention behind a LU.
+ * **Learning Objectives:** A list of learning objectives or learning goals (LGs) that are covered by the LU. We strive to formulate learning goals as a learning outcome by using the formula “Behavior + Concept or Skill = Learning Outcome” according to <<bowman>>. 
 
-This section therefore also outlines the skills to be acquired in corresponding training courses.
+LUs *may* contain additional sections describing takeaways for students, important discussion points, things to avoid when presenting the topic, references, and recommendations for didactics, knowledge transfer, and preparation.
+If you would like to add or enhance these sections, please submit suggestions in the form of issues in the GitHub repository of the T3 curriculum <<tttgithub>>.
+
 // end::EN[]
 
 
