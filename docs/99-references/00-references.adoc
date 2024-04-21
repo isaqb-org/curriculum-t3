@@ -44,3 +44,10 @@
 - [[[richards,Richards+2020]]] Richards, Mark; Ford, Neal.: Fundamentals of Software Architecture: An Engineering Approach (English Edition), 2020
 
 - [[[starke,Starke2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
+
+// tag::EN[]
+// Keep to avoid warning for missing EN tag
+// end::EN[]
+// tag::REMARK[]
+// Keep to avoid warning for missing REMARK tag
+// end::REMARK[]

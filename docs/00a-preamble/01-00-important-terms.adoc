@@ -26,6 +26,8 @@ This curriculum describes how to deliver a T3 training.
 A T3 training teaches how a CPSA training should be conducted.
 ====
 
-
-
 // end::EN[]
+
+// tag::REMARK[]
+// Keep to avoid warning for missing REMARK tag
+// end::REMARK[]
