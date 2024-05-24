@@ -12,11 +12,10 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 [discrete]
 [[LG-6-1]]
 
-==== LG 6-1: Your first learning goal
+==== LG 6-1: Your first learning goal-Training management standards
+T3P can describe how training providers organize trainings and can check if the organization of trainings adhere to iSAQBs best practices and standards and is within the legal framework given by iSAQB and is executed with ethical conduct.
 
-T3P can describe how training providers organize trainings and can check if the organization of trainings adhere to iSAQBs best practices and standards and is within the legal framework given by iSAQB.
-
-They should be able to apply quality control of the standards if they work as a consultant to the training provider or as a training provider themselves. 
+They should be able to apply quality control of the standards if they work as a consultant to the training provider or as a training provider themselves, which includes understanding of accreditation of trainer and training provider, rules (likely training mode, group size etc), code of conduct. To summarize, T3P must understand-How does the accreditation process work (for training providers and trainers). 
 
 - Licensing
 - Rules 
@@ -48,12 +47,14 @@ Examination
 
 [discrete]
 [[LG-6-2]]
-==== LG 6-2: Your second learning goal
-TBD
+==== LG 6-2: Your second learning goal-Effective use of Intellectual Property
+T3P can describe the effective use of licensed course material, which involves understanding its value, contract with iSAQB, payment conditions (new and for updates), limitations of amendments, distribution limitations and be aware of unauthorized use or infringement, 
 
 [discrete]
 [[LG-6-3]]
-==== LG 6-3: Your third learning goal
-TBD
+==== LG 6-3: Your third learning goal-Effective communication with iSAQB
+T3P can explain about the iSAQB communication process for any query related to training and training material as well as for overall engagement as a training provider and trainer.
+T3P can explain about the process to communicate with iSAQB GmbH for few facts which includes register as TP on iSAQB site, annual declaration of trainings, announcing the training dates and getting it listed on iSAQB official site, procuring the new slide deck, contact point from iSAQB to inquire for the updates of curriculum and foundation level course material, iSAQB reporting as TP & renewal requirements, understanding about Exam certifying partner and their role, promotions and available support.
+
 
 // end::EN[]
