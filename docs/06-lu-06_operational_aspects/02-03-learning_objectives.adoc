@@ -42,16 +42,17 @@ T3P can explain about the process to communicate with iSAQB GmbH for few facts w
 [[LG-6-4]]
 ==== LG 6-4: Training venue organization
 
-- Venue selection, Location, Group size limitation
-- communication with venue 
-- common pitfalls
+T3P can understand the uniform approach for the training venue selection, management & customize it according to their needs.
+T3P gets aware of the various aspects of in-person training requirements, including:
+Group size limitations – understanding optimal number of participants for effective engagement, seating arrangements, stationary arrangement, logistics (if any like audio-visual equipment's, documents, mock exam & course material print outs etc), catering arrangements and common pitfalls/challenges faced during training events.
 
 
 [discrete]
 [[LG-6-5]]
 ==== LG 6-5: Exam organization
 
-- registering with certifiers
+T3P can understand and utilize the standard approach to collaborate with Exam certifying partners.
+T3P can develop guidelines and design a short session for the participants about "How to Prepare, Register and Appear for the Certification Exam". Thus, will ensure that participants are well-informed and confident throughout the training and certification process.
 
 
 
