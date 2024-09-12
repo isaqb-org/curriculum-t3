@@ -37,8 +37,8 @@ T3P should be able to select, design and/or adapt exercises that
 
 * support selected topics and LGs,
 * adapt the didactic method,
-* activate participants.
-
-
+* activates students’ participations
+* facilitates understanding of relation to CPSA-F important LGs and delineate the expected outcome
+* are covered at right context and within the timeline
 
 // end::EN[]
