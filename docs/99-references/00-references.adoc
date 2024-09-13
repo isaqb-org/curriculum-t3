@@ -10,9 +10,14 @@
 // ATTENTION: labels have to be non-numeric.
 // Keep in mind: The publication date of a source may change.
 
+
+
+
 - [[[aebliDeGrundformen,Aebli1983]]] Hans Aebli: Zwölf Grundformen des Lehrens
 
 - [[[aeblieDeDenkenA, Aeblie1993]]] Hans Aebli: Denken, das Ordnen des Tuns
+
+- [[[arc42, arc42]]] arc42, the open-source template for software architecture communication, online: <https://arc42.org>. Maintained on <https://github.com/arc42>
 
 - [[[bewirken,Bewirken]]] Das Methodenbuch für digitalen Unterricht https://www.bewirken.org/angebot/methodenbuch-print/
 
@@ -25,6 +30,8 @@
 - [[[ford,Ford+2022]]] Ford, Neal; Richards, Mark; Sadalage, Pramod; Dehghani, Zhamak. Software Architecture: The Hard Parts (English Edition) 
 
 - [[[hase,Hase+2000]]] Hase, Stewart & Kenyon, Chris. (2000). From andragogy to heutagogy. Ultibase Articles. 5. 1-10. https://webarchive.nla.gov.au/awa/20010220130000/http://ultibase.rmit.edu.au/Articles/dec00/hase2.htm
+
+- [[[arc42BE2, Hruschka+2021]]] Peter Hruschka, Ivan Kostov, Wolfgang Reimesch: arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT, published by Leanpub, <https://leanpub.com/arc42byexample-volume2A>. 
 
 - [[[isaqbFLC,iSAQB-FLC]]] iSAQB Foundation Level Curriculum - todo: add canonical URL
 
@@ -39,11 +46,18 @@
 // especially recommend the LS Menu
 - [[[libstruc,LibStruc]]] Liberating Structures to plan and facilitate exercises and make the training more interactive: https://www.liberatingstructures.com/
 
+- [[[katas2, Neward+]]] Ted Neward and contributors: Architectural Katas, <http://www.architecturalkatas.com/>.
+
 - [[[mccarthy,McCarthy2000]]] McCarthy, B.: About Teaching: 4MAT in the Classroom (English Edition). About Learning, Inc., 2000
+
+- [[[katas1, Richards+]]] Mark Richards, Neal Ford: Architectural Katas, <http://fundamentalsofsoftwarearchitecture.com/katas/>.
 
 - [[[richards,Richards+2020]]] Richards, Mark; Ford, Neal.: Fundamentals of Software Architecture: An Engineering Approach (English Edition), 2020
 
-- [[[starke,Starke2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
+- [[[arc42BE1, Starke+2023]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller und Hendrik Lösch: arc42 by Example - 3rd edition, published by Leanpub, <https://leanpub.com/arc42byexample>. 
+
+- [[[starke,Starke2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
+
 
 - [[[tttgithub,T3GitHub]]] GitHub Repository of the Train-the-Trainer Curriculum. https://github.com/isaqb-org/curriculum-t3
 

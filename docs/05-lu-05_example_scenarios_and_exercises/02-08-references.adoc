@@ -9,9 +9,8 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // end::REMARK[]
 
 // tag::EN[]
-To be added
-arc42 by example
-Sites like http://www.infoq.com for real time case scenarios.
+* The arc42 website <<arc42>> contains links to several online examples.
+* Both arc42 by Example books <<arc42BE1>>, <<arc42BE2>> provide description of different IT systems.
+* The architectural katas from Ted Neward <<katas2>> or Mark Richards and Neal Ford <<katas1>> might provide some inspiration. 
 
-<<bass>>, <<bachmann>>, <<kruchten>>, <<starke>>
 // end::EN[]

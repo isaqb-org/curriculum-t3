@@ -19,6 +19,22 @@ Suggestions and recommendations for presenting the topic, ideas for exercises, a
 * Start with the participants idea for example scenario.
 * How would they proceed? Any past experience of training that comes to mind and is helpful? 
 * Do they know any references that they might want to put to use?
+
+Example scenarios should demonstrate practical applications of CPSA-F topics, including but not limited to:
+
+* Stakeholders
+* Risks
+* Influencing factors
+* Pattern choice
+* Design constraints
+* Architecture methods (e.g. developing certain views)
+
+Scenarios should connect to Foundation Level Learning Goals but need not cover all topics exhaustively.
+
+Consider that scenario complexity presents a trade-off:
+
+* Simple scenarios: Quick to present, but may lack depth.
+* Domain-specific scenarios: Leverage existing knowledge and save time for those familiar with the domain, but may alienate others.
 // end::EN[]
 
 // --------------------------------------------------------------------
