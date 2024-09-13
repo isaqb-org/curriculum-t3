@@ -33,7 +33,7 @@ include::02-02-purpose.adoc[{include_configuration}]
 
 include::02-03-learning_objectives.adoc[{include_configuration}]
 
-// include::02-04-takeaways.adoc[{include_configuration}]
+include::02-04-takeaways.adoc[{include_configuration}]
 
 // include::02-05-important.adoc[{include_configuration}]
 
