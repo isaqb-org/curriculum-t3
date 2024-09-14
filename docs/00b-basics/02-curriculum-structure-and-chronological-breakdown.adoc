@@ -10,19 +10,44 @@ As described in LU02, the content of this learning unit is often used to convey 
 [#img-t3-learning-units] 
 image::../images/t3-learning-units.png[Overview of the T3 learning units,550, align="center"]
 
-[cols="<,>", options="header"]
+.T3 Curriculum Outline and Recommended Minimum Durations
+[cols="4,>1", options="header"]
 |===
-| Content
-| Recommended minimum duration (minutes)
-| LU01 - About iSAQB Trainings and Trainers  | 30-60
-| LU02 - Mastering and Conveying the FL Curriculum | 720
-| LU03 - Didactics, Methods, Tools and Best Practices  | 240-360
-| LU04 - Structure and Planning | 90-120
-| LU05 - Designing and Evaluating Example Scenarios and Exercises | 180-240
-| LU06 - Operational Aspects (optional) | 0-60
-| |
-| Total | 1260-1560 (21-26h)
+|Learning Unit and Key Skills |Duration (min)
 
+|*LU01: About iSAQB Trainings and Trainers* +
+Understand iSAQB's values, objectives, and value proposition. +
+Recognize trainer obligations and importance of continuous improvement.
+|30-60
+
+|*LU02: Mastering and Conveying the FL Curriculum* +
+Gain comprehensive understanding of the FL curriculum. +
+Develop skills to effectively teach content, handle challenging questions, and prepare students for exams.
+|720
+
+|*LU03: Didactics, Methods, Tools and Best Practices* +
+Learn fundamental didactic principles, teaching methods, and best practices +
+for effective knowledge transfer in software architecture training.
+|240-360
+
+|*LU04: Structure and Planning* +
+Develop skills to structure courses, create effective timetables, +
+and adapt content to participant needs while adhering to curriculum requirements.
+|90-120
+
+|*LU05: Designing and Evaluating Example Scenarios and Exercises* +
+Learn to create, adapt, and evaluate relevant example scenarios and exercises +
+that reinforce learning objectives and engage participants.
+|180-240
+
+|*LU06: Logistics and Operational Aspects of Trainings* +
+Understand operational aspects of organizing and delivering iSAQB trainings, +
+including venue selection, exam organization, and communication with iSAQB.
+|0-60
+
+| |
+| *Total* | *1260-1560 +
+(21-26 hours)*
 |===
 
 // end::EN[]
