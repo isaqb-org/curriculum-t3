@@ -2,7 +2,7 @@
 [discrete]
 === Requirements for providing a T3 training
 
-T3T should
+T3 trainers should
 
 * Substantially exceed the prerequisites required for T3P and active iSAQB trainers.
 * Have a multi-year active history of providing iSAQB accredited trainings.
