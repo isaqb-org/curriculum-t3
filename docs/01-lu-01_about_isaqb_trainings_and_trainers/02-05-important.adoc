@@ -9,5 +9,25 @@ What are particular important points that a T3 trainer should highlight or prior
 // end::REMARK[]
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+An effective trainer is a subject matter expert with comprehensive knowledge of Software Architecture & Engineering.
+They draw on extensive practical experience to illustrate concepts and provide real-world examples.
+By continuously practicing, staying informed about industry trends, and anticipating future developments, they ensure their expertise remains cutting-edge.
+This solid foundation is essential for building credibility, demonstrating confidence, and addressing a wide range of questions and challenges that may arise during training.
+
+Trainers must possess strong methodological skills to design and deliver impactful courses.
+They have a clear vision for course structure and content, ensuring a coherent and engaging learning experience.
+Adept at conveying complex information clearly and concisely, they tailor their approach to meet the specific needs of adult learners with diverse backgrounds and skill levels.
+By designing stimulating, varied, and sustainable training sessions, they keep participants motivated and focused throughout the learning process.
+Trainers understand how to prepare and present learning content effectively, utilizing various media and teaching methods to cater to different learning styles and optimize knowledge retention.
+
+Creating a positive and cooperative learning environment is crucial for effective training.
+Skilled trainers can seamlessly integrate participants into teamwork activities, understanding the nuances of group processes and dynamics.
+They excel at recognizing and resolving conflicts, dealing with disruptive behavior, and maintaining a professional feedback culture.
+By building strong relationships with participants and fostering open communication, they create a supportive and inclusive atmosphere that encourages active participation, learning, and growth.
+
+Highly effective trainers possess strong personal competencies that enhance their teaching abilities.
+They are self-motivated and maintain enthusiasm even in challenging situations, starting each training with an inspiring kickoff that sets a positive tone.
+Their confidence, professionalism, and competence create a sense of trust and credibility with participants.
+Trainers are skilled at managing and mitigating stress, utilizing their personal resources in a balanced and effective manner.
+They can adapt to various situations, handle unexpected challenges, and consistently deliver high-quality training experiences.
 // end::EN[]
