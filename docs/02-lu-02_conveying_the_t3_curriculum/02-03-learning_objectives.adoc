@@ -29,37 +29,34 @@ They should be able to recognize and demonstrate how course structuring and plan
 [discrete]
 [[LG-2-4]]
 ==== LG 2-4: Common challenges and questions
-* What is usually difficult with the FL curriculum
-* How to handle those situations
-* What questions to anticipate
-* ...
-
+T3P should be able to identify and explain common difficulties students encounter with the FL curriculum.
+They should demonstrate effective strategies to handle challenging situations and anticipate frequently asked questions for each topic.
+T3P should develop clear, concise responses to these questions and recognize when a query goes beyond the FL scope, providing appropriate guidance for further learning.
 
 [discrete]
 [[LG-2-5]]
 ==== LG 2-5: Handling advanced Level questions
-* How to handle Advanced Level questions.
-* ...
+T3P should be able to recognize questions that go beyond the Foundation Level scope and into Advanced Level territory.
+They should demonstrate techniques for addressing these questions appropriately without derailing the FL training.
+T3P should provide brief, informative responses that acknowledge the advanced nature of the query while redirecting focus back to relevant FL content.
+They should also be able to suggest resources for further study on advanced topics when appropriate.
 
 [discrete]
 [[LG-2-6]]
 ==== LG 2-6: Effective FL exam preparation
-* Explaining test format, time frame, and scoring
-* Explaining exam organization and exam procedure
-* Relationship between learning objectives and exam questions.
-* ...
+T3P should be able to explain the FL exam format, time frame, and scoring system to students.
+They should be able to demonstrate how to organize and conduct effective exam preparation sessions, highlighting the relationship between learning objectives and exam questions.
+T3P should be able to guide students through sample questions, providing strategies for time management and question interpretation.
+They should also be able to outline the exam procedure and offer tips for reducing test anxiety.
+
 
 [discrete]
 [[LG-2-7]]
 ==== LG 2-7: Use of materials provided by iSAQB
-* Effective use of materials provided by iSAQB
-* e.g. curriculum, glossary and mock exam.
-* How (and when) materials change over time
-* How to contribute to the FL curriculum and other material
-* ...
-
-
-
+T3P should be able to effectively utilize and explain the purpose of materials provided by iSAQB, including the curriculum, glossary, and mock exams.
+They should demonstrate how to incorporate these resources into their training sessions and guide students in their use for self-study.
+T3P should understand how these materials evolve over time and be able to explain the process for staying updated.
+They should also be familiar with the procedures for contributing to the FL curriculum and other iSAQB materials when appropriate.
 
 // end::EN[]
 
