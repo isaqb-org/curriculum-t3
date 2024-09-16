@@ -41,6 +41,44 @@ T3P are able to adapt the time schedule to the learning progress and the needs o
 ==== LG 4-6: Organize pre and post training experience
 T3P are able to create material that students can use to prepare for the training in order to use the time in the training as efficiently as possible.
 They are also able to wrap up the information after the training and set the students on their continuing path of learning.
+This includes:
+
+* Curating a list of recommended literature and resources for participants, including:
+** Basic literature to be read before the training
+** Additional materials for in-depth study of specific topics
+** Resources for continued learning after the training
+* Designing post-training follow-up activities to reinforce learning and encourage practical application
+* Creating or recommending means for ongoing support or community engagement for participants after the training
+
+[discrete]
+[[LG-4-7]]
+==== LG 4-7: Preparing and using supplementary training materials
+T3P should be able to create, select, and effectively use supplementary training materials to enhance the learning experience.
+This includes:
+
+* Developing high-quality handouts that reinforce key concepts and provide additional resources
+* Selecting appropriate accompanying materials that support the learning objectives
+* Creating pre-reading lists or materials to prepare participants before the training
+* Developing post-training resources to support continued learning and application of skills
+* Understanding copyright and licensing considerations when using or creating materials
+* Effectively integrating supplementary materials into the overall training structure and timeline
+
+
+[discrete]
+[[LG-4-8]]
+==== LG 4-8: Preparing for and delivering your first CPSA training
+T3P should be able to outline a comprehensive plan for preparing and delivering their first CPSA training.
+This includes:
+
+* Creating a pre-training checklist covering all necessary preparations
+* Developing strategies to anticipate and handle common challenges faced by new trainers
+* Understanding how to effectively use the provided training materials and resources
+* Knowing how to set up the training environment (both physical and virtual) for optimal learning
+* Developing contingency plans for potential technical issues or unexpected situations
+* Reflecting on the training experience and identifying areas for improvement
+
+
+
 
 // end::EN[]
 

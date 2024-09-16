@@ -12,7 +12,7 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 [discrete]
 [[LG-3-1]]
 ==== LG 3-1: Adult learning and blooms taxonomy
-T3P should be able to describe the unique characteristics and special challenges of adult learning.
+T3P should be able to describe the unique characteristics and special challenges of adult learning, including handling heterogeneous groups with different skill levels and backgrounds.
 They should know the training relevant parts of blooms taxonomy and be able to map the needs and expectations of participants to them.
 
 [discrete]
@@ -20,6 +20,8 @@ They should know the training relevant parts of blooms taxonomy and be able to m
 ==== LG 3-2: Learning Objectives and benefits
 T3P should be able to explain the importance and benefits of clear, concise, and verifiable learning objectives.
 They should be able to formulate such learning objectives and to show how each part of the training maps to one or more of them.
+They should be able to adapt learning objectives for younger and/or less experienced participants.
+T3P should be able to handle incomplete/inconsistent knowledge and different perspectives on topics and concepts.
 
 [discrete]
 [[LG-3-3]]
@@ -35,7 +37,29 @@ T3P should recognize and be able to describe distraction factors that impact lea
 [[LG-3-5]]
 ==== LG 3-5: Learning methods
 T3P should be able to describe and apply a variety of different learning methods and can describe how a change of method influences learning outcomes.
+They should be familiar with different methods and concepts, such as the 4Cs by Sharon Bowman, and be able to apply opening and closing methods.
+T3P should understand how to use exercises, demos, and case studies effectively, including grouping participants for exercises (see LU05) and be able explain the trade-offs between short and simple exercises vs. complex scenarios, case studies, and continuous exercises. 
 
+T3P should be able to provide and request feedback, use various feedback methods, and objectively evaluate participant feedback.
+They should also be proficient in:
+
+* Facilitating interactive classroom discussions and practical application of theory
+* Employing techniques to activate participants and improve learner engagement
+* Using various media and teaching tools effectively, including haptic (e.g., flipcharts, whiteboards) and digital (e.g., PowerPoint, survey tools, videos) resources
+* Applying collaboration and distance learning tools (e.g., Teams, Zoom, digital whiteboards like Miro) for virtual training environments
+
+[discrete]
+[[LG-3-6]]
+==== LG 3-6: Communication and presentation skills for trainers
+T3P should be able to demonstrate effective communication and presentation skills essential for training delivery.
+This includes:
+
+* Understanding and applying basic rules of rhetoric
+* Using appropriate language in the classroom, considering the various dimensions of communication
+* Employing effective body language to enhance training delivery
+* Developing strategies to manage stage fright and maintain composure during presentations
+* Handling non-constructive behavior, disturbances, and conflicts between participants professionally
+* Applying conflict resolution techniques when necessary
 
 
 // end::EN[]
