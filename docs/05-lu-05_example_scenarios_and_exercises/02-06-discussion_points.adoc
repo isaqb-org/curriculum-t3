@@ -9,8 +9,33 @@ Things you might want to discuss with students since the topics may differ depen
 // end::REMARK[]
 
 // tag::EN[]
-How is their target group? What are typical industries … their training participants come from
-What are they expecting from participants?
-Any scenario that they can think of which is even culture specific/geography specific? Some app/software which are popular in their region eg: KakaoTalk in South Korea, Aarogaya Setu in India and so on…
-TBD: More to discuss ???
+
+* *Target Audience Analysis*:
+** What are the typical industries your training participants come from?
+** How do you assess and address the diverse backgrounds in your audience?
+
+* *Expectations Management*:
+** What are reasonable expectations for participants' prior knowledge?
+** How do you balance between novice and experienced participants?
+
+* *Scenario Relevance*:
+** How can you create scenarios that resonate across different industries?
+** What makes a scenario universally applicable yet specific enough to be useful?
+
+* *Cultural and Geographical Considerations*:
+** How might scenarios need to be adapted for different cultural contexts?
+** Are there region-specific examples that could enhance understanding (e.g., KakaoTalk in South Korea, Aarogya Setu in India)?
+
+* *Balancing Theory and Practice*:
+** How do you ensure scenarios illustrate theoretical concepts while remaining practical?
+** What's the right mix of abstract principles and concrete examples?
+
+* *Scenario Complexity*:
+** How do you determine the appropriate level of complexity for a scenario?
+** What strategies can be used to scale scenario difficulty up or down as needed?
+
+* *Participant Engagement*:
+** What techniques have you found effective for keeping participants engaged with scenarios?
+** How do you encourage participants to relate scenarios to their own experiences?
+
 // end::EN[]

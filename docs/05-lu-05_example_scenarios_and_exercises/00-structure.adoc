@@ -19,8 +19,6 @@ Enter reasonable times for duration and practice time.
 ====
 // end::REMARK[]
 
-include::02-0X-rummage_box.adoc[{include_configuration}]
-
 include::02-01-topic.adoc[{include_configuration}]
 
 include::02-02-purpose.adoc[{include_configuration}]

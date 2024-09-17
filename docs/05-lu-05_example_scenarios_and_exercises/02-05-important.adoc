@@ -9,7 +9,17 @@ What are particular important points that a T3 trainer should highlight or prior
 // end::REMARK[]
 
 // tag::EN[]
-This LU is specific for T3P and not a part of the foundation level curriculum. So here important points to highlight by a T3 trainer would be,
-how to utilize existing knowledge and past experience to develop example scenarios.
-Because: students ask questions and T3P can provide more details if the example is related to one of his/her past projects.
+This Learning Unit is specifically designed for Train-the-Trainer participants (T3P) and is not part of the Foundation Level curriculum. Key points for T3 trainers to emphasize include:
+
+* Leveraging existing knowledge and past experience to develop effective example scenarios
+* The value of using real-world examples from personal project experience
+* The importance of being able to provide detailed explanations and context when students ask questions
+* How to adapt and extend scenarios based on participants' inquiries
+* The balance between using pre-prepared scenarios and drawing from personal experience
+* Techniques for making abstract concepts concrete through relatable examples
+* The importance of scenario flexibility to accommodate different learning styles and backgrounds
+
+Remember, the ability to draw from personal experience enhances the trainer's credibility and helps participants connect theoretical concepts to practical applications.
+This approach also allows for more dynamic and engaging discussions during the training session.
+
 // end::EN[]

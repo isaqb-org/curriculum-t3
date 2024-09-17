@@ -10,8 +10,10 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 // end::REMARK[]
 
 // tag::EN[]
-TODO:
-Tools, techniques, references and methodology to create a quality example scenario. It would be explained with an existing sample scenario. 
-Checklist/Methodology to evaluate the example scenario.
-TBD: Should we keep the point about creating the exercise from example scenario as a separate objective?
+* Create relevant scenarios that support Foundation Level learning goals
+* Develop skills to adapt scenarios to diverse audience needs
+* Learn to evaluate scenario quality and effectiveness
+* Break down complex scenarios into practical exercises
+* Utilize various sources for scenario development, including personal experience
+* Cultivate a mindset for continuous scenario improvement
 // end::EN[]

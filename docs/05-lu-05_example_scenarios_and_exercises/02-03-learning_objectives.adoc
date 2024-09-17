@@ -13,17 +13,21 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 [[LG-5-1]]
 ==== LG 5-1: Provide and present relevant example scenarios
 T3 participants (T3P) are able to create or select relevant example scenarios that help their students to understand the underlying concepts of software architecture and can present those to their students.
+They can break down an example scenario into single exercises and connect those to the different topics of the training.
 
 [discrete]
 [[LG-5-2]]
 ==== LG 5-2: Adapt example scenarios to participants and the curriculum
-T3P can understand and describe the needs of their audience and from this understanding derive audience-specific requirements on the example scenario(s) they are going to present. To do so, they should be able to describe and apply the necessary steps for creating or adapting scenarios which aligns with their target group and a specific set of learning objectives of the FL curriculum.
+T3P can understand and describe the needs of their audience and from this understanding derive audience-specific requirements on the example scenario(s) they are going to present.
+To do so, they should be able to describe and apply the necessary steps for creating or adapting scenarios which aligns with their target group and a specific set of learning objectives of the FL curriculum.
+They can adapt exercises and scenarios to fit the audience (e.g. level of difficulty, previous experience, etc.), for instance by adding tasks on the fly that increase the level of difficulty or by aligning the scenario with the professional background of individual learners.
+
 
 [discrete]
 [[LG-5-3]]
 ==== LG 5-3: Evaluate example scenarios
 T3P should be able to explain the importance of having a consistent and high-quality example scenario and also be able to verify or evaluate that their example meets the required quality standard.
-They also should be able to explain the consequences of mentioning unrelated example scenarios.
+They also should be able to explain the consequences of mentioning unrelated example scenarios, can identify showstoppers that keep students from being successful with the exercise, and know how to overcome them (e.g. by providing specific detailed help).
 
 [discrete]
 [[LG-5-4]]

@@ -9,5 +9,5 @@ Things that should be avoided. E.g. some LUs work poorly when introduced by exam
 // end::REMARK[]
 
 // tag::EN[]
-TBD: ???
+When providing T3P with your example scenarios, avoid untested ideas where you, as a trainer, don't know how they turn out in practice or where common pitfalls are.
 // end::EN[]
