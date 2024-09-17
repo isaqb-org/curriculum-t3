@@ -23,12 +23,6 @@ Enter reasonable times for duration and practice time.
 // Use comments to hide parts that you don't want to fill in yet.
 // But please, don't delete them.
 
-// tag::REMARK[]
-include::01-metadata-life_cycle.adoc[{include_configuration}]
-// end::REMARK[]
-
-include::02-0X-rummage_box.adoc[{include_configuration}]
-
 include::02-01-topic.adoc[{include_configuration}]
 
 include::02-02-purpose.adoc[{include_configuration}]

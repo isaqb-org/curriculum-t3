@@ -23,10 +23,6 @@ Enter reasonable times for duration and practice time.
 // Use comments to hide parts that you don't want to fill in yet.
 // But please, don't delete them.
 
-// tag::REMARK[]
-include::01-metadata-life_cycle.adoc[{include_configuration}]
-// end::REMARK[]
-
 include::02-01-topic.adoc[{include_configuration}]
 
 include::02-02-purpose.adoc[{include_configuration}]
@@ -37,14 +33,14 @@ include::02-04-takeaways.adoc[{include_configuration}]
 
 include::02-05-important.adoc[{include_configuration}]
 
-include::02-06-discussion_points.adoc[{include_configuration}]
+// include::02-06-discussion_points.adoc[{include_configuration}]
 
-include::02-07-donts.adoc[{include_configuration}]
+// include::02-07-donts.adoc[{include_configuration}]
 
 include::02-08-references.adoc[{include_configuration}]
 
-include::03-didactis_and_transfer.adoc[{include_configuration}]
+// include::03-didactis_and_transfer.adoc[{include_configuration}]
 
-include::04-preparation.adoc[{include_configuration}]
+// include::04-preparation.adoc[{include_configuration}]
 
-include::05-success_factors_risks.adoc[{include_configuration}]
+// include::05-success_factors_risks.adoc[{include_configuration}]

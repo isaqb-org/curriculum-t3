@@ -3,10 +3,26 @@
 // end::DE[]
 
 // tag::EN[]
-== Introduction: General information about the T3 course
-// end::EN[]
+== Authors, Contributors, Reviewers
+The following people have contributed to the creation and development of this Train-the-Trainer (T3) curriculum:
 
-// tag::EN[]
+* Gerrit Beine
+* Hiral Dave
+* Kim Nena Duggen
+* Peter Götz
+* Dennis Hering
+* Ralf Leipner
+* Alexander Lorz
+* Alfredo Delgado Sánchez
+* Gerhard Wanner
+* Meng Zhang
+
+We thank all contributors for their valuable input and dedication to improving the quality of software architecture training.
+
+NOTE: Contributors are listed in alphabetical order by last name.
+
+== Introduction: General information about the T3 course
+
 A Train-the-Trainer (T3) course is designed to enable trainers to efficiently and effectively deliver high-quality training content in iSAQB-accredited trainings.
 It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB CPSA Foundation-Level trainings, but will not exclude software architecture trainers at other levels from participating.
 It focuses on enhancing expertise in the subject matter, effective teaching methods, creating a positive learning environment, and professional training delivery.
@@ -16,8 +32,6 @@ While it enhances training delivery skills, it is not a prerequisite for trainer
 // end::EN[]
 
 include::01-00-important-terms.adoc[{include_configuration}]
-
-include::01-0X-rummage_box.adoc[{include_configuration}]
 
 include::01-what-to-expect-of-a-t3-course.adoc[{include_configuration}]
 

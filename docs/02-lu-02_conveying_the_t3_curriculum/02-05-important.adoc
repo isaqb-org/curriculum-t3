@@ -11,5 +11,30 @@ What are particular important points that a T3 trainer should highlight or prior
 // tag::EN[]
 This is *not* a LU intended to be delivered as a standalone part of a T3 training.
 Instead, it runs throughout the course and serves as a vehicle to explain the learning goals of the other units.
-It provides participants with an opportunity to practice what they have learned in a real-life setting while simultaneously exploring the contents of the T3 curriculum. 
+It provides participants with an opportunity to practice what they have learned in a real-life setting while simultaneously exploring the contents of the T3 curriculum.
+
+We propose the following approach to ensure T3P thoroughly understand and can effectively teach the FL curriculum:
+
+* Guide T3P through a comprehensive Foundation Level training slide set:
+** Explain presentation techniques for various concepts
+** Emphasize critical points
+** Identify and address potential "show stoppers"
+** Demonstrate strategies to overcome common challenges
+
+* Assign curriculum sections to T3P:
+** Divide content into manageable parts
+** Have T3P present their sections as if delivering a real FL training
+** Provide immediate, constructive feedback on:
+*** Presentation style
+*** Content delivery
+*** Handling of potential questions or difficulties
+
+* Encourage T3P to:
+** Draw from personal experience when explaining concepts
+** Adapt explanations to different audience backgrounds
+** Prepare for and practice answering in-depth questions
+
+This method allows T3P to experience firsthand the challenges of curriculum delivery while providing a safe environment for practice and improvement.
+
+The hands-on approach helps T3P internalize both curriculum content and effective training techniques, bridging the gap between theoretical knowledge and practical application.
 // end::EN[]

@@ -10,5 +10,14 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 // end::REMARK[]
 
 // tag::EN[]
-TBD - SHOULD be provided - your content here
+[IMPORTANT]
+* Deliver high-quality trainings that reflect iSAQB core values and provide practical value
+* Explain the benefits and objectives of iSAQB trainings to your future students
+* Adhere to the ethical standards expected of an iSAQB trainer
+* Adapt your training approach to suit Foundation Level participants' needs
+* Continuously improve your training skills and software architecture knowledge
+* Conduct yourself professionally, recognizing your impact on iSAQB's reputation
+* Stay connected with the iSAQB community for updates on best practices and the curriculum
+* Balance theoretical concepts with practical applications in your training
+* Foster a learning environment aligned with iSAQB's commitment to excellence
 // end::EN[]
