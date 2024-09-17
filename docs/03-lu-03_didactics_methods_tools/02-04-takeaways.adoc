@@ -10,5 +10,13 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 // end::REMARK[]
 
 // tag::EN[]
-TBD - SHOULD be provided - your content here
+Training adult professionals differs significantly from teaching students. Keep in mind:
+
+* You're facilitating peers, not instructing subordinates
+* Leverage participants' diverse professional experiences to enrich discussions
+* Be prepared to justify the practical value of each topic
+* Expect and manage challenging questions that may go beyond the curriculum
+* Balance theoretical concepts with immediate, real-world applications
+* Adapt quickly to different industry perspectives and potential disagreements
+* Respect participants' time by ensuring all content is directly applicable to their work
 // end::EN[]
