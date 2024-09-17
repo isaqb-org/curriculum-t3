@@ -15,7 +15,7 @@
 
 - [[[aebliDeGrundformen,Aebli1983]]] Hans Aebli: Zwölf Grundformen des Lehrens
 
-- [[[aeblieDeDenkenA, Aeblie1993]]] Hans Aebli: Denken, das Ordnen des Tuns
+- [[[aebliDeDenkenA, Aebli1993]]] Hans Aebli: Denken, das Ordnen des Tuns
 
 - [[[arc42, arc42]]] arc42, the open-source template for software architecture communication, online: <https://arc42.org>. Maintained on <https://github.com/arc42>
 
