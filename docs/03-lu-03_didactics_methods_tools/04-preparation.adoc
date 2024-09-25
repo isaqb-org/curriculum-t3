@@ -98,6 +98,10 @@ e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind po
 // end::REMARK[]
 
 // tag::EN[]
+When choosing infrastructure or materials, it is important to ensure that they are accessible in the participants' countries.
+// end::EN[]
+
+// tag::EN[]
 TBD - CAN be provided - your content here
 // end::EN[]
 
