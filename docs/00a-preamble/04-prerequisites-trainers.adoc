@@ -15,7 +15,7 @@ T3 trainers should
 * The T3 trainer must have access to accredited training material to use it as example on how to provide a training.
 * This material *might* be provided by iSAQB GmbH if trainers cannot use their own material.
 * When providing a T3 training, the type and source of training material used as an example *must* be stated in the training announcement.
-
+* The T3 trainer can interpret or translate various technical terms in the iSAQB's context into the student's mother tongue or working language.
 
 
 // end::EN[]
