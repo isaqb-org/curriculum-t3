@@ -113,6 +113,11 @@ TBD - CAN be provided - your content here
 e.g. must be confident in using the virtual whiteboard, soldering skills, …
 // end::REMARK[]
 
+// tag::REMARK[]
+[sidebar]
+e.g. must know and choose communication and teaching tools and infrastructures which are available in the participants' countries and not banned by local governments.
+// end::REMARK[]
+
 // tag::EN[]
 TBD - CAN be provided - your content here
 // end::EN[]
