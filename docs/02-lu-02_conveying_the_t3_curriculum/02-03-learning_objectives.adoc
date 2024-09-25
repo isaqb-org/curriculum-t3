@@ -18,6 +18,7 @@ T3P can explain the content described in each learning goal of the FL curriculum
 [[LG-2-2]]
 ==== LG 2-2: Handle incomplete, fuzzy, or inconsistent  knowledge
 For content where there is no clear consensus in the software architecture community or where there is a significant difference between academic and practical viewpoints, the T3P can explain and contrast the different perspectives and explain the reasons behind them.
+The T3P can interpret technical terms and content into the common language of their target training group to eliminate misunderstandings during translation, in accordance with international and national standards.
 
 [discrete]
 [[LG-2-3]]
