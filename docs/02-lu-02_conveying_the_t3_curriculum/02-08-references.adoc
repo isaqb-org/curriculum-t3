@@ -9,5 +9,9 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // end::REMARK[]
 
 // tag::EN[]
+When choosing materials and resources for learners and trainers, good references in languages other than English or German can also be considered, depending on the countries of the participants. Banned media channels should be avoided.
+// end::EN[]
+
+// tag::EN[]
 TBD - SHOULD be provided, good references are always helpful - your content here
 // end::EN[]
