@@ -35,8 +35,8 @@ T3P should recognize and be able to describe distraction factors that impact lea
 
 [discrete]
 [[LG-3-5]]
-==== LG 3-5: Learning methods
-T3P should be able to describe and apply a variety of different learning methods and can describe how a change of method influences learning outcomes.
+==== LG 3-5: Training methods
+T3P should be able to describe and apply a variety of different training methods and can describe how a change of method influences learning outcomes.
 They should be familiar with different methods and concepts, such as the 4Cs by Sharon Bowman <<bowman>>, and be able to apply opening and closing methods.
 T3P should understand how to use exercises, demos, and case studies effectively, including grouping participants for exercises (see LU05) and be able explain the trade-offs between short and simple exercises vs. complex scenarios, case studies, and continuous exercises. 
 
