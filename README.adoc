@@ -26,7 +26,7 @@ This repository contains a very early work-in-progress version for the iSAQB Tra
 toc::[]
 
 == How to contribute or participate
-Create an issue or a pull-request
+Create an issue or a pull-request.
 
 == How to use this repository
 
@@ -70,6 +70,36 @@ To unify upper/lowercase within the (EN) version, we use the _Chicago manual of 
 * Only then does an item start with uppercase.
 
 For a possible German (DE) version, don't use punctuation at the end of bullet-list items, unless on the end of sentences.
+
+=== Working with Feature Branches
+
+TIP: If you've already made changes before branching, use `git stash` and `git stash pop` to temporarily store them.
+
+==== Quick Start
+
+. For existing issues use `Issue-#<number>-<Short-Description>` as the branch name
+. Create and switch to feature branch:
++
+--
+[source,shell]
+----
+git checkout main
+git pull
+git checkout -b Issue-#42-add-examples    # or use your Git UI
+----
+--
+
+. Make changes, commit and push
+. Create pull request via GitHub web interface
+
+
+==== Git UI Tools and Detailed Intructions
+
+* Linux: https://sourcegit.dev/[SourceGit], https://www.gitkraken.com/[GitKraken]
+* Windows/macOS: GitHub Desktop, VS Code
+* All tools support basic branch & PR workflows
+* GitHub guide: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
+* Git branching: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 
 == Maintainers
