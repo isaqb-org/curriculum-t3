@@ -1,4 +1,4 @@
 // tag::EN[]
 [discrete]
-=== Evaluation Criteria
+=== T3 Participant Evaluation Criteria
 // end::EN[]
