@@ -8,16 +8,9 @@
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 180-240 min | Practice time: 30-60% of duration
 |===
 // end::EN[]
-
-// tag::REMARK[]
-[IMPORTANT]
-====
-Enter reasonable times for duration and practice time.
-====
-// end::REMARK[]
 
 include::02-01-topic.adoc[{include_configuration}]
 
