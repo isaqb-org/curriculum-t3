@@ -28,7 +28,7 @@ Develop skills to effectively teach content, handle challenging questions, and p
 |*LU03: Didactics, Methods, Tools and Best Practices* +
 Learn fundamental didactic principles, teaching methods, and best practices +
 for effective knowledge transfer in software architecture training.
-|240-360
+|180-360
 
 |*LU04: Structure and Planning* +
 Develop skills to structure courses, create effective timetables, +
@@ -46,8 +46,8 @@ including venue selection, exam organization, and communication with iSAQB.
 |0-60
 
 | |
-| *Total* | *1260-1560 +
-(21-26 hours)*
+| *Total* | *1200-1560 +
+(20-26 hours)*
 |===
 
 // end::EN[]
