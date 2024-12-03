@@ -143,7 +143,7 @@ Note: this leads to constraints on the order of Learning Units!
 // end::REMARK[]
 
 // tag::EN[]
-Learners should have finished LU 3 and know about didactics and learning methods. 
+Learners should have finished LU 3 and know about didactics and training methods. 
 // end::EN[]
 
 // --------------------------------------------------------------------
