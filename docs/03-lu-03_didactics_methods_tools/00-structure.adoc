@@ -8,7 +8,7 @@
 
 // tag::EN[]
 |===
-| Duration: 240-360 min | Practice time: 20-50% of duration
+| Duration: 180-360 min | Practice time: 20-50% of duration
 |===
 // end::EN[]
 
