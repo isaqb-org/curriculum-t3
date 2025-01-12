@@ -32,6 +32,13 @@ T3P should know factors that influence attention of learners (e.g. usual attenti
 [[LG-3-4]]
 ==== LG 3-4: Distraction factors and learning performance
 T3P should recognize and be able to describe distraction factors that impact learning. They know and can apply strategies to reduce and/or mitigate distractions. 
+This includes:
+
+* Identifying early warning signs of potential challenges that might affect learning
+* Implementing preventive measures to minimize distractions
+* Managing knowledge level mismatches within participant groups
+* Addressing technical issues that may disrupt the learning process
+* Converting potentially disruptive situations into learning opportunities
 
 [discrete]
 [[LG-3-5]]
@@ -62,22 +69,7 @@ This includes:
 * Applying conflict resolution techniques when necessary
 * Facilitating inclusive and productive group discussions
 * Adapting communication style to different audience needs and knowledge levels
-
-[discrete]
-[[LG-3-7]]
-==== LG 3-7: Handling difficult training situations
-T3P should be able to anticipate, prevent, and effectively handle challenging situations that arise during training.
-This includes:
-
-* Identifying early warning signs of potential challenges and conflicts
-* Implementing preventive measures and setting appropriate boundaries
-* Managing knowledge level mismatches within participant groups
-* Addressing resistant or disruptive participant behaviors professionally
-* Handling technical disagreements and maintaining group focus
-* Resolving interpersonal conflicts while preserving the learning environment
-* Applying appropriate escalation procedures when necessary
-* Documenting and learning from challenging situations
 * Maintaining professional composure during difficult interactions
-* Converting challenging situations into learning opportunities
+* Applying appropriate escalation procedures when necessary
 
 // end::EN[]
