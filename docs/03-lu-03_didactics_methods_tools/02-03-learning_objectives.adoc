@@ -60,6 +60,24 @@ This includes:
 * Developing strategies to manage stage fright and maintain composure during presentations
 * Handling non-constructive behavior, disturbances, and conflicts between participants professionally
 * Applying conflict resolution techniques when necessary
+* Facilitating inclusive and productive group discussions
+* Adapting communication style to different audience needs and knowledge levels
 
+[discrete]
+[[LG-3-7]]
+==== LG 3-7: Handling difficult training situations
+T3P should be able to anticipate, prevent, and effectively handle challenging situations that arise during training.
+This includes:
+
+* Identifying early warning signs of potential challenges and conflicts
+* Implementing preventive measures and setting appropriate boundaries
+* Managing knowledge level mismatches within participant groups
+* Addressing resistant or disruptive participant behaviors professionally
+* Handling technical disagreements and maintaining group focus
+* Resolving interpersonal conflicts while preserving the learning environment
+* Applying appropriate escalation procedures when necessary
+* Documenting and learning from challenging situations
+* Maintaining professional composure during difficult interactions
+* Converting challenging situations into learning opportunities
 
 // end::EN[]

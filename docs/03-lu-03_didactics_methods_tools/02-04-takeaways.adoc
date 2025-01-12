@@ -19,4 +19,5 @@ Training adult professionals differs significantly from teaching students. Keep 
 * Balance theoretical concepts with immediate, real-world applications
 * Adapt quickly to different industry perspectives and potential disagreements
 * Respect participants' time by ensuring all content is directly applicable to their work
+* Anticipate, prevent, and professionally handle difficult training situations to maintain a constructive and inclusive learning environment
 // end::EN[]
