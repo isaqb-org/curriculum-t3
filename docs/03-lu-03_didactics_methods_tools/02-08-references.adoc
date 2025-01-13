@@ -9,5 +9,6 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // end::REMARK[]
 
 // tag::EN[]
-TBD - SHOULD be provided, good references are always helpful - your content here
+* Hunter, Bailey, Taylor (1995). "The Art of Facilitation: How to Create Group Synergy"
+* Bowman (2008). "Training from the Back of the Room!"
 // end::EN[]

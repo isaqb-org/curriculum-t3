@@ -25,7 +25,7 @@ include::02-04-takeaways.adoc[{include_configuration}]
 
 // include::02-05-important.adoc[{include_configuration}]
 
-// include::02-06-discussion_points.adoc[{include_configuration}]
+include::02-06-discussion_points.adoc[{include_configuration}]
 
 // include::02-07-donts.adoc[{include_configuration}]
 
