@@ -35,4 +35,4 @@ include::03-didactis_and_transfer.adoc[{include_configuration}]
 
 include::04-preparation.adoc[{include_configuration}]
 
-include::05-success_factors_risks.adoc[{include_configuration}]
+// include::05-success_factors_risks.adoc[{include_configuration}]
