@@ -10,56 +10,61 @@
 // ATTENTION: labels have to be non-numeric.
 // Keep in mind: The publication date of a source may change.
 
+// the "text that will be shown" is the citation key
+// please use the consitent format documented in 
+// https://github.com/isaqb-org/curriculum-foundation/blob/main/documentation/decisions/012-citation_key_standardization.md
+// for the rest of the bibliography, use IEEE style
+// http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf
 
+// A
+- [[[aebliDeGrundformen, Aebli 1983]]] H. Aebli, _Zwölf Grundformen des Lehrens. Eine Allgemeine Didaktik auf psychologischer Grundlage_ (in German). Stuttgart, Germany: Klett-Cotta, 1983.
+- [[[aebliDeDenkenA, Aebli 1994]]] H. Aebli, _Denken: Das Ordnen des Tuns_ (in German). Stuttgart, Germany: Klett-Cotta, 1994.
+- [[[aosa, AOSA]]] A. Brown and G. Wilson, Eds., _The Architecture of Open Source Applications_. [Online]. Available: https://aosabook.org/en/
+- [[[arc42, arc42]]] "arc42, the open-source template for software architecture communication." [Online]. Available: https://arc42.org; Maintained on: https://github.com/arc42
 
+// B
+- [[[bewirken, Bewirken]]]  beWirken gGmbH, Lüneburg, Germany. "Das Methodenbuch für digitalen Unterricht." [Online]. Available: https://www.bewirken.org/angebot/methodenbuch-print/
+- [[[bachmann, Bachmann+2000]]] F. Bachmann et al., "Software Architecture Documentation in Practice: Documenting Architectural Layers," Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, USA, Tech. Rep. CMU/SEI-2000-SR-004, Mar. 2000. [Online]. Available: https://insights.sei.cmu.edu/documents/5437/2000_003_001_13649.pdf
+- [[[bass, Bass+2021]]] L. Bass, P. Clements, and R. Kazman, _Software Architecture in Practice_, 4th ed. Boston, MA, USA: Addison Wesley, 2021.
+- [[[bowman, Bowman 2008]]] S. Bowman, _Training from the Back of the Room! 65 Ways to Step Aside and Let Them Learn_. San Francisco, CA, USA: Pfeiffer, 2008.
 
-- [[[aebliDeGrundformen,Aebli1983]]] Hans Aebli: Zwölf Grundformen des Lehrens
+// F
+- [[[ford,Ford+2021]]] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, _Software Architecture: The Hard Parts_. Sebastopol, CA, USA: O'Reilly Media, 2021.
 
-- [[[aebliDeDenkenA, Aebli1993]]] Hans Aebli: Denken, das Ordnen des Tuns
+// H
+- [[[hase,Hase+2000]]] S. Hase and C. Kenyon, "From andragogy to heutagogy," _Ultibase Articles_, vol. 5, pp. 1-10, 2000. [Online]. Available: https://webarchive.nla.gov.au/awa/20010220130000/http://ultibase.rmit.edu.au/Articles/dec00/hase2.htm
+- [[[arc42BE2, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2A
 
-- [[[arc42, arc42]]] arc42, the open-source template for software architecture communication, online: <https://arc42.org>. Maintained on <https://github.com/arc42>
+// I
+- [[[isaqbFLC, iSAQB-FLC]]] International Software Architecture Qualification Board (iSAQB), "Foundation Level Curriculum." [Online]. Available: https://public.isaqb.org/curriculum-foundation/
 
-- [[[bewirken,Bewirken]]] Das Methodenbuch für digitalen Unterricht https://www.bewirken.org/angebot/methodenbuch-print/
+// TODO continue here with formatting according to IEEE style
 
-- [[[bachmann,Bachmann+2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-
-- [[[bass,Bass+2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4^th^ Edition, Addison Wesley 2021.
-
-- [[[bowman,Bowman2008]]] Sharon Bowman: Training from the Back of the Room! 65 Ways to Step Aside and Let Them Learn. Pfeiffer, 2008
-
-- [[[ford,Ford+2022]]] Ford, Neal; Richards, Mark; Sadalage, Pramod; Dehghani, Zhamak. Software Architecture: The Hard Parts (English Edition) 
-
-- [[[hase,Hase+2000]]] Hase, Stewart & Kenyon, Chris. (2000). From andragogy to heutagogy. Ultibase Articles. 5. 1-10. https://webarchive.nla.gov.au/awa/20010220130000/http://ultibase.rmit.edu.au/Articles/dec00/hase2.htm
-
-- [[[arc42BE2, Hruschka+2021]]] Peter Hruschka, Ivan Kostov, Wolfgang Reimesch: arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT, published by Leanpub, <https://leanpub.com/arc42byexample-volume2A>. 
-
-- [[[isaqbFLC,iSAQB-FLC]]] iSAQB Foundation Level Curriculum - todo: add canonical URL
-
-- [[[kruchten,Kruchten1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[kruchten, Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
 // this reference is for dealing with adult learners that do not have an academic background
 // Todo: find a good place to integrate its TLDR in the curriculum and to reference it
-- [[[kenner,Kenner+2011]]] Kenner, C., & Weinerman, J. (2011). Adult learning theory: Applications to non-traditional college students. Journal of College Reading and Learning, 41(2), 87-96. https://files.eric.ed.gov/fulltext/EJ926365.pdf
+- [[[kenner, Kenner+2011]]] Kenner, C., & Weinerman, J. (2011). Adult learning theory: Applications to non-traditional college students. Journal of College Reading and Learning, 41(2), 87-96. https://files.eric.ed.gov/fulltext/EJ926365.pdf
 
-- [[[knowles,Knowles1970]]] Malcolm S. (1970) The Modern Practice of Adult Education: Andragogy versus Pedagogy, Associated Press, New York. 
+- [[[knowles, Knowles 1970]]] Malcolm S. (1970) The Modern Practice of Adult Education: Andragogy versus Pedagogy, Associated Press, New York. 
 
 // especially recommend the LS Menu
-- [[[libstruc,LibStruc]]] Liberating Structures to plan and facilitate exercises and make the training more interactive: https://www.liberatingstructures.com/
+- [[[libstruc, LibStruc]]] Liberating Structures to plan and facilitate exercises and make the training more interactive: https://www.liberatingstructures.com/
 
 - [[[katas2, Neward+]]] Ted Neward and contributors: Architectural Katas, <http://www.architecturalkatas.com/>.
 
-- [[[mccarthy,McCarthy2000]]] McCarthy, B.: About Teaching: 4MAT in the Classroom (English Edition). About Learning, Inc., 2000
+- [[[mccarthy, McCarthy 2000]]] McCarthy, B.: About Teaching: 4MAT in the Classroom (English Edition). About Learning, Inc., 2000
 
 - [[[katas1, Richards+]]] Mark Richards, Neal Ford: Architectural Katas, <http://fundamentalsofsoftwarearchitecture.com/katas/>.
 
-- [[[richards,Richards+2020]]] Richards, Mark; Ford, Neal.: Fundamentals of Software Architecture: An Engineering Approach (English Edition), 2020
+- [[[richards, Richards+2020]]] Richards, Mark; Ford, Neal.: Fundamentals of Software Architecture: An Engineering Approach (English Edition), 2020
 
 - [[[arc42BE1, Starke+2023]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller und Hendrik Lösch: arc42 by Example - 3rd edition, published by Leanpub, <https://leanpub.com/arc42byexample>. 
 
-- [[[starke,Starke2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
+- [[[starke, Starke2024]]] G. Starke, _Effektive Software-Architekturen - Ein praktischer Leitfaden_, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: https://esabuch.de
 
 
-- [[[tttgithub,T3GitHub]]] GitHub Repository of the Train-the-Trainer Curriculum. https://github.com/isaqb-org/curriculum-t3
+- [[[tttgithub, T3GitHub]]] GitHub Repository of the Train-the-Trainer Curriculum. https://github.com/isaqb-org/curriculum-t3
 
 // tag::EN[]
 // Keep to avoid warning for missing EN tag
