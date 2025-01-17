@@ -11,7 +11,7 @@ def localVersion = "LocalBuild"
 project.version = releaseVersion == null ? localVersion : releaseVersion
 def curriculumFileName = "curriculum-t3"
 def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
-def languages = ["DE", "EN"]
+def languages = ["EN"]
 
 repositories {
     mavenCentral()
