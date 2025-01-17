@@ -11,6 +11,7 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 
 // tag::EN[]
 [IMPORTANT]
+====
 * Deliver high-quality trainings that reflect iSAQB core values and provide practical value
 * Explain the benefits and objectives of iSAQB trainings to your future students
 * Adhere to the ethical standards expected of an iSAQB trainer
@@ -20,4 +21,5 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 * Stay connected with the iSAQB community for updates on best practices and the curriculum
 * Balance theoretical concepts with practical applications in your training
 * Foster a learning environment aligned with iSAQB's commitment to excellence
+====
 // end::EN[]
