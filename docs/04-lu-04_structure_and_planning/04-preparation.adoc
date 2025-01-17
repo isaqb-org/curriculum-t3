@@ -57,7 +57,7 @@ Trainer candidates should discuss set lengths, different training formats and di
 
 
 // --------------------------------------------------------------------
-
+////
 // tag::EN[]
 [discrete]
 ==== Physical space required for activities
@@ -71,9 +71,9 @@ e.g. large room with 3 square meters per participant
 // tag::EN[]
 TBD - CAN be provided - your content here
 // end::EN[]
-
+////
 // --------------------------------------------------------------------
-
+////
 // tag::EN[]
 [discrete]
 ==== Physical materials required for activities 
@@ -87,9 +87,9 @@ e.g. whiteboard, flipchart, note-blocks, pencils
 // tag::EN[]
 TBD - CAN be provided - your content here
 // end::EN[]
-
+////
 // --------------------------------------------------------------------
-
+////
 // tag::EN[]
 [discrete]
 ==== Virtual material/infrastructure
@@ -103,9 +103,9 @@ e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind po
 // tag::EN[]
 TBD - CAN be provided - your content here
 // end::EN[]
-
+////
 // --------------------------------------------------------------------
-
+////
 // tag::EN[]
 [discrete]
 ==== Prior knowledge of participants in the use of materials and infrastructure
@@ -119,4 +119,4 @@ e.g. must be confident in using the virtual whiteboard, soldering skills, …
 // tag::EN[]
 TBD - CAN be provided - your content here
 // end::EN[]
-
+////

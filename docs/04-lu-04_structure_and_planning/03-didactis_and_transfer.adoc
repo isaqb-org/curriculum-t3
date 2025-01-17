@@ -149,6 +149,8 @@ Learners should have finished LU 3 and know about didactics and training methods
 // --------------------------------------------------------------------
 
 // tag::EN[]
+
+////
 [discrete]
 ==== Sustaining knowledge transfer - short term
 // end::EN[]
@@ -179,4 +181,4 @@ How can participants actually apply what they have learned. "How can I do $tuff.
 TBD - CAN be provided - your content here
 // end::EN[]
 
-
+////
