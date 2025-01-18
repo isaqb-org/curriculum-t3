@@ -130,9 +130,7 @@ a|* Use parking lot technique for off-topic discussions
 * Provide additional resources for deeper exploration
 |===
 
-===== Escalation Guidelines
-
-====== When to Escalate
+===== Escalation Guidelines - When to Escalate
 
 Know when to escalate issues:
 
@@ -141,7 +139,7 @@ Know when to escalate issues:
 * Technical infrastructure problems
 * Health or safety concerns
 
-====== Escalation Process
+===== Escalation Guidelines - Escalation Process
 
 1. Document the situation
 2. Consult with co-trainers if available

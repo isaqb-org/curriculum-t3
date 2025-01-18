@@ -11,7 +11,7 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // tag::EN[]
 * The arc42 website <<arc42>> contains links to several online examples.
 * Both arc42 by Example books <<arc42BE1>>, <<arc42BE2>> provide description of different IT systems.
-* The architectural katas from Ted Neward <<katas2>> or Mark Richards and Neal Ford <<katas1>> might provide some inspiration.
+* The architectural katas from Ted Neward <<katas_neward>> or Mark Richards and Neal Ford <<katas1>> might provide some inspiration.
 * The collection 'The Architecture of Open Source Applications' <<aosa>> offers a veritable cornucopia of insightful examples.
 
 // end::EN[]

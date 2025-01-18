@@ -9,6 +9,56 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // end::REMARK[]
 
 // tag::EN[]
-* Hunter, Bailey, Taylor (1995). "The Art of Facilitation: How to Create Group Synergy"
-* Bowman (2008). "Training from the Back of the Room!"
+
+==== Core Didactic References - Modern Sources on Adult Learning and Didactics
+
+These sources cover essential didactic concepts and modern methods for training software architects.
+
+Brown et al. - Make It Stick <<brown_makeitstick>>::
+A research-backed book on the psychology of learning, providing insights into **effective knowledge retention strategies**.
+Essential for LG 3-1 (Adult Learning) and LG 3-3 (Attention and Learning Performance).
+
+Bowman - Training from the Back of the Room <<bowman>>::
+A **practical guide to interactive and engaging teaching methods** for adult learners.
+Supports <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-6, LG 3-6 (Communication and Presentation Skills)>>.
+
+Dirksen - Design for How People Learn <<dirksen_design>>::
+A **practical book on learning design**, explaining how adults learn and how training methods should be adapted.
+Supports <<LG-3-1, LG 3-1 (Adult Learning>> and <<LG-3-5, LG 3-5 (Training Methods)>>.
+
+Fink - Creating Significant Learning Experiences <<fink_creating>>::
+A **modern perspective on goal-oriented didactics**, highly useful for structuring training sessions. 
+Aligns with <<LG-3-2, LG 3-2 (Learning Objectives)>> and <<LG-3-5, LG 3-5 (Training Methods)>>.
+
+Gee - The Anti-Education Era <<gee_antieducation>>::
+A critical discussion of **modern learning formats and digital teaching methods**, useful for online and hybrid training.
+Relevant to <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-4, LG 3-4 (Distraction Factors)>>.
+
+Hunter et al. - The Art of Facilitation <<hunter_facilitation>>::
+A fundamental work on **facilitation techniques and group dynamics**, valuable for understanding how to guide interactive learning sessions.
+Supports <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-6, LG 3-6 (Communication)>>.
+
+==== Architecture Teaching References - Modern Sources for Teaching Architectural Thinking
+
+These books focus on effective strategies for software architecture.
+Use them to illustrate the content of LU02.
+
+Richards/Ford - Fundamentals of Software Architecture <<richards_fundamentals>>::
+Provides a comprehensive guide to software architecture, covering both technical aspects (patterns, components, engineering practices) and practical considerations (team management, presentations, metrics), with principles applicable across technology stacks.
+
+Ford et al. - Software Architecture: The Hard Parts <<ford_hardparts>>::
+Covers **practical challenges in architecture decision-making**, ideal for **interactive discussions in training**.
+More suited for advanced learners as this is primarily about the trade-offs of distributed systems.
+
+Bass et al. - Software Architecture in Practice <<bass>>::
+Provides a comprehensive theoretical and practical foundation for software architecture, covering both fundamental principles and their application to modern technological challenges (like mobility, cloud, and DevOps). The book emphasizes architecture's role in achieving quality attributes and managing system evolution.
+
+Starke et al. - arc42 by Example <<arc42BE1>>::
+A **collection of real-world architectural case studies** that can be used in training.
+
+Neward et al. - Architectural Katas <<katas_neward>>::
+**Interactive architecture exercises**, ideal for **active learning methods** in software architecture training.
+Supports <<LG-3-5, LG 3-5 (Training Methods)>>.
+
+
 // end::EN[]
