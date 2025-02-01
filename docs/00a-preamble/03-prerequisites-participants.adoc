@@ -9,15 +9,4 @@ T3P should:
 * Have basic background knowledge of didactics, e.g. from studies of this discipline or equivalent activities.
 * Be able to draw from extensive practical experience working in software industry or hands on with design/development assignments, substantially surpassing those required for FL participants.
 
-
-
-
-
 // end::EN[]
-
-
-
-// tag::REMARK[]
-// just to get rid of a warning in the build process
-// end::REMARK[]
-

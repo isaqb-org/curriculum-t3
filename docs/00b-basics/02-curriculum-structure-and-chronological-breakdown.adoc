@@ -51,7 +51,3 @@ including venue selection, exam organization, and communication with iSAQB.
 |===
 
 // end::EN[]
-
-// tag::REMARK[]
-//
-// end::REMARK[]

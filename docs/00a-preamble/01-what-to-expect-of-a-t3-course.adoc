@@ -34,6 +34,3 @@ However, a T3 training is neither a guarantee for passing the trainer accreditat
 
 // end::EN[]
 
-// tag::REMARK[]
-// just to get rid of a warning in the build process
-// end::REMARK[]

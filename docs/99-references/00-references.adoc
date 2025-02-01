@@ -78,6 +78,3 @@
 // tag::EN[]
 // Keep to avoid warning for missing EN tag
 // end::EN[]
-// tag::REMARK[]
-// Keep to avoid warning for missing REMARK tag
-// end::REMARK[]

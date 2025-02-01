@@ -21,7 +21,7 @@ include::config/i18n-definitions.adoc[tags={language}]
 
 <<<
 :sectnums!:
-include::../license-copyright/copyright.adoc[{include_configuration_except_remarks}]
+include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
 toc::[]

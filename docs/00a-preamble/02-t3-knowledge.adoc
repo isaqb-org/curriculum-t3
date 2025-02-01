@@ -13,7 +13,3 @@ T3 graduates can:
 - Reflect their training performance and enable further development and improvement of their training skills.
 - Communicate and live the values of iSAQB.
 // end::EN[]
-
-// tag::REMARK[]
-// just to get rid of a warning in the build process
-// end::REMARK[]

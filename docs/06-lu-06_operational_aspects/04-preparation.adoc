@@ -10,10 +10,9 @@
 ==== Time and activities for trainer preparation
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g, 10 min research and collect materials on the day before the session
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here
@@ -26,10 +25,9 @@ TBD - CAN be provided - your content here
 ==== Time and activities for student preparation
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. 30 minutes 1 day in advance
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here
@@ -42,10 +40,9 @@ TBD - CAN be provided - your content here
 ==== Time for activity
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. 15 minutes shared discussion
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here
@@ -60,10 +57,9 @@ TBD - CAN be provided - your content here
 ==== Physical space required for activities
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. large room with 3 square meters per participant
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here
@@ -76,10 +72,9 @@ TBD - CAN be provided - your content here
 ==== Physical materials required for activities 
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. whiteboard, flipchart, note-blocks, pencils
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here
@@ -92,10 +87,9 @@ TBD - CAN be provided - your content here
 ==== Virtual material/infrastructure
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind possible constraints that have to be met, (e.g. max usage duration for tools, limits on number of participants)
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here
@@ -108,10 +102,9 @@ TBD - CAN be provided - your content here
 ==== Prior knowledge of participants in the use of materials and infrastructure
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. must be confident in using the virtual whiteboard, soldering skills, …
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - CAN be provided - your content here

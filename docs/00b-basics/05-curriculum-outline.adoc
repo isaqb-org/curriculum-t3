@@ -23,7 +23,3 @@ LUs *may* contain additional sections describing takeaways for students, importa
 If you would like to add or enhance these sections, please submit suggestions in the form of issues in the GitHub repository of the T3 curriculum <<tttgithub>>.
 
 // end::EN[]
-
-
-// tag::REMARK[]
-// end::REMARK[]

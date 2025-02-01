@@ -3,10 +3,9 @@
 === Important
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 What are particular important points that a T3 trainer should highlight or prioritize (because it is of outstanding relevance for future trainers).
-// end::REMARK[]
+////
 
 // tag::EN[]
 This Learning Unit is specifically designed for Train-the-Trainer participants (T3P) and is not part of the Foundation Level curriculum. Key points for T3 trainers to emphasize include:

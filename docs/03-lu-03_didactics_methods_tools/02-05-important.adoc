@@ -3,10 +3,9 @@
 === Important
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 What are particular important points that a T3 trainer should highlight or prioritize (because it is of outstanding relevance for future trainers).
-// end::REMARK[]
+////
 
 // tag::EN[]
 Effective training is not just about delivering content, it's about creating an engaging and a dynamic learning experience that ensures long-term knowledge retention and application. + 

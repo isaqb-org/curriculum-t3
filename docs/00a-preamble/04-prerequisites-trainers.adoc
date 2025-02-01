@@ -21,6 +21,3 @@ For Advanced Level modules, trainers must provide their own training materials.
 
 // end::EN[]
 
-// tag::REMARK[]
-//
-// end::REMARK[]

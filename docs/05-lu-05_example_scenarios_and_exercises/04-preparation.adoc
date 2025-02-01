@@ -10,32 +10,30 @@
 ==== Time and activities for trainer preparation
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g, 10 min research and collect materials on the day before the session
-// end::REMARK[]
+////
 
 // tag::EN[]
-Be ready with example scenario which will be used as a sample scenario while teaching this LU. Should be prepared prior to the training commencement day.
+Be ready with the example scenario which will be used as a sample scenario while teaching this LU. Should be prepared prior to the training commencement day.
 // end::EN[]
 
 // --------------------------------------------------------------------
 
-////
+
 // tag::EN[]
-[discrete]
-==== Time and activities for student preparation
+// [discrete]
+// ==== Time and activities for student preparation
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. 30 minutes 1 day in advance
-// end::REMARK[]
+////
 
 // tag::EN[]
-N/A
+// N/A
 // end::EN[]
-////
+
 // --------------------------------------------------------------------
 
 // tag::EN[]
@@ -43,10 +41,9 @@ N/A
 ==== Time for activity
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. 15 minutes shared discussion
-// end::REMARK[]
+////
 
 // tag::EN[]
 30 minutes in collaboration with other participants. Any pending work can be given as at home exercise and discussed next day for 30 mins (Any 1/2).
@@ -55,21 +52,20 @@ e.g. 15 minutes shared discussion
 
 
 // --------------------------------------------------------------------
-////
+
 // tag::EN[]
-[discrete]
-==== Physical space required for activities
+// [discrete]
+// ==== Physical space required for activities
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. large room with 3 square meters per participant
-// end::REMARK[]
+////
 
 // tag::EN[]
-none
+// none
 // end::EN[]
-////
+
 // --------------------------------------------------------------------
 
 // tag::EN[]
@@ -77,10 +73,9 @@ none
 ==== Physical materials required for activities 
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. whiteboard, flipchart, note-blocks, pencils
-// end::REMARK[]
+////
 
 // tag::EN[]
 If in-person training, Few plain white papers and pen/pencil.
@@ -93,10 +88,9 @@ If in-person training, Few plain white papers and pen/pencil.
 ==== Virtual material/infrastructure
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind possible constraints that have to be met, (e.g. max usage duration for tools, limits on number of participants)
-// end::REMARK[]
+////
 
 // tag::EN[]
 If online, shared whiteboard.
@@ -109,12 +103,11 @@ If online, shared whiteboard.
 ==== Prior knowledge of participants in the use of materials and infrastructure
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. must be confident in using the virtual whiteboard, soldering skills, …
-// end::REMARK[]
+////
 
 // tag::EN[]
-Hands-on using the whiteboard
+Hands-on experience using the whiteboard.
 // end::EN[]
 

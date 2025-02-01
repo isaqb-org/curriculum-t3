@@ -3,11 +3,10 @@
 === Takeaways for students
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 A short (!) summary of the LUs content from the learners perspective.
 This is the TL;DR of relevant information that should be conveyed to learners.
-// end::REMARK[]
+////
 
 // tag::EN[]
 * To successfully lay out a course structure, it is necessary to both look at the curriculum content and decide how to structure it in a meaningful way

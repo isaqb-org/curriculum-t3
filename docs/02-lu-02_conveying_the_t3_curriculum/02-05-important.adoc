@@ -3,10 +3,9 @@
 === Important
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 What are particular important points that a T3 trainer should highlight or prioritize (because it is of outstanding relevance for future trainers).
-// end::REMARK[]
+////
 
 // tag::EN[]
 This is *not* a LU intended to be delivered as a standalone part of a T3 training.

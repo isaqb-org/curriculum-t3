@@ -3,10 +3,9 @@
 === Don’ts
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 Things that should be avoided. E.g. some LUs work poorly when introduced by example, so don't introduce a sample beforehand. Depends: Do I want to "frame" something to steer people in one direction or do I want people to explore the solution space without bias.
-// end::REMARK[]
+////
 
 // tag::EN[]
 * Don't think a course structure can be derived by looking at a slide deck only.

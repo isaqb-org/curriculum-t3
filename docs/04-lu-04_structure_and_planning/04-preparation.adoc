@@ -10,10 +10,9 @@
 ==== Time and activities for trainer preparation
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g, 10 min research and collect materials on the day before the session
-// end::REMARK[]
+////
 
 // tag::EN[]
 Setting up a course structure that works usually takes time and needs to be refined a few times based on experiences from trainings.
@@ -27,10 +26,9 @@ It is also never finished, as every given instance of a class gives you new insi
 ==== Time and activities for student preparation
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. 30 minutes 1 day in advance
-// end::REMARK[]
+////
 
 // tag::EN[]
 Students in this training are trainer candidates and should be familiar with the topics of the course in order to understand them from the meta level perspective needed to teach it.
@@ -45,10 +43,9 @@ Sometimes it is helpful to prepare with some of the teaching and didactics theor
 ==== Time for activity
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. 15 minutes shared discussion
-// end::REMARK[]
+////
 
 // tag::EN[]
 Trainer candidates should discuss set lengths, different training formats and different customer contexts that need adaptations, therefore some time for these discussions should be available.
@@ -57,66 +54,62 @@ Trainer candidates should discuss set lengths, different training formats and di
 
 
 // --------------------------------------------------------------------
-////
+
 // tag::EN[]
-[discrete]
-==== Physical space required for activities
+// [discrete]
+// ==== Physical space required for activities
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. large room with 3 square meters per participant
-// end::REMARK[]
+////
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+// TBD - CAN be provided - your content here
 // end::EN[]
-////
+
 // --------------------------------------------------------------------
-////
+
 // tag::EN[]
-[discrete]
-==== Physical materials required for activities 
+// [discrete]
+// ==== Physical materials required for activities 
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. whiteboard, flipchart, note-blocks, pencils
-// end::REMARK[]
+////
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+// TBD - CAN be provided - your content here
 // end::EN[]
-////
+
 // --------------------------------------------------------------------
-////
+
 // tag::EN[]
-[discrete]
-==== Virtual material/infrastructure
+// [discrete]
+// ==== Virtual material/infrastructure
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind possible constraints that have to be met, (e.g. max usage duration for tools, limits on number of participants)
-// end::REMARK[]
+////
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+// TBD - CAN be provided - your content here
 // end::EN[]
-////
+
 // --------------------------------------------------------------------
-////
+
 // tag::EN[]
-[discrete]
-==== Prior knowledge of participants in the use of materials and infrastructure
+// [discrete]
+// ==== Prior knowledge of participants in the use of materials and infrastructure
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. must be confident in using the virtual whiteboard, soldering skills, …
-// end::REMARK[]
+////
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+// TBD - CAN be provided - your content here
 // end::EN[]
-////
+

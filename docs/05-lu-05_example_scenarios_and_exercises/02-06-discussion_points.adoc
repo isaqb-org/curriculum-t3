@@ -3,10 +3,9 @@
 === Discussion points
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 Things you might want to discuss with students since the topics may differ depending on the context or there may not be a common opinion about the topic in the industry. What are typical discussions one could expect/encounter?
-// end::REMARK[]
+////
 
 // tag::EN[]
 

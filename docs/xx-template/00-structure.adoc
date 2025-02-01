@@ -41,13 +41,6 @@ Please use reverse chronological order. Most recent changes are on top.
 |===
 // end::EN[]
 
-// tag::REMARK[]
-[IMPORTANT]
-====
-Enter reasonable times for duration and practice time.
-====
-// end::REMARK[]
-
 
 // Use comments to hide parts that you don't want to fill in yet.
 // But please, don't delete them.

@@ -1,13 +1,9 @@
-// tag::REMARK[]
 // tag::EN[]
 
 :sectnums!:
 
 [discrete]
 === Metadata and Lifecycle Information
-
-The following meta data and lifecycle information concerning this specific learing unit is only
-included in the `renderWithRemarks` output and omitted in `renderNoRemarks`.
 
 |===
 | Status and version of this learning unit     | *DRAFT v0.01*
@@ -35,5 +31,3 @@ Please use reverse chronological order. Most recent changes are on top.
 :sectnums:
 
 // end::EN[]
-// end::REMARK[]
-

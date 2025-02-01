@@ -10,22 +10,20 @@
 ==== Method hints
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 Suggestions and recommendations for presenting the topic, ideas for exercises, and general hints for increasing student participation.  There is a Didaktopedia out there (for internal use), maybe we can reference it in the future.
-// end::REMARK[]
+////
 
 // tag::EN[]
 
 [discrete]
 ===== Make T3 participants aware of the importance to know their audience
 
-// tag::REMARK[]
+
 [CAUTION]
 ====
 Turn Bloom's Taxonomy into a real reference (ALZ).
 ====
-// end::REMARK[]
 
 When setting up the structure for a training it is necessary to start with the student in mind. The two most important questions are:
 
@@ -136,11 +134,10 @@ It is usually not a good idea to have more than six hours of learning in a day, 
 ==== Previous knowledge regarding the contents
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 e.g. learners should have finished LU xy, should know what pattern X is.
 Note: this leads to constraints on the order of Learning Units!
-// end::REMARK[]
+////
 
 // tag::EN[]
 Learners should have finished LU 3 and know about didactics and training methods. 
@@ -150,35 +147,33 @@ Learners should have finished LU 3 and know about didactics and training methods
 
 // tag::EN[]
 
-////
-[discrete]
-==== Sustaining knowledge transfer - short term
+
+// [discrete]
+// ==== Sustaining knowledge transfer - short term
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 Follow-up activities: What do participants need to be able to independently follow up on the training session (additional material, links, literature references, videos, ....)? What things or artifacts can or should participants take home (screenshots, their own notes, photos of whiteboards, chat transcripts, ....)?
-// end::REMARK[]
+////
 
 // tag::EN[]
-TBD - CAN be provided - your content here
+// TBD - CAN be provided - your content here
 // end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
-==== Sustaining knowledge transfer - long term
-// end::EN[]
-
-// tag::REMARK[]
-[sidebar]
-Follow-up success control: How to check later, e.g. on subsequent days, if the content has been understood (e.g. warm-up exercise the next day, ....). How can this be verified after a longer period of time (e.g., offering a discussion session after several days, exam, term paper as in Advanced Level, ....)?
-How can participants actually apply what they have learned. "How can I do $tuff."
-// end::REMARK[]
-
-// tag::EN[]
-TBD - CAN be provided - your content here
+// [discrete]
+// ==== Sustaining knowledge transfer - long term
 // end::EN[]
 
 ////
+Follow-up success control: How to check later, e.g. on subsequent days, if the content has been understood (e.g. warm-up exercise the next day, ....). How can this be verified after a longer period of time (e.g., offering a discussion session after several days, exam, term paper as in Advanced Level, ....)?
+How can participants actually apply what they have learned. "How can I do $tuff."
+////
+
+// tag::EN[]
+// TBD - CAN be provided - your content here
+// end::EN[]
+
+

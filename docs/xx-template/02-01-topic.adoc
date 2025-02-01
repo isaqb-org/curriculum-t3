@@ -3,10 +3,9 @@
 === Topic
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 Coarse grained topic or learning area, e.g., "Executing the Training", "Recommended setup for online trainings"
-// end::REMARK[]
+////
 
 // tag::EN[]
 TBD - MUST be provided - your content here

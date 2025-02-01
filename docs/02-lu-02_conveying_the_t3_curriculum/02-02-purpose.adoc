@@ -3,11 +3,10 @@
 === Purpose
 // end::EN[]
 
-// tag::REMARK[]
-[sidebar]
+////
 The intention behind a LU. Should be one (coarse) goal, e.g.: People should know the GoF patterns.
-You can’t convey to many different things at once, 
-// end::REMARK[]
+You can’t convey to many different things at once,
+////
 
 // tag::EN[]
 While future FL trainers should have a solid professional background on software architecture as a prerequisite, not everyone will know every detail of the FL curriculum's content.
