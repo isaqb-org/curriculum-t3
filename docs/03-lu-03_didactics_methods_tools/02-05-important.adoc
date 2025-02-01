@@ -39,9 +39,9 @@ Trainers may be tempted to cover too much content in too little time, leading to
 
 ==== Addressing Common Misconceptions
 
-* *“More content leads to better learning”:* Overloading information reduces retention. A structured, well-paced approach is far more effective. +
-* *“All learners absorb information the same way:”* Some participants grasp concepts visually, others through discussion or hands-on experience. A multi-modal approach ensures inclusivity. +
-* *“Technical expertise alone makes a great trainer”:* A trainer’s ability to facilitate discussions, create an engaging atmosphere, and adapt to learners' needs is just as critical as their subject matter expertise.
+* *"More content leads to better learning":* Overloading information reduces retention. A structured, well-paced approach is far more effective. +
+* *"All learners absorb information the same way:"* Some participants grasp concepts visually, others through discussion or hands-on experience. A multi-modal approach ensures inclusivity. +
+* *"Technical expertise alone makes a great trainer":* A trainer’s ability to facilitate discussions, create an engaging atmosphere, and adapt to learners' needs is just as critical as their subject matter expertise.
 
 ==== Conclusion
 
