@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-=== Takeaways for students
+=== Takeaways for Students
 // end::EN[]
 
 ////

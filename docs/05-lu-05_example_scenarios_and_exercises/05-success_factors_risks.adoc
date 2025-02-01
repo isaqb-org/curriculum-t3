@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-=== Success factors and risks
+=== Success Factors and Risks
 // end::EN[]
 
 // --------------------------------------------------------------------
@@ -24,7 +24,7 @@ Fundamental disruptive factors (what could irritate, offend, trigger people abou
 
 // tag::EN[]
 [discrete]
-==== Possible barriers to knowledge transfer
+==== Possible Barriers to Knowledge Transfer
 // end::EN[]
 
 ////

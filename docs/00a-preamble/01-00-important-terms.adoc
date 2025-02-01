@@ -1,5 +1,5 @@
 // tag::EN[]
-=== Important terms and concepts
+=== Important Terms and Concepts
 
 Communicating about requirements on trainers for a train-the-trainer course training other trainers comes as confusing as it gets. 
 Therefor we have to clarify the basic concepts and terms right from the start:

@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-=== Success factors and risks
+=== Success Factors and Risks
 // end::EN[]
 
 // --------------------------------------------------------------------
@@ -23,7 +23,7 @@ TBD - CAN be provided - your content here
 
 // tag::EN[]
 [discrete]
-==== Possible barriers to knowledge transfer
+==== Possible Barriers to Knowledge Transfer
 // end::EN[]
 
 ////

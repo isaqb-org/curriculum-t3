@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-===  Reference material and resources for learners and trainers
+===  Reference Material and Resources for Learners and Trainers
 // end::EN[]
 
 ////

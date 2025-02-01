@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-=== Discussion points
+=== Discussion Points
 // end::EN[]
 
 ////
