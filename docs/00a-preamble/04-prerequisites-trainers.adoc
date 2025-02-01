@@ -13,7 +13,8 @@ T3 trainers should
 ===== Further prerequisites
 
 * The T3 trainer must have access to accredited training material to use it as example on how to provide a training.
-* This material *might* be provided by iSAQB GmbH if trainers cannot use their own material.
+* As T3 trainings are currently focused on the FL curriculum, T3 trainers *may* be eligible to obtain a licensed copy of the accredited Foundation Level slide deck from iSAQB GmbH.
+For Advanced Level modules, trainers must provide their own training materials.
 * When providing a T3 training, the type and source of training material used as an example *must* be stated in the training announcement.
 
 

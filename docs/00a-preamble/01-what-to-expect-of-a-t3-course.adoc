@@ -27,7 +27,7 @@ It communicates iSAQB's values and objectives to new trainers.
 
 It conveys knowledge of didactics, education methodology, and psychology of learning with relevance towards iSAQB-accredited software architecture trainings.
 
-It assures that trainers are well-versed in the iSAQB CPSA curriculae and share a common understanding of the corresponding concepts.
+It assures that trainers are well-versed in the specific iSAQB CPSA curriculum covered in the course (typically Foundation Level) and share a common understanding of its concepts.
 
 However, a T3 training is neither a guarantee for passing the trainer accreditation nor is it a prerequisite.
 
