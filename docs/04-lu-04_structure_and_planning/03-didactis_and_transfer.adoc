@@ -19,18 +19,12 @@ Suggestions and recommendations for presenting the topic, ideas for exercises, a
 [discrete]
 ===== Make T3 participants aware of the importance to know their audience
 
-
-[CAUTION]
-====
-Turn Bloom's Taxonomy into a real reference (ALZ).
-====
-
 When setting up the structure for a training it is necessary to start with the student in mind. The two most important questions are:
 
 . Who is my student and what are they trying to achieve by attending the training?
 . What do I want the student to _understand, know, or be able to do_ after the training? 
 
-These aspects of learning are part of Bloom's Taxonomy (https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), a set of models to classify educational learning.
+These aspects of learning are part of Bloom's Taxonomy <<wiki-bloom>>, a set of models to classify educational learning.
 
 The iSAQB curriculae describe training prerequisites and learning goals, but they don't describe how to deliver a training that is able to meet the needs and expectations of training participants.
 Therefore it is crucially important for trainers to create a course structure that helps delivering a training that is worthwhile for our students.

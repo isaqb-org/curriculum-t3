@@ -75,6 +75,9 @@
 // T
 - [[[tttgithub, T3GitHub]]] iSAQB, "Train-the-Trainer Curriculum," GitHub repository. [Online]. Available: https://github.com/isaqb-org/curriculum-t3
 
+// W
+- [[[wiki-bloom,Wiki-Bloom]]] "Bloom's taxonomy." Wikipedia. Accessed: Feb. 2, 2025. [Online]. Available: https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
+
 // tag::EN[]
 // Keep to avoid warning for missing EN tag
 // end::EN[]
