@@ -11,27 +11,34 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 
 These sources cover essential didactic concepts and modern methods for training software architects.
 
-Brown et al. - Make It Stick <<brown_makeitstick>>::
+Brown et al. - Make It Stick <<brown_makeitstick>>:: 
 A research-backed book on the psychology of learning, providing insights into **effective knowledge retention strategies**.
-Essential for LG 3-1 (Adult Learning) and LG 3-3 (Attention and Learning Performance).
+The book explores how people learn and retain information most effectively.
+Trainers can apply the spacing effect and retrieval practice in their training design, implement frequent knowledge checks, and revisit key concepts throughout the training to reinforce learning.
+The book also demonstrates how to use concrete examples and analogies to make abstract concepts more memorable.
 
-Bowman - Training from the Back of the Room <<bowman>>::
-A **practical guide to interactive and engaging teaching methods** for adult learners.
-Supports <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-6, LG 3-6 (Communication and Presentation Skills)>>.
+Bowman - Training from the Back of the Room <<bowman>>:: 
+A **practical guide to interactive and engaging teaching methods** specifically designed for adult learners.
+The book introduces innovative approaches to increase participant engagement and knowledge retention.
+Trainers can implement the 4Cs Model (Connections, Concepts, Concrete Practice, Conclusions) to structure their training sessions, use brain-friendly techniques to increase learner engagement, and design activities that encourage learners to teach and learn from each other.
 
 Dirksen - Design for How People Learn <<dirksen_design>>::
-A **practical book on learning design**, explaining how adults learn and how training methods should be adapted.
-Supports <<LG-3-1, LG 3-1 (Adult Learning>> and <<LG-3-5, LG 3-5 (Training Methods)>>.
+A **practical book on learning design** on learning design that explains how adults learn and how training methods should be adapted accordingly.
+The book focuses on practical approaches to designing effective learning experiences.
+Trainers can apply cognitive load theory principles when introducing complex technical topics, design learning experiences that account for different learning preferences and prior knowledge levels, and create engaging visual aids and examples that support learning objectives.
 
 Fink - Creating Significant Learning Experiences <<fink_creating>>::
-A **modern perspective on goal-oriented didactics**, highly useful for structuring training sessions. 
-Aligns with <<LG-3-2, LG 3-2 (Learning Objectives)>> and <<LG-3-5, LG 3-5 (Training Methods)>>.
+A **modern perspective on goal-oriented didactics** that provides valuable insights for structuring training sessions.
+The book offers an integrated approach to designing learning experiences that have lasting impact.
+Trainers will learn to structure learning objectives using Bloom's Taxonomy with specific examples, design activities that promote deep learning and long-term retention, and create assessment methods that align with learning objectives.
 
 Gee - The Anti-Education Era <<gee_antieducation>>::
-A critical discussion of **modern learning formats and digital teaching methods**, useful for online and hybrid training.
-Relevant to <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-4, LG 3-4 (Distraction Factors)>>.
+A critical discussion of **modern learning formats and digital teaching methods**, particularly valuable for online and hybrid training environments.
+The book examines how digital tools can either enhance or hinder learning.
+It helps trainers design courses that maintain engagement in hybrid or online training environments, develop strategies to combat digital distractions, and create meaningful digital interactions that support learning objectives.
 
 Hunter et al. - The Art of Facilitation <<hunter_facilitation>>::
-A fundamental work on **facilitation techniques and group dynamics**, valuable for understanding how to guide interactive learning sessions.
-Supports <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-6, LG 3-6 (Communication)>>.
+A fundamental work on **facilitation techniques and group dynamics** that provides valuable insights into guiding interactive learning sessions.
+The book focuses on creating and maintaining productive group learning environments. Trainers can apply effective facilitation techniques to manage group discussions and activities, handle difficult situations and conflicts in the training room, and create an inclusive learning environment that encourages participation from all learners.
+
 // end::EN[]
