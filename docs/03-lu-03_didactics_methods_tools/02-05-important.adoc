@@ -36,8 +36,8 @@ Trainers may be tempted to cover too much content in too little time, leading to
 ==== Strategies for Activating Participants
 
 * *Make Learning Relevant:* Use real-world case studies, *Architecture Katas*, and industry examples to connect theory with practice.
-* *Encourage Knowledge Exchange:* Facilitate peer teaching, structured debriefs, and collaborative exercises to deepen understanding
-* *Address Learning Barriers:* Be aware of common distractions and cognitive fatigue, implementing engaging session formats to sustain focus .
+* *Encourage Knowledge Exchange:* Facilitate peer teaching, structured debriefs, and collaborative exercises to deepen understanding.
+* *Address Learning Barriers:* Be aware of common distractions and cognitive fatigue, implementing engaging session formats to sustain focus.
 
 [discrete]
 ==== Addressing Common Misconceptions
