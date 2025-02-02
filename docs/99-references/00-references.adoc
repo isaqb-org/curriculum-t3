@@ -45,9 +45,12 @@
 - [[[hunter_facilitation,Hunter+1995]]] D. Hunter, A. Bailey, and B. Taylor, _The Art of Facilitation: How to Create Group Synergy_. Cambridge, MA, USA: Perseus Books, 1995.
 
 // I
-- [[[isaqb-coc,iSAQB-CoC]]] "Code of Conduct," International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org/about/code-of-conduct/
+- [[[isaqb,iSAQB]]] International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org
+- [[[isaqb-coc,iSAQB-CoC]]] "Code of Conduct," International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org/about/code-of-conduct
+- [[[isaqbdownloads,iSAQB-Downloads]]] International Software Architecture Qualification Board (iSAQB), "Downloads." Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org/downloads
+- [[[isaqbgithub,iSAQB-GitHub]]] International Software Architecture Qualification Board (iSAQB), "iSAQB GitHub Organization." Accessed: Feb. 2, 2025. [Online]. Available: https://github.com/isaqb-org
+- [[[isaqbFLC, iSAQB-FLC]]] International Software Architecture Qualification Board (iSAQB), "Foundation Level Curriculum." [Online]. Available: https://public.isaqb.org/curriculum-foundation
 
-- [[[isaqbFLC, iSAQB-FLC]]] International Software Architecture Qualification Board (iSAQB), "Foundation Level Curriculum." [Online]. Available: https://public.isaqb.org/curriculum-foundation/
 
 // K
 - [[[kruchten, Kruchten 1995]]] P. Kruchten, "Architectural Blueprints - The 4+1 View Model of Software Architecture," IEEE Softw., vol. 12, no. 6, pp. 42-50, Nov. 1995.

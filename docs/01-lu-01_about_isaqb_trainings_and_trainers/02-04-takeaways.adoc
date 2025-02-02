@@ -1,15 +1,12 @@
 // tag::EN[]
-[discrete]
+[discrete%breakable]
 === Takeaways for Students
 // end::EN[]
-
 ////
 A short (!) summary of the LUs content from the learners perspective.
 This is the TL;DR of relevant information that should be conveyed to learners.
 ////
-
 // tag::EN[]
-[IMPORTANT]
 * Deliver high-quality trainings that reflect iSAQB core values and provide practical value
 * Explain the benefits and objectives of iSAQB trainings to your future students
 * Adhere to the ethical standards expected of an iSAQB trainer

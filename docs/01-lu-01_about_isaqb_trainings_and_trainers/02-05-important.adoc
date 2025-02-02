@@ -2,11 +2,9 @@
 [discrete]
 === Important
 // end::EN[]
-
 ////
 What are particular important points that a T3 trainer should highlight or prioritize (because it is of outstanding relevance for future trainers).
 ////
-
 // tag::EN[]
 An effective trainer is a subject matter expert with comprehensive knowledge of Software Architecture & Engineering.
 They draw on extensive practical experience to illustrate concepts and provide real-world examples.
