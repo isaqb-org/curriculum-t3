@@ -36,28 +36,4 @@ Relevant to <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-4, LG 3-4 (Distract
 Hunter et al. - The Art of Facilitation <<hunter_facilitation>>::
 A fundamental work on **facilitation techniques and group dynamics**, valuable for understanding how to guide interactive learning sessions.
 Supports <<LG-3-5, LG 3-5 (Training Methods)>> and <<LG-3-6, LG 3-6 (Communication)>>.
-
-==== Architecture Teaching References - Modern Sources for Teaching Architectural Thinking
-
-These books focus on effective strategies for software architecture.
-Use them to illustrate the content of LU02.
-
-Richards/Ford - Fundamentals of Software Architecture <<richards_fundamentals>>::
-Provides a comprehensive guide to software architecture, covering both technical aspects (patterns, components, engineering practices) and practical considerations (team management, presentations, metrics), with principles applicable across technology stacks.
-
-Ford et al. - Software Architecture: The Hard Parts <<ford_hardparts>>::
-Covers **practical challenges in architecture decision-making**, ideal for **interactive discussions in training**.
-More suited for advanced learners as this is primarily about the trade-offs of distributed systems.
-
-Bass et al. - Software Architecture in Practice <<bass>>::
-Provides a comprehensive theoretical and practical foundation for software architecture, covering both fundamental principles and their application to modern technological challenges (like mobility, cloud, and DevOps). The book emphasizes architecture's role in achieving quality attributes and managing system evolution.
-
-Starke et al. - arc42 by Example <<arc42BE1>>::
-A **collection of real-world architectural case studies** that can be used in training.
-
-Neward et al. - Architectural Katas <<katas_neward>>::
-**Interactive architecture exercises**, ideal for **active learning methods** in software architecture training.
-Supports <<LG-3-5, LG 3-5 (Training Methods)>>.
-
-
 // end::EN[]
