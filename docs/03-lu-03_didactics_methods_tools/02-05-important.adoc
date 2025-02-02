@@ -10,6 +10,7 @@ What are particular important points that a T3 trainer should highlight or prior
 // tag::EN[]
 Effective training is not just about delivering content, it's about creating an engaging and a dynamic learning experience that ensures long-term knowledge retention and application. + 
 LU03 plays a crucial role in helping trainers master adult learning principles, effective communication, and interactive teaching methods that elevate CPSA training beyond passive knowledge transfer.
+
 [discrete]
 ==== Key Considerations for Effective Training
 
@@ -21,6 +22,7 @@ While foundational concepts provide structure, learning is most effective when p
 
 * *Cognitive Load and Attention Management:* Learning effectiveness depends on sustaining attention and minimizing distractions. Trainers should consider factors such as session duration, cognitive fatigue, and participant engagement levels. Implementing structured breaks, interactive activities, and periodic reflection points can help sustain focus
 
+[discrete]
 ==== Common Pitfalls in Teaching Technical Concepts
 
 * *Overloading Participants with Information:* 
@@ -30,18 +32,21 @@ Trainers may be tempted to cover too much content in too little time, leading to
 
 * *Lack of Interactivity and Engagement:* Passive learning methods such as lengthy slide presentations, often fail to sustain attention. Instead, trainers should use structured discussions, hands-on exercises, and active participation techniques to keep learners engaged.
 
+[discrete]
 ==== Strategies for Activating Participants
 
 * *Make Learning Relevant:* Use real-world case studies, *Architecture Katas*, and industry examples to connect theory with practice.
 * *Encourage Knowledge Exchange:* Facilitate peer teaching, structured debriefs, and collaborative exercises to deepen understanding
 * *Address Learning Barriers:* Be aware of common distractions and cognitive fatigue, implementing engaging session formats to sustain focus .
 
+[discrete]
 ==== Addressing Common Misconceptions
 
 * *"More content leads to better learning":* Overloading information reduces retention. A structured, well-paced approach is far more effective. +
-* *"All learners absorb information the same way:"* Some participants grasp concepts visually, others through discussion or hands-on experience. A multi-modal approach ensures inclusivity. +
+* *"All learners absorb information the same way":* Some participants grasp concepts visually, others through discussion or hands-on experience. A multi-modal approach ensures inclusivity. +
 * *"Technical expertise alone makes a great trainer":* A trainer’s ability to facilitate discussions, create an engaging atmosphere, and adapt to learners' needs is just as critical as their subject matter expertise.
 
+[discrete]
 ==== Conclusion
 
 A *great trainer* doesn’t just deliver only knowledge but also they *enable learning*. By applying interactive techniques, cognitive psychology insights, and real-world exercises, trainers can create engaging, high-impact training that ensures long-term skill development.

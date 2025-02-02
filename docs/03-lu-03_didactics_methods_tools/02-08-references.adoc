@@ -9,8 +9,6 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 
 // tag::EN[]
 
-==== Core Didactic References - Modern Sources on Adult Learning and Didactics
-
 These sources cover essential didactic concepts and modern methods for training software architects.
 
 Brown et al. - Make It Stick <<brown_makeitstick>>::
