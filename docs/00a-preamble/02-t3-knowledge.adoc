@@ -4,7 +4,7 @@
 // end::DE[]
 
 // tag::EN[]
-=== What can T3 training graduates do?
+=== What Can T3 Training Graduates Do?
 T3 graduates can:
 
 - Independently and methodically create and deliver software architecture trainings that comply with the iSAQB curriculae.

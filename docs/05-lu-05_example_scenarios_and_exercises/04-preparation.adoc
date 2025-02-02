@@ -7,7 +7,7 @@
 
 // tag::EN[]
 [discrete]
-==== Time and activities for trainer preparation
+==== Time and Activities for Trainer Preparation
 // end::EN[]
 
 ////
@@ -23,7 +23,7 @@ Be ready with the example scenario which will be used as a sample scenario while
 
 // tag::EN[]
 // [discrete]
-// ==== Time and activities for student preparation
+// ==== Time and Activities for Student Preparation
 // end::EN[]
 
 ////
@@ -38,7 +38,7 @@ e.g. 30 minutes 1 day in advance
 
 // tag::EN[]
 [discrete]
-==== Time for activity
+==== Time for Activity
 // end::EN[]
 
 ////
@@ -70,7 +70,7 @@ e.g. large room with 3 square meters per participant
 
 // tag::EN[]
 [discrete]
-==== Physical materials required for activities 
+==== Physical Materials Required for Activities 
 // end::EN[]
 
 ////
@@ -85,7 +85,7 @@ If in-person training, Few plain white papers and pen/pencil.
 
 // tag::EN[]
 [discrete]
-==== Virtual material/infrastructure
+==== Virtual Material/Infrastructure
 // end::EN[]
 
 ////
@@ -100,7 +100,7 @@ If online, shared whiteboard.
 
 // tag::EN[]
 [discrete]
-==== Prior knowledge of participants in the use of materials and infrastructure
+==== Prior Knowledge of Participants in the Use of Materials and Infrastructure
 // end::EN[]
 
 ////

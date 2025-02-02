@@ -7,7 +7,7 @@
 
 // tag::EN[]
 [discrete]
-==== Method hints
+==== Method Hints
 // end::EN[]
 
 ////
@@ -131,7 +131,7 @@ It is usually not a good idea to have more than six hours of learning in a day, 
 
 // tag::EN[]
 [discrete]
-==== Previous knowledge regarding the contents
+==== Previous Knowledge Regarding the Contents
 // end::EN[]
 
 ////
@@ -149,7 +149,7 @@ Learners should have finished LU 3 and know about didactics and training methods
 
 
 // [discrete]
-// ==== Sustaining knowledge transfer - short term
+// ==== Sustaining Knowledge Transfer - Short Term
 // end::EN[]
 
 ////
@@ -164,7 +164,7 @@ Follow-up activities: What do participants need to be able to independently foll
 
 // tag::EN[]
 // [discrete]
-// ==== Sustaining knowledge transfer - long term
+// ==== Sustaining Knowledge Transfer - Long Term
 // end::EN[]
 
 ////

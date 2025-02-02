@@ -7,7 +7,7 @@
 
 // tag::EN[]
 [discrete]
-==== Time and activities for trainer preparation
+==== Time and Activities for Trainer Preparation
 // end::EN[]
 
 ////
@@ -22,7 +22,7 @@ TBD - CAN be provided - your content here
 
 // tag::EN[]
 [discrete]
-==== Time and activities for student preparation
+==== Time and Activities for Student Preparation
 // end::EN[]
 
 ////
@@ -37,7 +37,7 @@ TBD - CAN be provided - your content here
 
 // tag::EN[]
 [discrete]
-==== Time for activity
+==== Time for Activity
 // end::EN[]
 
 ////
@@ -69,7 +69,7 @@ TBD - CAN be provided - your content here
 
 // tag::EN[]
 [discrete]
-==== Physical materials required for activities 
+==== Physical Materials Required for Activities 
 // end::EN[]
 
 ////
@@ -84,7 +84,7 @@ TBD - CAN be provided - your content here
 
 // tag::EN[]
 [discrete]
-==== Virtual material/infrastructure
+==== Virtual Material/Infrastructure
 // end::EN[]
 
 ////
@@ -103,7 +103,7 @@ TBD - CAN be provided - your content here
 
 // tag::EN[]
 [discrete]
-==== Prior knowledge of participants in the use of materials and infrastructure
+==== Prior Knowledge of Participants in the Use of Materials and Infrastructure
 // end::EN[]
 
 ////

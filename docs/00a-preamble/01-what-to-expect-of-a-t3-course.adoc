@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== What is the Train-the-Trainer course about?
+=== What Is the Train-the-Trainer Course About?
 
 The Train-the-Trainer (T3) course, while not mandatory, plays a supportive role in preparing individuals to become effective iSAQB trainers. It focuses on:
 
@@ -13,7 +13,7 @@ Although not a guarantee for accreditation, the T3 course can significantly boos
 This preparation can be valuable during the accreditation process, which includes an interview to assess the trainer's expertise and teaching ability.
 The T3 course complements the formal accreditation requirements, such as professional experience and certification, by offering practical skills and knowledge essential for high-quality training delivery.
 
-=== What does a Train-the-Trainer course convey?
+=== What Does a Train-the-Trainer Course Convey?
 
 A train-the-trainer course will enable (future) trainers to efficiently and effectively deliver high-quality training content in iSAQB-accredited trainings by sharing best practices and lessons learned from experienced trainers.
 

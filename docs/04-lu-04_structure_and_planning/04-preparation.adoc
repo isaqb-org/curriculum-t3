@@ -7,7 +7,7 @@
 
 // tag::EN[]
 [discrete]
-==== Time and activities for trainer preparation
+==== Time and Activities for Trainer Preparation
 // end::EN[]
 
 ////
@@ -23,7 +23,7 @@ It is also never finished, as every given instance of a class gives you new insi
 
 // tag::EN[]
 [discrete]
-==== Time and activities for student preparation
+==== Time and Activities for Student Preparation
 // end::EN[]
 
 ////
@@ -40,7 +40,7 @@ Sometimes it is helpful to prepare with some of the teaching and didactics theor
 
 // tag::EN[]
 [discrete]
-==== Time for activity
+==== Time for Activity
 // end::EN[]
 
 ////
@@ -72,7 +72,7 @@ e.g. large room with 3 square meters per participant
 
 // tag::EN[]
 // [discrete]
-// ==== Physical materials required for activities 
+// ==== Physical Materials Required for Activities 
 // end::EN[]
 
 ////
@@ -87,7 +87,7 @@ e.g. whiteboard, flipchart, note-blocks, pencils
 
 // tag::EN[]
 // [discrete]
-// ==== Virtual material/infrastructure
+// ==== Virtual Material/Infrastructure
 // end::EN[]
 
 ////
@@ -102,7 +102,7 @@ e.g. shared whiteboard, shared text editor, … (possible alternatives). Mind po
 
 // tag::EN[]
 // [discrete]
-// ==== Prior knowledge of participants in the use of materials and infrastructure
+// ==== Prior Knowledge of Participants in the Use of Materials and Infrastructure
 // end::EN[]
 
 ////

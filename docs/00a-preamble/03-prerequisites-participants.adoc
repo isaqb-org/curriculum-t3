@@ -1,5 +1,5 @@
 // tag::EN[]
-=== Prerequisites for participating in a T3 training
+=== Prerequisites for Participating in a T3 Training
 
 T3P should:
 
