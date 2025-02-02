@@ -45,6 +45,8 @@
 - [[[hunter_facilitation,Hunter+1995]]] D. Hunter, A. Bailey, and B. Taylor, _The Art of Facilitation: How to Create Group Synergy_. Cambridge, MA, USA: Perseus Books, 1995.
 
 // I
+- [[[isaqb-coc,iSAQB-CoC]]] "Code of Conduct," International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org/about/code-of-conduct/
+
 - [[[isaqbFLC, iSAQB-FLC]]] International Software Architecture Qualification Board (iSAQB), "Foundation Level Curriculum." [Online]. Available: https://public.isaqb.org/curriculum-foundation/
 
 // K
