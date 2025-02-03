@@ -1,15 +1,11 @@
 // tag::EN[]
 [discrete]
 === Purpose
-// end::EN[]
 
-////
-The intention behind a LU. Should be one (coarse) goal, e.g.: People should know the GoF patterns.
-You can’t convey to many different things at once,
-////
+// The intention behind a LU. Should be one (coarse) goal, e.g.: People should know the GoF patterns. You can’t convey to many different things at once,
 
-// tag::EN[]
-Future trainers should understand and live the core values of the iSAQB.
-Therefore, it is important for future trainers to know the iSAQB's self-image and understanding of values, and to understand their impact on the organization and delivery of trainings.
+
+Future trainers should understand and live the core values of the iSAQB^®^.
+Therefore, it is important for future trainers to know the iSAQB^®^'s self-image and understanding of values, and to understand their impact on the organization and delivery of trainings.
 Their conduct should reflect this understanding of values.
 // end::EN[]

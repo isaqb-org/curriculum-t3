@@ -8,13 +8,13 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // tag::EN[]
 To understand the iSAQB's values, principles, and training requirements discussed in this learning unit, trainers should familiarize themselves with several key resources:
 
-* The official iSAQB website <<isaqb>> provides comprehensive information about the organization's mission, structure, and certification programs. It serves as the primary source for understanding the overall context of iSAQB trainings.
+* The official iSAQB^®^ website <<isaqb>> provides comprehensive information about the organization's mission, structure, and certification programs. It serves as the primary source for understanding the overall context of iSAQB^®^ trainings.
 
-* The iSAQB Code of Conduct <<isaqb-coc>> is essential reading for all trainers, as it outlines the professional and ethical standards expected in the delivery of iSAQB trainings. This document will help trainers to understand their obligations and expected behavior.
+* The iSAQB^®^ Code of Conduct <<isaqb-coc>> is essential reading for all trainers, as it outlines the professional and ethical standards expected in the delivery of iSAQB^®^ trainings. This document will help trainers to understand their obligations and expected behavior.
 
-* The iSAQB Downloads section <<isaqbdownloads>> contains various resources and documents that support trainers in their professional development and help them understand the value proposition of iSAQB trainings.
+* The iSAQB^®^ Downloads section <<isaqbdownloads>> contains various resources and documents that support trainers in their professional development and help them understand the value proposition of iSAQB^®^ trainings.
 
-* For maintaining current knowledge and accessing community resources, the iSAQB GitHub repository <<isaqbgithub>> provides access to curricula updates and training materials, supporting the continuous improvement aspects outlined in this LU.
+* For maintaining current knowledge and accessing community resources, the iSAQB^®^ GitHub repository <<isaqbgithub>> provides access to curricula updates and training materials, supporting the continuous improvement aspects outlined in this LU.
 
 * The Foundation Level Curriculum <<isaqbFLC>> is a crucial reference for understanding the relationship between T3 training and conventional CPSA training as well as for understanding how to effectively deliver value to training participants.
 // end::EN[]

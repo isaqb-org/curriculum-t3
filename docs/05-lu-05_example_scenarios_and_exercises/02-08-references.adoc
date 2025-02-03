@@ -1,18 +1,13 @@
 // tag::EN[]
 [discrete]
 ===  Reference Material and Resources for Learners and Trainers
-// end::EN[]
 
-////
-Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via a label, see https://docs.asciidoctor.org/asciidoc/latest/macros/inter-document-xref/. The label has to be defined in `99-references/00-references.adoc`.
-////
+// Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via a label, see https://docs.asciidoctor.org/asciidoc/latest/macros/inter-document-xref/. The label has to be defined in `99-references/00-references.adoc`.
 
-// tag::EN[]
+
 [discrete]
 ===  Reference Material and Resources for Learners and Trainers
-// end::EN[]
 
-// tag::EN[]
 Architectural Katas by Ted Neward <<katas_neward>> or Mark Richards and Neal Ford <<katas1>>::
 A collection of architectural exercises that provides trainers with short, focused challenges that simulate real-world software architecture scenarios.
 These katas are particularly valuable for giving participants hands-on practice with architectural decision-making.

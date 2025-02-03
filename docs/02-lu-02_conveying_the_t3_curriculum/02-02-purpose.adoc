@@ -12,16 +12,16 @@ You can’t convey to many different things at once,
 While future FL trainers should have a solid professional background on software architecture as a prerequisite, not everyone will know every detail of the FL curriculum's content.
 During a T3 training session, possible knowledge gaps must be identified and addressed.
 
-In addition, the FL curriculum only defines *what* should be taught, but does not provide explanations of the content or best practices for teaching it. 
-In some areas of the discipline of software architecture, there is not yet a normative body of knowledge or a consolidated view on certain concepts and methods. 
-So it is a matter of communicating the iSAQB's view (or sometimes the multiplicity of views).
+In addition, the FL curriculum only defines *what* should be taught, but does not provide explanations of the content or best practices for teaching it.
+In some areas of the discipline of software architecture, there is not yet a normative body of knowledge or a consolidated view on certain concepts and methods.
+So it is a matter of communicating the iSAQB^®^'s view (or sometimes the multiplicity of views).
 
 Last but not least, the learning goals of the FL curriculum also provide a good basis for demonstrating how content can be didactically prepared and delivered and allows participants to actively practice this.
 Therefore, piggybacking the other learning goals of the curriculum based on this learning unit is recommended.
 
-In general, LU02 serves as a cross-cutting topic related to all other LUs in this curriculum, focusing on mastering and conveying the learning objectives outlined in the iSAQB's CPSA-FL curriculum and deriving them into a well-structured training program.
-All other LUs are complementary elements surrounding LU02, addressing various accompanying aspects that need to be included within the training program. For instance, LU01 provides a general introduction to iSAQB and its accreditation ecosystem. LU03 introduces the learning goals related to didactic methods essential for teaching activities within the training.
+In general, LU02 serves as a cross-cutting topic related to all other LUs in this curriculum, focusing on mastering and conveying the learning objectives outlined in the iSAQB^®^'s CPSA-FL curriculum and deriving them into a well-structured training program.
+All other LUs are complementary elements surrounding LU02, addressing various accompanying aspects that need to be included within the training program. For instance, LU01 provides a general introduction to iSAQB^®^ and its accreditation ecosystem. LU03 introduces the learning goals related to didactic methods essential for teaching activities within the training.
 In contrast, LU04 concentrates on designing the content structure and scheduling of the training sessions. LU05 requires T3 participants to be able to create their own example scenarios and exercises to facilitate knowledge transfer and deepen understanding for the CPSA training participants.
-Finally, LU06 focuses on the communicative and operational aspects essential for being an accredited FL trainer. This includes coordinating with certification bodies and liaising with the iSAQB board to provide brief introductions during their training. The aim is to reduce the complexity for the FL training participants in understanding how the CPSA-FL exam works, as well as keeping them informed about the current and future activities of the iSAQB board.
+Finally, LU06 focuses on the communicative and operational aspects essential for being an accredited FL trainer. This includes coordinating with certification bodies and liaising with the iSAQB^®^ board to provide brief introductions during their training. The aim is to reduce the complexity for the FL training participants in understanding how the CPSA-FL exam works, as well as keeping them informed about the current and future activities of the iSAQB^®^ board.
 
 // end::EN[]

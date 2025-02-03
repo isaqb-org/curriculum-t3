@@ -2,12 +2,12 @@
 
 === What Is the Train-the-Trainer Course About?
 
-The Train-the-Trainer (T3) course, while not mandatory, plays a supportive role in preparing individuals to become effective iSAQB trainers. It focuses on:
+The Train-the-Trainer (T3) course, while not mandatory, plays a supportive role in preparing individuals to become effective iSAQB^®^ trainers. It focuses on:
 
 * Deepening understanding of the CPSA Foundation Level curriculum
 * Enhancing didactic skills specific to software architecture training
 * Developing abilities to create and adapt relevant scenarios and exercises
-* Providing insight into operational aspects of iSAQB trainings
+* Providing insight into operational aspects of iSAQB^®^ trainings
 
 Although not a guarantee for accreditation, the T3 course can significantly boost a trainer's competence and confidence in both subject matter and training delivery.
 This preparation can be valuable during the accreditation process, which includes an interview to assess the trainer's expertise and teaching ability.
@@ -15,19 +15,19 @@ The T3 course complements the formal accreditation requirements, such as profess
 
 === What Does a Train-the-Trainer Course Convey?
 
-A train-the-trainer course will enable (future) trainers to efficiently and effectively deliver high-quality training content in iSAQB-accredited trainings by sharing best practices and lessons learned from experienced trainers.
+A train-the-trainer course will enable (future) trainers to efficiently and effectively deliver high-quality training content in iSAQB^®^-accredited trainings by sharing best practices and lessons learned from experienced trainers.
 
-It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB CPSA Foundation-Level trainings, but does not exclude software architecture trainers at other levels from participating.
+It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB^®^ CPSA Foundation-Level trainings, but does not exclude software architecture trainers at other levels from participating.
 
-It enables new iSAQB accredited trainers a fast start into training delivery, improves the quality of their training delivery by providing efficient knowledge transfer and exam preparation to their training participants.
+It enables new iSAQB^®^ accredited trainers a fast start into training delivery, improves the quality of their training delivery by providing efficient knowledge transfer and exam preparation to their training participants.
 
 It offers continuing education for accredited software architecture trainers and prepares future software architecture trainers for accreditation.
 
-It communicates iSAQB's values and objectives to new trainers.
+It communicates iSAQB^®^'s values and objectives to new trainers.
 
-It conveys knowledge of didactics, education methodology, and psychology of learning with relevance towards iSAQB-accredited software architecture trainings.
+It conveys knowledge of didactics, education methodology, and psychology of learning with relevance towards iSAQB^®^-accredited software architecture trainings.
 
-It assures that trainers are well-versed in the specific iSAQB CPSA curriculum covered in the course (typically Foundation Level) and share a common understanding of its concepts.
+It assures that trainers are well-versed in the specific iSAQB^®^ CPSA curriculum covered in the course (typically Foundation Level) and share a common understanding of its concepts.
 
 However, a T3 training is neither a guarantee for passing the trainer accreditation nor is it a prerequisite.
 
