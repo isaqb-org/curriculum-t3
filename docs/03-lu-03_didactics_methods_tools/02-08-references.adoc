@@ -10,6 +10,8 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 // tag::EN[]
 
 These sources cover essential didactic concepts and modern methods for training software architects.
+When using these resources, focus on adapting the concepts and methods to your specific training context and participant needs.
+The goal is not to apply every technique from every resource, but to select and combine approaches that best serve your learning objectives and audience.
 
 Brown et al. - Make It Stick <<brown_makeitstick>>:: 
 A research-backed book on the psychology of learning, providing insights into **effective knowledge retention strategies**.
