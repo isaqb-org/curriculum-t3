@@ -11,8 +11,8 @@
 // Keep in mind: The publication date of a source may change.
 
 // the "text that will be shown" is the citation key
-// please use the consitent format documented in 
 // https://github.com/isaqb-org/curriculum-foundation/blob/main/documentation/decisions/012-citation_key_standardization.md
+// please use the consistent format documented in
 // for the rest of the bibliography, use IEEE style
 // http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf
 
