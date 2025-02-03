@@ -1,20 +1,20 @@
 // tag::EN[]
 [discrete%breakable]
 === Takeaways for Students
-// end::EN[]
-////
-A short (!) summary of the LUs content from the learners perspective.
-This is the TL;DR of relevant information that should be conveyed to learners.
-////
-// tag::EN[]
-* Deliver high-quality trainings that reflect iSAQB core values and provide practical value
-* Explain the benefits and objectives of iSAQB trainings to your future students
-* Adhere to the ethical standards expected of an iSAQB trainer
+
+
+// A short (!) summary of the LUs content from the learner's perspective.
+// This is the TL;DR of relevant information that should be conveyed to learners.
+
+
+* Deliver high-quality trainings that reflect iSAQB® core values and provide practical value
+* Explain the benefits and objectives of iSAQB® trainings to your future students
+* Adhere to the ethical standards expected of an iSAQB® trainer
 * Adapt your training approach to suit Foundation Level participants' needs
 * Continuously improve your training skills and software architecture knowledge
-* Conduct yourself professionally, recognizing your impact on iSAQB's reputation
-* Stay connected with the iSAQB community for updates on best practices and the curriculum
+* Conduct yourself professionally, recognizing your impact on iSAQB®'s reputation
+* Stay connected with the iSAQB® community for updates on best practices and the curriculum
 * Balance theoretical concepts with practical applications in your training
-* Foster a learning environment aligned with iSAQB's commitment to excellence
-====
+* Foster a learning environment aligned with iSAQB®'s commitment to excellence
+
 // end::EN[]

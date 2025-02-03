@@ -8,6 +8,6 @@ Coarse grained topic or learning area, e.g., "Executing the Training", "Recommen
 ////
 
 // tag::EN[]
-This section discusses important aspects related to training organization and adherence to standards set by iSAQB (International Software Architecture Qualification Board). It covers topics such as accreditation processes, quality control, legal frameworks, licensing, rules, codes of conduct, fees, venue selection, and examination procedures. Additionally, it addresses aspects like material usage, customer registration, reporting requirements, self-promotion, and communication with iSAQB.
+This section discusses important aspects related to training organization and adherence to standards set by iSAQB® (International Software Architecture Qualification Board). It covers topics such as accreditation processes, quality control, legal frameworks, licensing, rules, codes of conduct, fees, venue selection, and examination procedures. Additionally, it addresses aspects like material usage, customer registration, reporting requirements, self-promotion, and communication with iSAQB®.
 
 // end::EN[]

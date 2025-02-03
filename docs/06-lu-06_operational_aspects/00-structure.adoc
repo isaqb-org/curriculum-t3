@@ -1,5 +1,5 @@
 // header file for curriculum section 6: Running a Training Provider Business
-// (c) iSAQB e.V. (https://isaqb.org)
+// (c) iSAQB® e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::EN[]

@@ -8,5 +8,5 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 ////
 
 // tag::EN[]
-Training providers and trainers must follow the iSAQB Code of Conduct <<isaqb-coc>> which provides guidelines for professional behavior, ethical standards, and responsibilities in delivering iSAQB trainings.
+Training providers and trainers must follow the iSAQB® Code of Conduct <<isaqb-coc>> which provides guidelines for professional behavior, ethical standards, and responsibilities in delivering iSAQB® trainings.
 // end::EN[]

@@ -26,7 +26,7 @@ When setting up the structure for a training it is necessary to start with the s
 
 These aspects of learning are part of Bloom's Taxonomy <<wiki-bloom>>, a set of models to classify educational learning.
 
-The iSAQB curriculae describe training prerequisites and learning goals, but they don't describe how to deliver a training that is able to meet the needs and expectations of training participants.
+The iSAQB® curriculae describe training prerequisites and learning goals, but they don't describe how to deliver a training that is able to meet the needs and expectations of training participants.
 Therefore it is crucially important for trainers to create a course structure that helps delivering a training that is worthwhile for our students.
 We will describe a few things that can and should be kept in mind when setting up a course structure for your training.
 

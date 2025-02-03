@@ -9,17 +9,17 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 ////
 
 // tag::EN[]
-. Uphold iSAQB standards and professional conduct:
+. Uphold iSAQB® standards and professional conduct:
 * Complete required accreditation processes
 * Adhere to rules on training mode, group size, and ethical conduct
 * Apply rigorous quality control measures
-* Maintain clear communication with iSAQB
+* Maintain clear communication with iSAQB®
 * Submit required reports and declarations
 * Stay informed about curriculum updates
 * Promote trainings responsibly
 
 . Manage course materials responsibly:
-* Use licensed content as per iSAQB contracts
+* Use licensed content as per iSAQB® contracts
 * Customize within allowed limits
 * Avoid copyright infringements
 

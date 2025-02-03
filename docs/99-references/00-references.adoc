@@ -1,5 +1,5 @@
 // header file for curriculum section "References"
-// (c) iSAQB e.V. (https://isaqb.org)
+// (c) iSAQB® e.V. (https://isaqb.org)
 // ===============================================
 
 [bibliography]
@@ -52,10 +52,10 @@
 
 **I**
 
-- [[[isaqb,iSAQB]]] International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org
+- [[[isaqb,iSAQB®]]] International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org
 - [[[isaqb-coc,iSAQB-CoC]]] "Code of Conduct," International Software Architecture Qualification Board (iSAQB). Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org/about/code-of-conduct
 - [[[isaqbdownloads,iSAQB-Downloads]]] International Software Architecture Qualification Board (iSAQB), "Downloads." Accessed: Feb. 2, 2025. [Online]. Available: https://www.isaqb.org/downloads
-- [[[isaqbgithub,iSAQB-GitHub]]] International Software Architecture Qualification Board (iSAQB), "iSAQB GitHub Organization." Accessed: Feb. 2, 2025. [Online]. Available: https://github.com/isaqb-org
+- [[[isaqbgithub,iSAQB-GitHub]]] International Software Architecture Qualification Board (iSAQB), "iSAQB® GitHub Organization." Accessed: Feb. 2, 2025. [Online]. Available: https://github.com/isaqb-org
 - [[[isaqbFLC, iSAQB-FLC]]] International Software Architecture Qualification Board (iSAQB), "Foundation Level Curriculum." [Online]. Available: https://public.isaqb.org/curriculum-foundation
 
 
