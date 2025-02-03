@@ -4,5 +4,5 @@
 
 // Coarse grained topic or learning area, e.g., "Executing the Training", "Recommended setup for online trainings"
 
-Conveying the values and objectives of the iSAQB®.
+Conveying the values and objectives of the iSAQB^®^.
 // end::EN[]

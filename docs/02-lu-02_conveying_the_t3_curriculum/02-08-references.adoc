@@ -6,7 +6,7 @@
 Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via a label, see https://docs.asciidoctor.org/asciidoc/latest/macros/inter-document-xref/. The label has to be defined in `99-references/00-references.adoc`.
 ////
 // tag::EN[]
-The iSAQB® Foundation Level Curriculum (<<isaqbFLC>>) already provides an extensive list of references covering the Foundation Level content.
+The iSAQB^®^ Foundation Level Curriculum (<<isaqbFLC>>) already provides an extensive list of references covering the Foundation Level content.
 The following references represent a possibly arbitrary collection of books that we personally consider relevant for teaching and understanding software architecture concepts in the context of Foundation Level training.
 This list is neither complete nor definitive - it simply reflects our current preferences and experiences.
 Most of them focus on effective strategies for software architecture.

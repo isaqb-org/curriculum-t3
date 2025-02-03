@@ -10,13 +10,13 @@ Learning Goal (LG):: A specific, measurable outcome that participants should ach
 
 Train-the-Trainer (T3):: As we will use the term "Train-the-Trainer" extensively, it makes sense to abbreviate it to "T3", as in T3 trainer, T3 training, etc.
 
-T3 training, Train-the-Trainer training, T3 course:: A T3 training or T3 course enables (future) trainers to efficiently and effectively deliver iSAQB®-accredited trainings. This curriculum describes the contents of such a training.
+T3 training, Train-the-Trainer training, T3 course:: A T3 training or T3 course enables (future) trainers to efficiently and effectively deliver iSAQB^®^-accredited trainings. This curriculum describes the contents of such a training.
 
 T3 trainer:: A person delivering a T3 training.
 
 T3 participant (T3P):: A person participating in a T3 training with the intention to deliver better CPSA (Certified Professional for Software Architecture) trainings.
 
-CPSA training:: Any iSAQB® accredited Foundation Level (CPSA-F^(R)^) or Advanced Level (CPSA-A^(R)^) training. Most T3P will attend a T3 training to get started delivering FL trainings.
+CPSA training:: Any iSAQB^®^ accredited Foundation Level (CPSA-F^(R)^) or Advanced Level (CPSA-A^(R)^) training. Most T3P will attend a T3 training to get started delivering FL trainings.
 
 CPSA student, student, CPSA training participant (CTP):: We are going to use the term "student" or "CPSA student" exclusively for referring to persons attending a CPSA training (the future customers of the T3P) in order to distinguish them from T3 participants.
 

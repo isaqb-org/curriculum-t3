@@ -1,5 +1,5 @@
 // header file for curriculum section 4: Structure and Planning
-// (c) iSAQB® e.V. (https://isaqb.org)
+// (c) iSAQB^®^ e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::EN[]

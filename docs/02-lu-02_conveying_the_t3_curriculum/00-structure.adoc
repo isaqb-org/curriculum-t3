@@ -1,5 +1,5 @@
 // header file for curriculum section 2: Mastering and Conveying the FL Curriculum
-// (c) iSAQB® e.V. (https://isaqb.org)
+// (c) iSAQB^®^ e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::EN[]

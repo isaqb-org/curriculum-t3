@@ -1,9 +1,9 @@
-// header file for curriculum section 1: About iSAQB® Trainings and Trainers
-// (c) iSAQB® e.V. (https://isaqb.org)
+// header file for curriculum section 1: About iSAQB^®^ Trainings and Trainers
+// (c) iSAQB^®^ e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::EN[]
-== LU01 - About iSAQB® Trainings and Trainers
+== LU01 - About iSAQB^®^ Trainings and Trainers
 
 |===
 | Duration: 30-60 min | Practice time: n/a

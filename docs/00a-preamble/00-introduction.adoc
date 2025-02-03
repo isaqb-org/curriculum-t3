@@ -24,11 +24,11 @@ NOTE: Contributors are listed in alphabetical order by last name.
 
 == Introduction: General Information About the T3 Course
 
-A Train-the-Trainer (T3) course is designed to enable trainers to efficiently and effectively deliver high-quality training content in iSAQB®-accredited trainings.
-It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB® CPSA Foundation-Level trainings, but will not exclude software architecture trainers at other levels from participating.
+A Train-the-Trainer (T3) course is designed to enable trainers to efficiently and effectively deliver high-quality training content in iSAQB^®^-accredited trainings.
+It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB^®^ CPSA Foundation-Level trainings, but will not exclude software architecture trainers at other levels from participating.
 It focuses on enhancing expertise in the subject matter, effective teaching methods, creating a positive learning environment, and professional training delivery.
 Participants learn to design and deliver engaging, high-quality courses, manage group dynamics, and handle challenging training situations.
-The course also emphasizes continuous improvement and alignment with iSAQB® values and standards.
+The course also emphasizes continuous improvement and alignment with iSAQB^®^ values and standards.
 While it enhances training delivery skills, it is not a prerequisite for trainer accreditation.
 // end::EN[]
 

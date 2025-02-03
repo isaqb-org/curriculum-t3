@@ -52,12 +52,12 @@ They should also be able to outline the exam procedure and offer tips for reduci
 
 [discrete]
 [[LG-2-7]]
-==== LG 2-7: Use of materials provided by iSAQB®
-T3P should be able to effectively utilize and explain the purpose of materials provided by iSAQB®, including the curriculum, glossary, and mock exams.
-For slide deck material, only the Foundation Level reference slide deck may be available through licensing from iSAQB® - Advanced Level slide decks must be created or obtained by the trainers or training providers themselves.
+==== LG 2-7: Use of materials provided by iSAQB^®^
+T3P should be able to effectively utilize and explain the purpose of materials provided by iSAQB^®^, including the curriculum, glossary, and mock exams.
+For slide deck material, only the Foundation Level reference slide deck may be available through licensing from iSAQB^®^ - Advanced Level slide decks must be created or obtained by the trainers or training providers themselves.
 T3P should demonstrate how to incorporate these resources into their training sessions and guide students in their use for self-study.
 They should understand how these materials evolve over time and be able to explain the process for staying updated.
-They should also be familiar with the procedures for contributing to the FL curriculum and other iSAQB® materials when appropriate.
+They should also be familiar with the procedures for contributing to the FL curriculum and other iSAQB^®^ materials when appropriate.
 
 // end::EN[]
 

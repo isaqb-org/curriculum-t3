@@ -9,8 +9,8 @@
 == List of Learning Goals
 
 - <<LG-1-1, LG 1-1: Understanding the objectives of a T3 Training>>
-- <<LG-1-2, LG 1-2: iSAQB values and principles>>
-- <<LG-1-3, LG 1-3: Value of an iSAQB training>>
+- <<LG-1-2, LG 1-2: iSAQB^®^ values and principles>>
+- <<LG-1-3, LG 1-3: Value of an iSAQB^®^ training>>
 - <<LG-1-4, LG 1-4: Obligations of trainers and training organizations>>
 - <<LG-1-5, LG 1-5: Further development of trainer competencies>>
 - <<LG-2-1, LG 2-1: Profound understanding and broad knowledge of the FL curriculum>>
@@ -19,7 +19,7 @@
 - <<LG-2-4, LG 2-4: Common challenges and questions>>
 - <<LG-2-5, LG 2-5: Handling advanced Level questions>>
 - <<LG-2-6, LG 2-6: Effective FL exam preparation>>
-- <<LG-2-7, LG 2-7: Use of materials provided by iSAQB>>
+- <<LG-2-7, LG 2-7: Use of materials provided by iSAQB^®^>>
 - <<LG-3-1, LG 3-1: Adult learning and blooms taxonomy>>
 - <<LG-3-2, LG 3-2: Learning Objectives and benefits>>
 - <<LG-3-3, LG 3-3: Attention and learning performance>>
@@ -41,7 +41,7 @@
 - <<LG-5-5, LG 5-5:  Provide stand-alone exercises>>
 - <<LG-6-1, LG 6-1: Training management standards>>
 - <<LG-6-2, LG 6-2: Effective use of Intellectual Property>>
-- <<LG-6-3, LG 6-3: Effective communication with iSAQB>>
+- <<LG-6-3, LG 6-3: Effective communication with iSAQB^®^>>
 - <<LG-6-4, LG 6-4: Training venue organization>>
 - <<LG-6-5, LG 6-5: Exam organization>>
 // end::EN[]

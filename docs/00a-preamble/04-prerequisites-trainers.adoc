@@ -4,16 +4,16 @@
 
 T3 trainers should
 
-* Substantially exceed the prerequisites required for T3P and active iSAQB® trainers.
-* Have a multi-year active history of providing iSAQB® accredited trainings.
+* Substantially exceed the prerequisites required for T3P and active iSAQB^®^ trainers.
+* Have a multi-year active history of providing iSAQB^®^ accredited trainings.
 * Be able to draw from a didactic education or a long-standing history of being an active trainer.
-* Have cleared the FL exam or already work as an accredited iSAQB® trainer.
+* Have cleared the FL exam or already work as an accredited iSAQB^®^ trainer.
 
 [discrete]
 ===== Further Prerequisites
 
 * The T3 trainer must have access to accredited training material to use it as example on how to provide a training.
-* As T3 trainings are currently focused on the FL curriculum, T3 trainers *may* be eligible to obtain a licensed copy of the accredited Foundation Level slide deck from iSAQB® GmbH.
+* As T3 trainings are currently focused on the FL curriculum, T3 trainers *may* be eligible to obtain a licensed copy of the accredited Foundation Level slide deck from iSAQB^®^ GmbH.
 For Advanced Level modules, trainers must provide their own training materials.
 * When providing a T3 training, the type and source of training material used as an example *must* be stated in the training announcement.
 

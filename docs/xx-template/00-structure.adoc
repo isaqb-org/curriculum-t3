@@ -1,6 +1,6 @@
 // TEMPLATE for Learning Units (delete this line after copying it)
 // header file for curriculum section X: YOUR NAME FOR THE LEARNING UNIT HERE
-// (c) iSAQB® e.V. (https://isaqb.org)
+// (c) iSAQB^®^ e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::EN[]

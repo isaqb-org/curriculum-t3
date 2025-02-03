@@ -14,26 +14,26 @@ T3P can identify and express their own learning goals regarding the T3 training.
 
 [discrete]
 [[LG-1-2]]
-==== LG 1-2: iSAQB® values and principles
-T3P can explain the values and principles of the iSAQB® to their students and interested third parties.
-They can explain why the iSAQB® strives to provide high-quality trainings with substantial and immediate practical value.
+==== LG 1-2: iSAQB^®^ values and principles
+T3P can explain the values and principles of the iSAQB^®^ to their students and interested third parties.
+They can explain why the iSAQB^®^ strives to provide high-quality trainings with substantial and immediate practical value.
 
 
 [discrete]
 [[LG-1-3]]
-==== LG 1-3: Value of an iSAQB® training
-T3P can describe the target audience of iSAQB® trainings and the added value such trainings deliver to the target audiences.
-They can name the key differentiators of iSAQB® trainings and describe what distinguishes iSAQB® trainings from comparable or similar training offers.
+==== LG 1-3: Value of an iSAQB^®^ training
+T3P can describe the target audience of iSAQB^®^ trainings and the added value such trainings deliver to the target audiences.
+They can name the key differentiators of iSAQB^®^ trainings and describe what distinguishes iSAQB^®^ trainings from comparable or similar training offers.
 They can explain the importance of tailoring trainings to the target market and audience.
 They can provide examples of different target markets (e.g. automotive, telco, finance, ...) and name strategies on how to meet their needs, e.g. applying specialized or tailored examples and shifting the focus of the training.
 
 [discrete]
 [[LG-1-4]]
 ==== LG 1-4: Obligations of trainers and training organizations
-T3P can describe the obligations that are implied on trainers and training organization by acting according to iSAQB®s values.
+T3P can describe the obligations that are implied on trainers and training organization by acting according to iSAQB^®^s values.
 They can provide examples and counter examples for the expected behavior, demanour and business practices.
 T3P can name resources for acquiring more information about managing workload on the trainer side, improving mental strength, self-talk regulation, relaxation methods, and self-regulation techniques.
-They know and introduce the State-of-the-Art of iSAQB® in their individual country where their target group for the training is located.
+They know and introduce the State-of-the-Art of iSAQB^®^ in their individual country where their target group for the training is located.
 
 [discrete]
 [[LG-1-5]]
