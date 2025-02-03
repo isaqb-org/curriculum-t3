@@ -8,6 +8,19 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 ////
 
 // tag::EN[]
-* <<bowman>>
-* <<mccarthy>>
+[discrete]
+===  Reference Material and Resources for Learners and Trainers
+// end::EN[]
+
+// tag::EN[]
+Bowman - Training from the Back of the Room <<bowman>>::
+A **practical guide** that shows how to create training that sticks by introducing innovative approaches to increase participant engagement and knowledge retention.
+
+McCarthy - About Teaching: 4MAT in the Classroom <<mccarthy>>::
+A comprehensive guide that introduces the 4MAT model for structuring learning experiences.
+The book helps trainers understand how to structure learning units in a logical and engaging way that accommodates different learning styles and promotes effective knowledge transfer.
+
+Liberating Structures <<libstruc>>::
+An online collection of facilitation methods and structured exercises that provides trainers with practical tools to facilitate discussions and maintain participant engagement.
+These structures can be particularly valuable for adapting content dynamically during training sessions and ensuring active participation from all attendees.
 // end::EN[]

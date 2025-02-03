@@ -12,7 +12,7 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 [[LG-3-1]]
 ==== LG 3-1: Adult learning and blooms taxonomy
 T3P should be able to describe the unique characteristics and special challenges of adult learning, including handling heterogeneous groups with different skill levels and backgrounds.
-They should know the training relevant parts of blooms taxonomy and be able to map the needs and expectations of participants to them.
+They should know the training relevant parts of bloom's taxonomy <<wiki-bloom>> and be able to map the needs and expectations of participants to them.
 
 [discrete]
 [[LG-3-2]]

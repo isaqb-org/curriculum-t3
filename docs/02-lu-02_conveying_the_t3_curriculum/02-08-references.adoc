@@ -2,15 +2,31 @@
 [discrete]
 ===  Reference Material and Resources for Learners and Trainers
 // end::EN[]
-
 ////
 Web sources, Videos, Books, etc. that helps the trainer to prepare the content of this LU and might also be useful for handing it out to participants. A reference source is referenced via a label, see https://docs.asciidoctor.org/asciidoc/latest/macros/inter-document-xref/. The label has to be defined in `99-references/00-references.adoc`.
 ////
-
 // tag::EN[]
+The iSAQB Foundation Level Curriculum (<<isaqbFLC>>) already provides an extensive list of references covering the Foundation Level content.
+The following references represent a possibly arbitrary collection of books that we personally consider relevant for teaching and understanding software architecture concepts in the context of Foundation Level training.
+This list is neither complete nor definitive - it simply reflects our current preferences and experiences.
+Most of them focus on effective strategies for software architecture.
+Use them to illustrate the content of LU02.
+
 When choosing materials and resources for learners and trainers, good references in languages other than English or German can also be considered, depending on the countries of the participants. Banned media channels should be avoided.
-// end::EN[]
 
-// tag::EN[]
-TBD - SHOULD be provided, good references are always helpful - your content here
+Richards/Ford - Fundamentals of Software Architecture <<richards_fundamentals>>::
+Provides a comprehensive guide to software architecture, covering both technical aspects (patterns, components, engineering practices) and practical considerations (team management, presentations, metrics), with principles applicable across technology stacks.
+
+Ford et al. - Software Architecture: The Hard Parts <<ford_hardparts>>::
+Covers **practical challenges in architecture decision-making**, ideal for **interactive discussions in training**.
+More suited for advanced learners as this is primarily about the trade-offs of distributed systems.
+
+Bass et al. - Software Architecture in Practice <<bass>>::
+Provides a comprehensive theoretical and practical foundation for software architecture, covering both fundamental principles and their application to modern technological challenges (like mobility, cloud, and DevOps). The book emphasizes architecture's role in achieving quality attributes and managing system evolution.
+
+Starke et al. - arc42 by Example <<arc42BE1>>::
+A **collection of real-world architectural case studies** that can be used in training.
+
+Neward et al. - Architectural Katas <<katas_neward>>::
+**Interactive architecture exercises**, ideal for **active learning methods** in software architecture training.
 // end::EN[]
