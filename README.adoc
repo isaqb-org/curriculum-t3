@@ -43,7 +43,7 @@ git clone https://github.com/isaqb-org/curriculum-t3.git --recursive
 ----
 --
 . Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
-. Build the project with http://www.gradle.com[gradle] (You need a locally installed and current JDK, at least Java 17) via `./gradlew`.
+. Build the project with http://www.gradle.com[gradle] (You need a locally installed and current JDK, at least Java 17) via `./gradle-tools/gradlew`.
 . Once the "BUILD SUCCESSFUL" is shown, you can review the build result under `./build/index.html`.
 
 == On writing style
