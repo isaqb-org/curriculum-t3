@@ -8,11 +8,6 @@ Web sources, Videos, Books, etc. that helps the trainer to prepare the content o
 ////
 
 // tag::EN[]
-[discrete]
-===  Reference Material and Resources for Learners and Trainers
-// end::EN[]
-
-// tag::EN[]
 Bowman - Training from the Back of the Room <<bowman>>::
 A **practical guide** that shows how to create training that sticks by introducing innovative approaches to increase participant engagement and knowledge retention.
 

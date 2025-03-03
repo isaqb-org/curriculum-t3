@@ -1,8 +1,7 @@
 // tag::EN[]
 === Important Terms and Concepts
 
-Communicating about requirements on trainers for a train-the-trainer course training other trainers comes as confusing as it gets.
-Therefor we have to clarify the basic concepts and terms right from the start:
+Discussing requirements for trainers who will teach in a train-the-trainer course (where they train future trainers) can be extraordinarily confusing. Therefore, we need to clarify the basic concepts and terminology from the beginning:
 
 Learning Unit (LU):: A distinct section of the curriculum that focuses on a specific topic or set of related topics. Most Learning Units are designed to be taught as cohesive blocks, typically lasting several hours. However, LU02 (Mastering and Conveying the FL Curriculum), is cross-cutting and integrated throughout the course rather than taught as a single block. Each Learning Unit comprises multiple Learning Goals.
 
