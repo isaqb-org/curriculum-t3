@@ -1,5 +1,5 @@
 // tag::EN[]
-=== Important Terms and Concepts
+=== Glossary: Important Terms and Concepts
 
 Discussing requirements for trainers who will teach in a train-the-trainer course (where they train future trainers) can be extraordinarily confusing. Therefore, we need to clarify the basic concepts and terminology from the beginning:
 
