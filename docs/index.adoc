@@ -9,16 +9,12 @@ The terminology used in the iSAQB^®^ curricula can be found as a (freely availa
 
 == Latest Release {release-version}
 
-The Advanced Level {curriculum-short} curriculum is currently maintained and published in both English (EN) and German (DE).
+The {curriculum-short} curriculum is currently maintained and published in English (EN) only.
 Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
 
 [cols="<,^,^"]
 |===
 | Version | HTML | PDF
-
-| German
-| link:{curriculumFileName}-de.html[HTML]
-| link:{curriculumFileName}-de.pdf[PDF]
 
 | English
 | link:{curriculumFileName}-en.html[HTML]
