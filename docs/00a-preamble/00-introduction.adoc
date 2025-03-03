@@ -16,6 +16,7 @@ The following people have contributed to the creation and development of this Tr
 * Alexander Lorz
 * Alfredo Delgado Sánchez
 * Gerhard Wanner
+* Benjamin Wolf
 * Meng Zhang
 
 We thank all contributors for their valuable input and dedication to improving the quality of software architecture training.
