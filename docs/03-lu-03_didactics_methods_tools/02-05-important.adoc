@@ -18,9 +18,9 @@ LU03 plays a crucial role in helping trainers master adult learning principles, 
 tangible through real-world application. Incorporating experiential learning techniques such as discussions, problem-solving, and case studies ensures deeper understanding and concepts retention.
 
 * *Balancing Theory with Practical Application:*
-While foundational concepts provide structure, learning is most effective when participants actively engage with the material. To achieve this, trainers should limit long theoretical lectures and instead integrate interactive exercises, hands-on demonstrations, and real-world scenarios to reinforce key ideas
+While foundational concepts provide structure, learning is most effective when participants actively engage with the material. To achieve this, trainers should limit long theoretical lectures and instead integrate interactive exercises, hands-on demonstrations, and real-world scenarios to reinforce key ideas.
 
-* *Cognitive Load and Attention Management:* Learning effectiveness depends on sustaining attention and minimizing distractions. Trainers should consider factors such as session duration, cognitive fatigue, and participant engagement levels. Implementing structured breaks, interactive activities, and periodic reflection points can help sustain focus
+* *Cognitive Load and Attention Management:* Learning effectiveness depends on sustaining attention and minimizing distractions. Trainers should consider factors such as session duration, cognitive fatigue, and participant engagement levels. Implementing structured breaks, interactive activities, and periodic reflection points can help sustain focus.
 
 [discrete]
 ==== Common Pitfalls in Teaching Technical Concepts
