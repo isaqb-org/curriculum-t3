@@ -94,7 +94,7 @@
 
 **T**
 
-- [[[tttgithub, T3GitHub]]] iSAQB^®^, "Train-the-Trainer Curriculum," GitHub repository. [Online]. Available: https://github.com/iSAQB^®^-org/curriculum-t3
+- [[[tttgithub, T3GitHub]]] iSAQB^®^, "Train-the-Trainer Curriculum," GitHub repository. [Online]. Available: https://github.com/isaqb-org/curriculum-t3
 
 **W**
 
