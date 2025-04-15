@@ -10,11 +10,11 @@ The primary goal of this LU is to master and convey the learning objectives outl
 
 All other LUs support and enhance LU02, each focusing on different aspects of training delivery:
 
-* *LU01* addresses the iSAQB^®^ in general and its accreditation ecosystem at a high level
-* *LU03* introduces the learning goals from a didactic perspective, emphasizing how to effectively deliver the training
-* *LU04* requires T3 participants to design the structure of their courses and create schedules
-* *LU05* concentrates on designing example scenarios and exercises to deepen the teaching content within the courses
-* *LU06* focuses on the operational aspects of the accredited trainer role, including exam organization and communication with certification bodies for exam coordination, as well as liaising with the iSAQB^®^ board
+* *LU01* addresses the iSAQB^®^ in general and its accreditation ecosystem at a high level.
+* *LU03* introduces the learning goals from a didactic perspective, emphasizing how to effectively deliver the training.
+* *LU04* requires T3 participants to design the structure of their courses and create schedules.
+* *LU05* concentrates on designing example scenarios and exercises to deepen the teaching content within the courses.
+* *LU06* focuses on the operational aspects of the accredited trainer role, including exam organization and communication with certification bodies for exam coordination, as well as liaising with the iSAQB^®^ board.
 
 [#img-t3-learning-units]
 image::../images/t3-learning-units.png[Overview of the T3 learning units,550, align="center"]
