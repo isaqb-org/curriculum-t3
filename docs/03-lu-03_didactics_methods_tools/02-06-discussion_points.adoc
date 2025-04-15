@@ -51,7 +51,7 @@ a|* Use pair programming or buddy system with mixed skill levels
 
 a|* Negative comments about the training's relevance
 * Body language indicating disengagement
-* Challenging the trainer's expertise or methodology
+* Challenges to the trainer's expertise or methodology
 
 a|* Start with clear expectations and learning objectives
 * Include real-world examples demonstrating practical value
