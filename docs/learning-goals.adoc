@@ -17,7 +17,7 @@
 - <<LG-2-2, LG 2-2: Handle incomplete, fuzzy, or inconsistent  knowledge>>
 - <<LG-2-3, LG 2-3: Turning the FL curriculum into an FL course>>
 - <<LG-2-4, LG 2-4: Common challenges and questions>>
-- <<LG-2-5, LG 2-5: Handling advanced Level questions>>
+- <<LG-2-5, LG 2-5: Handling Advanced Level questions>>
 - <<LG-2-6, LG 2-6: Effective FL exam preparation>>
 - <<LG-2-7, LG 2-7: Use of materials provided by iSAQB^®^>>
 - <<LG-3-1, LG 3-1: Adult learning and blooms taxonomy>>

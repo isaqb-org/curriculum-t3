@@ -31,7 +31,7 @@ They can provide examples of different target markets (e.g. automotive, telco, f
 [[LG-1-4]]
 ==== LG 1-4: Obligations of trainers and training organizations
 T3P can describe the obligations that are implied on trainers and training organization by acting according to iSAQB^®^s values.
-They can provide examples and counter examples for the expected behavior, demanour and business practices.
+They can provide examples and counterexamples for the expected behavior, demanour and business practices.
 T3P can name resources for acquiring more information about managing workload on the trainer side, improving mental strength, self-talk regulation, relaxation methods, and self-regulation techniques.
 They know and introduce the State-of-the-Art of iSAQB^®^ in their individual country where their target group for the training is located.
 

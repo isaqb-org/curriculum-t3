@@ -35,7 +35,7 @@ T3P should develop clear, concise responses to these questions and recognize whe
 
 [discrete]
 [[LG-2-5]]
-==== LG 2-5: Handling advanced Level questions
+==== LG 2-5: Handling Advanced Level questions
 T3P should be able to recognize questions that go beyond the Foundation Level scope and into Advanced Level territory.
 They should demonstrate techniques for addressing these questions appropriately without derailing the FL training.
 T3P should provide brief, informative responses that acknowledge the advanced nature of the query while redirecting focus back to relevant FL content.
