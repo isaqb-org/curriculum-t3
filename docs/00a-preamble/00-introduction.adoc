@@ -23,7 +23,23 @@ We thank all contributors for their valuable input and dedication to improving t
 
 NOTE: Contributors are listed in alphabetical order by last name.
 
-== Introduction: General Information About the T3 Course
+== Introduction: Code of Conduct of iSAQB
+The International Software Architecture Qualification Board (iSAQB®) is a global association of professional software architecture experts from industry, consulting, training, academia, and other domains. Our mission is to become the world’s leading authority on high-quality software architecture.
+
+iSAQB provides top-tier education in software architecture, empowering people worldwide to design sustainable software that delivers real value to society. This is achieved through personalized, localized, and continuously evolving learning experiences, as well as community-based knowledge exchange for practitioners in software design.
+
+At iSAQB, we encourage open expression and constructive dialogue. However, we are committed to maintaining a respectful and inclusive environment where no one feels harmed, marginalized, or reminded of past trauma. We recognize that people may unknowingly cause offense, especially in diverse community settings. This Code of Conduct provides guidance on behavior that supports our values of safety, inclusion, and mutual respect.
+
+A key aim of this Code is to clearly signal that the iSAQB community is open and welcoming—especially to individuals from underrepresented groups in the tech industry.
+
+It also serves as a resource for event organizers and moderators to foster a positive atmosphere and, when needed, to uphold these standards.
+
+Importantly, this Code of Conduct is not intended to restrict free expression—provided that expression does not infringe upon the rights, dignity, or well-being of others—nor is it a tool for exclusion based on personal disagreements.
+This Code of Conduct  outlines our expectations for all participants in iSAQB spaces and events, along with the consequences for unacceptable behavior.
+
+We invite everyone involved in the iSAQB community to help us create a safe, respectful, and enriching experience for all.
+
+== Introduction: General Information About the iSAQB's T3 Course
 
 A Train-the-Trainer (T3) course is designed to enable trainers to efficiently and effectively deliver high-quality training content in iSAQB^®^-accredited trainings.
 It is primarily intended for trainers and prospective trainers who conduct or intend to conduct iSAQB^®^ CPSA Foundation-Level trainings, but will not exclude software architecture trainers at other levels from participating.
