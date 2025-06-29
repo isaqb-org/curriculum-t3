@@ -9,7 +9,7 @@ T3 graduates can:
 
 - Independently and methodically create and deliver software architecture trainings that comply with the iSAQB^®^ curricula.
 - Anticipate and handle challenging training situations.
-- Adapt, structure and delivery their training in a way that participants enjoy the training experience beyond delivering just the contents.
+- Adapt, structure and deliver their training in a way that participants enjoy the training experience beyond delivering just the contents.
 - Reflect their training performance and enable further development and improvement of their training skills.
 - Communicate and live the values of iSAQB^®^.
 // end::EN[]
