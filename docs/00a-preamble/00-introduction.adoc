@@ -4,20 +4,22 @@
 
 // tag::EN[]
 == Authors, Contributors, Reviewers
-The following people have contributed to the creation and development of this Train-the-Trainer (T3) curriculum:
+The following people have in different ways - as authors, reviewers, or by providing feedback in any form - contributed to the creation and development of this Train-the-Trainer (T3) curriculum:
 
-* Gerrit Beine
-* Zied Chtioui
-* Hiral Dave
-* Kim Nena Duggen
-* Peter Götz
-* Dennis Hering
-* Ralf Leipner
-* Alexander Lorz
-* Alfredo Delgado Sánchez
-* Gerhard Wanner
-* Benjamin Wolf
-* Meng Zhang
+Gerrit Beine,
+Zied Chtioui,
+Hiral Dave,
+Kim Nena Duggen,
+Peter Götz,
+Dennis Hering,
+Ralf Leipner,
+Alexander Lorz,
+Alfredo Delgado Sánchez,
+Mike Sperber,
+Gerhard Wanner,
+Stefan Wehr,
+Benjamin Wolf,
+Meng Zhang
 
 We thank all contributors for their valuable input and dedication to improving the quality of software architecture training.
 
