@@ -25,21 +25,41 @@ We thank all contributors for their valuable input and dedication to improving t
 
 NOTE: Contributors are listed in alphabetical order by last name.
 
-== Introduction: Code of Conduct of iSAQB
-The International Software Architecture Qualification Board (iSAQB®) is a global association of professional software architecture experts from industry, consulting, training, academia, and other domains. Our mission is to become the world’s leading authority on high-quality software architecture.
+== iSAQB^®^ Core Values and Code of Conduct
 
-iSAQB provides top-tier education in software architecture, empowering people worldwide to design sustainable software that delivers real value to society. This is achieved through personalized, localized, and continuously evolving learning experiences, as well as community-based knowledge exchange for practitioners in software design.
+The iSAQB^®^ is built on shared values that guide our software architecture education work.
+We strive to provide high-quality training that enables people worldwide to build better software systems.
+These core values shape our approach to training, community building, and professional development.
 
-At iSAQB, we encourage open expression and constructive dialogue. However, we are committed to maintaining a respectful and inclusive environment where no one feels harmed, marginalized, or reminded of past trauma. We recognize that people may unknowingly cause offense, especially in diverse community settings. This Code of Conduct provides guidance on behavior that supports our values of safety, inclusion, and mutual respect.
+*Professional Excellence & Authenticity*::
+iSAQB^®^ members are distinguished by being active professionals in the software industry who bring observations and learnings gained from practical experience implementing and operating systems in production.
+This isn't just theoretical knowledge but real-world expertise from designing and implementing actual systems.
 
-A key aim of this Code is to clearly signal that the iSAQB community is open and welcoming—especially to individuals from underrepresented groups in the tech industry.
+*Knowledge Sharing as a Mission*::
+What makes the iSAQB^®^ different is our genuine passion to share practical knowledge and grow it through feedback of diverse perspectives.
+Our members teach not primarily for profit, but because they believe in the importance of spreading quality architectural practices and elevating the profession as a whole.
 
-It also serves as a resource for event organizers and moderators to foster a positive atmosphere and, when needed, to uphold these standards.
+*Quality Over Quantity*::
+The iSAQB^®^ prioritizes the excellence of training - ensuring participants gain knowledge for which they also learned how to apply it to their daily work - rather than maximizing the number of certifications issued or courses delivered.
+This focus on quality ensures meaningful learning experiences that translate to real-world impact.
 
-Importantly, this Code of Conduct is not intended to restrict free expression—provided that expression does not infringe upon the rights, dignity, or well-being of others—nor is it a tool for exclusion based on personal disagreements.
-This Code of Conduct  outlines our expectations for all participants in iSAQB spaces and events, along with the consequences for unacceptable behavior.
+*Practical Application*::
+The emphasis is on enabling people to design better IT systems in practice, building sustainable software which provides actual value to humans, not just teaching theory or earning certifications.
 
-We invite everyone involved in the iSAQB community to help us create a safe, respectful, and enriching experience for all.
+*Community & Continuous Learning*::
+There's a dual commitment to both teaching and learning, creating a community where everyone - including the trainers - continues to grow and adapt to evolving best practices through personalizable localized and continuously improving learning experiences.
+
+*Inclusive & Respectful Environment*::
+The iSAQB^®^ values creating a welcoming environment for diverse participants, recognizing that the best architectural solutions come from considering multiple perspectives and enabling community-based exchange for people with software design experience.
+
+To ensure our community reflects these values, the iSAQB^®^ maintains a Code of Conduct <<isaqb-coc>> that fosters open expression while protecting everyone's well-being and dignity.
+We encourage constructive dialogue and recognize that in diverse community settings, people may unknowingly cause offense. 
+
+Our Code of Conduct serves three key purposes: providing guidance on respectful behavior, signaling that our community welcomes everyone — especially those from underrepresented groups in tech — and offering clear guidelines for event organizers and moderators.
+This Code is not intended to restrict free expression, but rather to ensure that such expression does not infringe upon others' rights and well-being.
+It outlines our expectations for all participants in iSAQB^®^ spaces and events, along with appropriate responses to unacceptable behavior.
+
+We invite everyone in our community to help create safe, respectful, and enriching experiences for all participants.
 
 == Introduction: General Information About the iSAQB's T3 Course
 
