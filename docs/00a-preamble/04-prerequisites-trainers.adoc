@@ -1,23 +1,34 @@
 // tag::EN[]
-[discrete]
+<<<
+    
 === Requirements for Providing a T3 Training
 
-T3 trainers should:
+Only accredited T3 trainers are authorized to conduct T3 courses.
+T3 trainers must **substantially exceed** the prerequisites required for T3P and active iSAQB^®^ trainers.
+To become an accredited T3 trainer, candidates must meet the following requirements:
 
-* Substantially exceed the prerequisites required for T3P and active iSAQB^®^ trainers.
-* Have a multi-year active history of providing iSAQB^®^ accredited trainings.
-* Be able to draw from a didactic education or a long-standing history of being an active trainer.
-* Have cleared the FL exam or already work as an accredited iSAQB^®^ trainer.
+==== Core Qualifications
+* **Educational Background**: Hold a didactic education qualification OR demonstrate a substantial history of professional training delivery (minimum 5 years)
+* **iSAQB^®^ Certification**: Have successfully completed the Foundation Level (FL) exam AND currently hold active accreditation as an iSAQB^®^ trainer
+* **Training Experience**: Demonstrate an active history of providing iSAQB^®^ accredited trainings with evidence of consistent quality delivery that substantially exceeds standard trainer requirements
 
-[discrete]
-===== Further Prerequisites
+==== Specific Experience Requirements
+* **Minimum Training Volume**: Have conducted at least 15 iSAQB^®^ accredited training courses within the most recent 3-year period
+* **Training Quality**: Provide evidence of consistently positive participant feedback and successful certification outcomes
+* **Diversity of Experience**: Demonstrate varied training delivery experience across different contexts, including:
+** Both in-house and open training formats
+** Multiple industry sectors (for in-house trainings)
+** Different participant backgrounds and experience levels
 
-* The T3 trainer must have access to accredited training material to use it as example on how to provide a training.
-* As T3 trainings are currently focused on the FL curriculum, T3 trainers *may* be eligible to obtain a licensed copy of the accredited Foundation Level slide deck from iSAQB^®^ GmbH.
-For Advanced Level modules, trainers must provide their own training materials.
-* When providing a T3 training, the type and source of training material used as an example *must* be stated in the training announcement.
+==== Mentorship and Supervision Requirements
+* **Initial Supervision**: Conduct the first two T3 training courses under the supervision of an already accredited T3 trainer
+* **Professional Engagement**: Demonstrate active participation in the iSAQB^®^ community through working group involvement or other professional development activities
 
-
+==== Training Material Requirements
+* **Access to Accredited Materials**: Have legitimate access to accredited training materials to use as examples during T3 delivery
+* **Foundation Level Materials**: For FL-focused T3 courses, trainers may be eligible to obtain a licensed copy of the accredited Foundation Level slide deck from iSAQB^®^ GmbH
+* **Advanced Level Materials**: For AL-focused T3 courses, trainers must provide their own accredited training materials
+* **T3-Specific Content**: Develop and submit for approval a comprehensive T3 training concept that demonstrates the additional pedagogical content beyond the base FL/AL material
+* **Material Declaration**: The type, source, and accreditation status of all training materials used must be clearly stated in course announcements
 
 // end::EN[]
-
