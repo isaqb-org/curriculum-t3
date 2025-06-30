@@ -66,6 +66,7 @@ This includes:
 * Developing strategies to manage stage fright and maintain composure during presentations
 * Handling non-constructive behavior, disturbances, and conflicts between participants professionally
 * Applying conflict resolution techniques when necessary
+* Recognizing and responding to code of conduct violations, including discriminatory behavior and harassment
 * Facilitating inclusive and productive group discussions
 * Adapting communication style to different audience needs and knowledge levels
 * Maintaining professional composure during difficult interactions
