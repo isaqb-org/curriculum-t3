@@ -3,7 +3,7 @@
 === Curriculum Structure and Recommended Durations
 
 This curriculum is structured into six learning units (LUs) based on specific subject areas.
-The following diagram and table outline the division of the curriculum into LUs and their recommended durations.
+The following diagram and table outline the division of the curriculum into Learning Units (LUs) and specify both a time range and recommended duration for each unit in the training program.
 
 LU02 serves as the central element that connects all other LUs, specifying the crucial requirements to become an accredited trainer for the CPSA-FL of iSAQB^®^.
 The primary goal of this LU is to master and convey the learning objectives outlined in the iSAQB^®^'s CPSA-FL curriculum, translating them into a well-structured training program.
@@ -19,7 +19,9 @@ All other LUs support and enhance LU02, each focusing on different aspects of tr
 [#img-t3-learning-units]
 image::../images/t3-learning-units.png[Overview of the T3 learning units,550, align="center"]
 
-.T3 Curriculum Outline and Recommended Minimum Durations
+<<<
+
+.T3 Curriculum Outline and Recommended Training Durations
 [cols="4,>1", options="header"]
 |===
 |Learning Unit and Key Skills |Duration Range +

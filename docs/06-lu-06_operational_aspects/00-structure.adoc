@@ -8,7 +8,7 @@
 
 // tag::EN[]
 |===
-| Duration: 0-60 min (recommended: 45 min) | Practice time: n/a
+| Training duration: 0-60 min (recom.: 45 min) | Practice time: n/a
 |===
 // end::EN[]
 
