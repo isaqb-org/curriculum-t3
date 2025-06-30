@@ -32,7 +32,7 @@ We strive to provide high-quality training that enables people worldwide to buil
 These core values shape our approach to training, community building, and professional development.
 
 *Professional Excellence & Authenticity*::
-iSAQB^®^ members are distinguished by being active professionals in the software industry who bring observations and learnings gained from practical experience implementing and operating systems in production.
+iSAQB^®^ members are distinguished by being active professionals in the academia and software industry who bring observations and learnings gained from practical experience implementing and operating systems in production.
 This isn't just theoretical knowledge but real-world expertise from designing and implementing actual systems.
 
 *Knowledge Sharing as a Mission*::
@@ -44,7 +44,7 @@ The iSAQB^®^ prioritizes the excellence of training - ensuring participants gai
 This focus on quality ensures meaningful learning experiences that translate to real-world impact.
 
 *Practical Application*::
-The emphasis is on enabling people to design better IT systems in practice, building sustainable software which provides actual value to humans, not just teaching theory or earning certifications.
+The emphasis is on enabling people to design better software systems in practice, building sustainable software which provides actual value to humans, not just teaching theory or earning certifications.
 
 *Community & Continuous Learning*::
 There's a dual commitment to both teaching and learning, creating a community where everyone - including the trainers - continues to grow and adapt to evolving best practices through personalizable localized and continuously improving learning experiences.
