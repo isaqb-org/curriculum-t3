@@ -8,7 +8,7 @@
 
 // tag::EN[]
 |===
-| Duration: 180-240 min | Practice time: 30-60% of duration
+| Training duration: 180-240 min (recom.: 210 min) | Practice time: 30-60% of duration
 |===
 // end::EN[]
 

@@ -3,7 +3,7 @@
 === Curriculum Structure and Recommended Durations
 
 This curriculum is structured into six learning units (LUs) based on specific subject areas.
-The following diagram and table outline the division of the curriculum into LUs and their recommended durations.
+The following diagram and table outline the division of the curriculum into Learning Units (LUs) and specify both a time range and recommended duration for each unit in the training program.
 
 LU02 serves as the central element that connects all other LUs, specifying the crucial requirements to become an accredited trainer for the CPSA-FL of iSAQB^®^.
 The primary goal of this LU is to master and convey the learning objectives outlined in the iSAQB^®^'s CPSA-FL curriculum, translating them into a well-structured training program.
@@ -19,44 +19,52 @@ All other LUs support and enhance LU02, each focusing on different aspects of tr
 [#img-t3-learning-units]
 image::../images/t3-learning-units.png[Overview of the T3 learning units,550, align="center"]
 
-.T3 Curriculum Outline and Recommended Minimum Durations
+<<<
+
+.T3 Curriculum Outline and Recommended Training Durations
 [cols="4,>1", options="header"]
 |===
-|Learning Unit and Key Skills |Duration (min)
+|Learning Unit and Key Skills |Duration Range +
+(Recommended)
 
 |*LU01: About iSAQB^®^ Trainings and Trainers* +
 Understand iSAQB^®^'s values, objectives, and value proposition. +
 Recognize trainer obligations and importance of continuous improvement.
-|30-60
+|30-60 min +
+(45 min)
 
 |*LU02: Mastering and Conveying the FL Curriculum* +
 Gain comprehensive understanding of the FL curriculum. +
 Develop skills to effectively teach content, handle challenging questions, and prepare students for exams.
-|720
+|720 min
 
 |*LU03: Didactics, Methods, Tools and Best Practices* +
 Learn fundamental didactic principles, teaching methods, and best practices +
 for effective knowledge transfer in software architecture training.
-|180-360
+|180-360 min +
+(300 min)
 
 |*LU04: Structure and Planning* +
 Develop skills to structure courses, create effective timetables, +
 and adapt content to participant needs while adhering to curriculum requirements.
-|90-120
+|90-120 min +
+(120 min)
 
 |*LU05: Designing and Evaluating Example Scenarios and Exercises* +
 Learn to create, adapt, and evaluate relevant example scenarios and exercises +
 that reinforce learning objectives and engage participants.
-|180-240
+|180-240 min +
+(210 min)
 
 |*LU06: Logistics and Operational Aspects of Trainings* +
 Understand operational aspects of organizing and delivering iSAQB^®^ trainings, +
 including venue selection, exam organization, and communication with iSAQB^®^.
-|0-60
+|0-60 min +
+(45 min)
 
 | |
-| *Total* | *1200-1560 +
-(20-26 hours)*
+| *Total* | *20-26 hours +
+(24 hours)*
 |===
 
 // end::EN[]

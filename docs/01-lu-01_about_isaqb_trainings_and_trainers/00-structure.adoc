@@ -6,7 +6,7 @@
 == LU01 - About iSAQB^®^ Trainings and Trainers
 
 |===
-| Duration: 30-60 min | Practice time: n/a
+| Training duration: 30-60 min (recom.: 45 min) | Practice time: n/a
 |===
 // end::EN[]
 
