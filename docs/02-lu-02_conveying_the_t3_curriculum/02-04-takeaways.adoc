@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-=== Takeaways for Students
+=== Takeaways for T3P
 // end::EN[]
 ////
 A short (!) summary of the LU's content from the learner's perspective.
@@ -9,6 +9,9 @@ This is the TL;DR of relevant information that should be conveyed to learners.
 
 // tag::EN[]
 The curriculum is neither a textbook nor a blueprint for a FL course.
-But it will help you to define the scope and structure of your own course and by getting a walkthrough to an existing FL course provided by an experienced trainer (which is how a T3 training should be delivered) you will get the hang of what is important and how to deliver it yourself to your audience.
+It defines the scope and content of what should be covered, but not the didactical path or delivery methods.
+What truly matters for T3P participants is experiencing a complete walkthrough of an existing FL course delivered by an experienced trainer.
+This hands-on demonstration shows how all the curriculum elements come together in practice - how content is structured, paced, and delivered effectively to create impactful training.
+Through this guided experience, you'll gain clarity on what truly matters and develop the skills to deliver impactful, high-quality, engaging training to your own audience.
 
 // end::EN[]

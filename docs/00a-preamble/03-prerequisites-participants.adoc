@@ -3,7 +3,8 @@
 
 T3P should:
 
-* Completely fulfill all  prerequisites listed for participants in a Foundation Level course.
+* Completely fulfill all prerequisites listed for participants in a Foundation Level course.
+* Have in-depth knowledge and mastery of the Foundation Level curriculum content.
 * Have cleared the FL exam (not mandatory but advisable).
 * Possess extensive and repeated experience in providing presentations and trainings for medium sized groups of adult learners. 
 * Have basic background knowledge of didactics, e.g. from studies of this discipline or equivalent activities.

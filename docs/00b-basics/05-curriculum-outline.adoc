@@ -19,7 +19,7 @@ Each LU always contains the following sections:
  * **Purpose:** The intention behind a LU.
  * **Learning Objectives:** A list of learning objectives or learning goals (LGs) that are covered by the LU. We strive to formulate learning goals as a learning outcome by using the formula "Behavior + Concept or Skill = Learning Outcome" according to <<bowman>>. 
 
-LUs *may* contain additional sections describing takeaways for students, important discussion points, things to avoid when presenting the topic, references, and recommendations for didactics, knowledge transfer, and preparation.
+LUs *may* contain additional sections describing takeaways for T3P, important discussion points, things to avoid when presenting the topic, references, and recommendations for didactics, knowledge transfer, and preparation.
 If you would like to add or enhance these sections, please submit suggestions in the form of issues in the GitHub repository of the T3 curriculum <<tttgithub>>.
 
 // end::EN[]

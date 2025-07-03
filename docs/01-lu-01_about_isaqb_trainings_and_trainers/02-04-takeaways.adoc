@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete%breakable]
-=== Takeaways for Students
+=== Takeaways for T3P
 
 
 // A short (!) summary of the LUs content from the learner's perspective.

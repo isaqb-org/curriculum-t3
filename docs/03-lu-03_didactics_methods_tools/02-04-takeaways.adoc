@@ -1,6 +1,6 @@
 // tag::EN[]
 [discrete]
-=== Takeaways for Students
+=== Takeaways for T3P
 // end::EN[]
 
 ////
