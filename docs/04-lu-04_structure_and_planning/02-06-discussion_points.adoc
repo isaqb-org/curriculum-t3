@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Discussion Points
 // end::EN[]
 

@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Discussion Points
 // end::EN[]
 ////
@@ -7,13 +7,13 @@ Things you might want to discuss with students since the topics may differ depen
 ////
 // tag::EN[]
 
-[discrete]
+
 ==== Handling Challenging Training Situations
 
 As a trainer, you should be able to anticipate, prevent, and effectively handle challenging situations that arise during training.
 This section provides detailed guidance on managing common challenges and maintaining a productive learning environment.
 
-[discrete]
+
 ===== Common Challenging Scenarios and Response Strategies
 
 [%unbreakable]
@@ -160,7 +160,7 @@ a|* Use parking lot technique for off-topic discussions
 * Provide additional resources for deeper exploration
 |===
 
-[discrete]
+
 ===== Escalation Guidelines - When to Escalate
 
 Know when to escalate issues:
@@ -170,7 +170,7 @@ Know when to escalate issues:
 * Technical infrastructure problems
 * Health or safety concerns
 
-[discrete]
+
 ===== Escalation Guidelines - Escalation Process
 
 1. Document the situation
@@ -178,7 +178,7 @@ Know when to escalate issues:
 3. Contact training coordinator or supervisor
 4. Follow up after resolution
 
-[discrete]
+
 ===== Professional Atmosphere Maintenance
 
 Tips for maintaining a professional learning environment:

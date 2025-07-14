@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Learning Objectives
 // end::EN[]
 
@@ -8,17 +8,17 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 ////
 
 // tag::EN[]
-[discrete]
+
 [[LG-X-1]]
 ==== LG X-1: Your first learning goal
 TBD - LGs MUST be provided - your content here
 
-[discrete]
+
 [[LG-X-2]]
 ==== LG X-2: Your second learning goal
 TBD
 
-[discrete]
+
 [[LG-X-3]]
 ==== LG 1-3: Your third learning goal
 TBD

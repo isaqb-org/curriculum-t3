@@ -1,8 +1,6 @@
 // tag::EN[]
 
-:sectnums!:
 
-[discrete]
 === Metadata and Lifecycle Information
 
 |===
@@ -10,14 +8,14 @@
 | This LU is based on the LU template revision | *v0.03 from 2021-11-09*
 |===
 
-[discrete]
-==== Authors, Contributors, Reviewers 
+
+==== Authors, Contributors, Reviewers
 
 * First Author (<Shorthand>, <Role>)
-* Jane Smith (JSH, Reviewer)  
+* Jane Smith (JSH, Reviewer)
 * John Example (JEE, Author)
 
-[discrete]
+
 ==== Revision History for this Learning Unit
 
 Please use reverse chronological order. Most recent changes are on top.
@@ -28,6 +26,5 @@ Please use reverse chronological order. Most recent changes are on top.
 | YYYY-MM-DD | v0.01 | JEE | Confabulating initial draft version
 |===
 
-:sectnums:
 
 // end::EN[]

@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 ===  Reference Material and Resources for Learners and Trainers
 // end::EN[]
 ////

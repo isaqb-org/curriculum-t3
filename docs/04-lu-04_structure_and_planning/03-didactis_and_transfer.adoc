@@ -1,12 +1,12 @@
 // tag::EN[]
-[discrete]
+
 === Didactics and Transfer
 // end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Method Hints
 // end::EN[]
 
@@ -16,7 +16,7 @@ Suggestions and recommendations for presenting the topic, ideas for exercises, a
 
 // tag::EN[]
 
-[discrete]
+
 ===== Make T3 participants aware of the importance to know their audience
 
 When setting up the structure for a training it is necessary to start with the student in mind. The two most important questions are:
@@ -30,7 +30,7 @@ The iSAQB^®^ curricula describe training prerequisites and learning goals, but 
 Therefore it is crucially important for trainers to create a course structure that helps delivering a training that is worthwhile for our students.
 We will describe a few things that can and should be kept in mind when setting up a course structure for your training.
 
-[discrete]
+
 ===== The Golden Thread
 
 Each training should have a golden thread that is a story line that guides the students (and us trainers) through the content.
@@ -51,7 +51,7 @@ The golden thread of your training should give answers to the following question
 These four questions also nicely align with Sharon Bowman's 4C Model <<bowman>> (no to be confused with Simon Brown's C4 Model), so if you want to dig deeper on this, maybe have a look at https://www.bowperson.com/.
 
 
-[discrete]
+
 ===== Structuring a Set
 
 A set is modular didactical unit comprising one or more learning goals.
@@ -68,7 +68,7 @@ You can use the same four questions that you used for the golden thread of your 
 If you are going to teach more than one topic in a set, just think about those four questions (or the 4Cs) for each of the topics.
 
 
-[discrete]
+
 ===== Structuring a Multi-Day-Training
 
 It is usually helpful to structure the training days available into sessions of 45 to 90 minutes.
@@ -124,7 +124,7 @@ It is usually not a good idea to have more than six hours of learning in a day, 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Previous Knowledge Regarding the Contents
 // end::EN[]
 
@@ -142,7 +142,7 @@ Learners should have finished LU 3 and know about didactics and training methods
 // tag::EN[]
 
 
-// [discrete]
+//
 // ==== Sustaining Knowledge Transfer - Short Term
 // end::EN[]
 
@@ -157,7 +157,7 @@ Follow-up activities: What do participants need to be able to independently foll
 // --------------------------------------------------------------------
 
 // tag::EN[]
-// [discrete]
+//
 // ==== Sustaining Knowledge Transfer - Long Term
 // end::EN[]
 

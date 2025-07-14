@@ -1,12 +1,12 @@
 // tag::EN[]
-[discrete]
+
 === Success Factors and Risks
 // end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== General Risks
 // end::EN[]
 
@@ -23,7 +23,7 @@ Fundamental disruptive factors (what could irritate, offend, trigger people abou
 
 
 // tag::EN[]
-[discrete]
+
 ==== Possible Barriers to Knowledge Transfer
 // end::EN[]
 
@@ -43,14 +43,14 @@ People might know a *lot* more about the domain of the example scenario.
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Success factors
 // end::EN[]
 
 ////
 * What contributes to the learning success?
 * What are connections that lead out of the module? This might be things that motivate participants because what they have learned has greater practical value.
-* How can LU success possibly be measured or determined (quantitatively/qualitatively)? "Definition of Done", not necessarily quantifiable: e.g. quizzes, exercise, role play, own presentation. 
+* How can LU success possibly be measured or determined (quantitatively/qualitatively)? "Definition of Done", not necessarily quantifiable: e.g. quizzes, exercise, role play, own presentation.
 ////
 
 // tag::EN[]

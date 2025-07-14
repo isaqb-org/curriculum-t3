@@ -3,6 +3,7 @@
 // ====================================================
 
 // tag::EN[]
+[toclevels=1]
 == LU05 - Designing and Evaluating Example Scenarios and Exercises
 // end::EN[]
 

@@ -11,8 +11,7 @@
 // vvvvvvvvvvvvvvvv  DELETE PART BELOW WHEN USING THE TEMPLATE vvvvvvvvvvvvvvvvvvv
 
 
-:sectnums!:
-[discrete]
+
 === Authors and Revision History of the Learning Unit Template
 
 This information concerns *only* the template and *MUST* be deleted when using ist.
@@ -29,8 +28,6 @@ Please use reverse chronological order. Most recent changes are on top.
 | 2021-10-29 | v0.01 | GBE, ALZ | rough collection of initial ideas and things that should be in here
 
 |===
-
-:sectnums:
 
 // ^^^^^^^^^^^^^^^^  DELETE PART ABOVE WHEN USING THE TEMPLATE ^^^^^^^^^^^^^^^^^^^
 

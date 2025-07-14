@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Learning Objectives
 // end::EN[]
 
@@ -8,32 +8,30 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 ////
 
 // tag::EN[]
-[discrete]
+
 [[LG-2-1]]
 ==== LG 2-1: Profound understanding and broad knowledge of the FL curriculum
 T3P can explain the content described in each learning goal of the FL curriculum and respond to in-depth questions from learners.
 
-[discrete]
 [[LG-2-2]]
 ==== LG 2-2: Handle incomplete, fuzzy, or inconsistent  knowledge
 For content where there is no clear consensus in the software architecture community or where there is a significant difference between academic and practical viewpoints, the T3P can explain and contrast the different perspectives and explain the reasons behind them.
 The T3P can interpret technical terms and content into the common language of their target training group to eliminate misunderstandings during translation, in accordance with international and national standards.
 
-[discrete]
 [[LG-2-3]]
 ==== LG 2-3: Turning the FL curriculum into an FL course
 T3P should understand and be able to demonstrate by themselves how everything described in LU3 to LU5 is applied to the FL curriculum.
 They should  recognize best practices in action and be able to apply didactic methods and tools (see LU3) to the content of the FL curriculum by observing how it's done and practicing it themselves.
 They should be able to recognize and demonstrate how course structuring and planning are applied to the FL curriculum (see LU4) and how examples tie in (see LU5).
 
-[discrete]
+
 [[LG-2-4]]
 ==== LG 2-4: Common challenges and questions
 T3P should be able to identify and explain common difficulties students encounter with the FL curriculum.
 They should demonstrate effective strategies to handle challenging situations and anticipate frequently asked questions for each topic.
 T3P should develop clear, concise responses to these questions and recognize when a query goes beyond the FL scope, providing appropriate guidance for further learning.
 
-[discrete]
+
 [[LG-2-5]]
 ==== LG 2-5: Handling Advanced Level questions
 T3P should be able to recognize questions that go beyond the Foundation Level scope and into Advanced Level territory.
@@ -41,7 +39,7 @@ They should demonstrate techniques for addressing these questions appropriately 
 T3P should provide brief, informative responses that acknowledge the advanced nature of the query while redirecting focus back to relevant FL content.
 They should also be able to suggest resources for further study on advanced topics when appropriate.
 
-[discrete]
+
 [[LG-2-6]]
 ==== LG 2-6: Effective FL exam preparation
 T3P should be able to explain the FL exam format, time frame, and scoring system to students.
@@ -50,7 +48,7 @@ T3P should be able to guide students through sample questions, providing strateg
 They should also be able to outline the exam procedure and offer tips for reducing test anxiety.
 
 
-[discrete]
+
 [[LG-2-7]]
 ==== LG 2-7: Use of materials provided by iSAQB^®^
 T3P should be able to effectively utilize and explain the purpose of materials provided by iSAQB^®^, including the curriculum, glossary, and mock exams.

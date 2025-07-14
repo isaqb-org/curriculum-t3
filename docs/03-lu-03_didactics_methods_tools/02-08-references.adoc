@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 ===  Reference Material and Resources for Learners and Trainers
 // end::EN[]
 
@@ -13,13 +13,13 @@ These sources cover essential didactic concepts and modern methods for training 
 When using these resources, focus on adapting the concepts and methods to your specific training context and participant needs.
 The goal is not to apply every technique from every resource, but to select and combine approaches that best serve your learning objectives and audience.
 
-Brown et al. - Make It Stick <<brown_makeitstick>>:: 
+Brown et al. - Make It Stick <<brown_makeitstick>>::
 A research-backed book on the psychology of learning, providing insights into **effective knowledge retention strategies**.
 The book explores how people learn and retain information most effectively.
 Trainers can apply the spacing effect and retrieval practice in their training design, implement frequent knowledge checks, and revisit key concepts throughout the training to reinforce learning.
 The book also demonstrates how to use concrete examples and analogies to make abstract concepts more memorable.
 
-Bowman - Training from the Back of the Room <<bowman>>:: 
+Bowman - Training from the Back of the Room <<bowman>>::
 A **practical guide to interactive and engaging teaching methods** specifically designed for adult learners.
 The book introduces innovative approaches to increase participant engagement and knowledge retention.
 Trainers can implement the 4Cs Model (Connections, Concepts, Concrete Practice, Conclusions) to structure their training sessions, use brain-friendly techniques to increase learner engagement, and design activities that encourage learners to teach and learn from each other.

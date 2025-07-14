@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Topic
 // end::EN[]
 
