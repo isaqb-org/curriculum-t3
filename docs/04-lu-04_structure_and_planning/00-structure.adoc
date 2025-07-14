@@ -3,6 +3,7 @@
 // ====================================================
 
 // tag::EN[]
+[toclevels=1]
 == LU04 - Structure and Planning
 // end::EN[]
 

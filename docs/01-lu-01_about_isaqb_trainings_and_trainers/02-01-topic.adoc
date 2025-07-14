@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Topic
 
 // Coarse grained topic or learning area, e.g., "Executing the Training", "Recommended setup for online trainings"

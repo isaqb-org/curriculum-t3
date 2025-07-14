@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Important
 
 // What are particular important points that a T3 trainer should highlight or prioritize (because it is of outstanding relevance for future trainers).
@@ -7,7 +7,7 @@
 The following areas represent critical competencies that T3 trainers should emphasize when preparing future software architecture trainers.
 These foundational elements are essential for delivering high-quality, impactful training experiences and should be highlighted throughout the T3 course.
 
-[discrete]
+
 ==== Subject Matter Expertise
 
 Software architecture trainers must establish themselves as credible experts with comprehensive knowledge of their field.
@@ -15,7 +15,7 @@ Beyond theoretical understanding, they need practical experience that allows the
 Effective trainers continuously update their knowledge by following industry trends and anticipating future developments.
 This solid foundation enables them to address diverse questions with confidence and provide insights that resonate with participants' real-world challenges.
 
-[discrete]
+
 ==== Methodological Skills
 
 The ability to design and deliver structured, coherent training is fundamental to success.
@@ -24,7 +24,7 @@ They excel at translating complex information into accessible explanations tailo
 By incorporating diverse teaching methods and media, they create engaging sessions that accommodate different learning styles and optimize knowledge retention.
 
 
-[discrete]
+
 ==== Learning Environment Management
 
 Creating a productive learning atmosphere requires deliberate attention to group dynamics.
@@ -32,7 +32,7 @@ Skilled trainers foster collaborative spaces where participants feel comfortable
 They recognize emerging conflicts early and address them constructively.
 By establishing clear communication norms and maintaining a positive feedback culture, they build relationships that encourage active participation and create a supportive community of learners.
 
-[discrete]
+
 ==== Personal Competencies
 
 The trainer's own demeanor and resilience significantly impact training effectiveness.

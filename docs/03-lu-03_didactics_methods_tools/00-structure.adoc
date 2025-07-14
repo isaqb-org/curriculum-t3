@@ -3,6 +3,7 @@
 // ====================================================
 
 // tag::EN[]
+[toclevels=1]
 == LU03 - Didactics, Methods, Tools and Best Practices
 // end::EN[]
 

@@ -1,12 +1,12 @@
 // tag::EN[]
-[discrete]
+
 === Preparation
 // end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Time and Activities for Trainer Preparation
 // end::EN[]
 
@@ -21,7 +21,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Time and Activities for Student Preparation
 // end::EN[]
 
@@ -36,7 +36,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Time for Activity
 // end::EN[]
 
@@ -53,7 +53,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Physical space required for activities
 // end::EN[]
 
@@ -68,8 +68,8 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
-==== Physical Materials Required for Activities 
+
+==== Physical Materials Required for Activities
 // end::EN[]
 
 ////
@@ -83,7 +83,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Virtual Material/Infrastructure
 // end::EN[]
 
@@ -102,7 +102,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Prior Knowledge of Participants in the Use of Materials and Infrastructure
 // end::EN[]
 

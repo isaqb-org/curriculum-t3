@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Learning Objectives
 // end::EN[]
 
@@ -8,34 +8,34 @@ The learning objective(s) that are covered by the LU. Try to formulate learning 
 ////
 
 // tag::EN[]
-[discrete]
+
 [[LG-4-1]]
 ==== LG 4-1: Derive learning objectives from prerequisites
 T3P should be able to systematically work out what the prerequisites and needs of their target group are and describe these in target group-specific learning objectives.
 
-[discrete]
+
 [[LG-4-2]]
 ==== LG 4-2: Design didactic path or roadmap
 T3P can design and document a didactic path (what is covered in what order? what builds on each other?) through the learning material, compare it with the learning objectives of the curriculum and, if necessary, identify gaps (what is not yet included) or content that goes beyond the curriculum.
 
-[discrete]
+
 [[LG-4-3]]
 ==== LG 4-3: Modularize contents
 T3P can break down learning content along the didactic path into modular units (sets) with clearly delineated learning objectives and appropriate granularity, taking into account their audience and their context, the form of the training (online, in-person, or hybrid), and making use of different didactic methods (see LU 3).
 
 
-[discrete]
+
 [[LG-4-4]]
 ==== LG 4-4: Create timetable
 T3P can schedule these units and choose appropriate methods or methodological building blocks to deliver the learning units.
 To do so, they should be able to explain how different didactic methods complement each other over the duration of a course and over the flow of a day.
 
-[discrete]
+
 [[LG-4-5]]
 ==== LG 4-5: Adapt timetable
 T3P are able to adapt the time schedule to the learning progress and the needs of the participants, if necessary, also during the training.
 
-[discrete]
+
 [[LG-4-6]]
 ==== LG 4-6: Organize pre and post training experience
 T3P are able to create material that students can use to prepare for the training in order to use the time in the training as efficiently as possible.
@@ -49,7 +49,7 @@ This includes:
 * Designing post-training follow-up activities to reinforce learning and encourage practical application
 * Creating or recommending means for ongoing support or community engagement for participants after the training
 
-[discrete]
+
 [[LG-4-7]]
 ==== LG 4-7: Preparing and using supplementary training materials
 T3P should be able to create, select, and effectively use supplementary training materials to enhance the learning experience.
@@ -63,7 +63,7 @@ This includes:
 * Effectively integrating supplementary materials into the overall training structure and timeline
 
 
-[discrete]
+
 [[LG-4-8]]
 ==== LG 4-8: Preparing for and delivering your first CPSA training
 T3P should be able to outline a comprehensive plan for preparing and delivering their first CPSA training.
@@ -83,29 +83,29 @@ This includes:
 
 
 // tag::DE[]
-[discrete]
+
 [[LZ-4-1]]
 ==== LZ 4-1: Ableitung von Lernzielen aus Voraussetzungen
 T3P sollen in der Lage sein, systematisch zu erarbeiten, was die Voraussetzungen und Bedürfnisse ihrer Zielgruppe sind und diese in zielgruppenspezifischen Lernzielen zu beschreiben.
 
-[discrete]
+
 [[LZ-4-2]]
 ==== LZ 4-2: Didaktischen Pfad gestalten
 T3P können einen didaktischen Pfad (Was wird in welcher Reihenfolge behandelt? Was baut aufeinander auf?) durch den Lernstoff entwerfen und dokumentieren, diesen mit den Lernzielen des Curriculums abgleichen und ggfs. Lücken (was ist noch nicht enthalten) bzw. über das Curriculum hinausgehende Inhalte zu identifizieren.
 
 
-[discrete]
+
 [[LZ-4-3]]
 ==== LZ 4-3: Inhalte modularisieren
 T3P können die Lerninhalte entlang des didaktischen Pfades in modulare Einheiten mit klar abgegrenzten Lernzielen und angemessener Granularität zerlegen.
 
-[discrete]
+
 [[LZ-4-4]]
 ==== LZ 4-4: Zeitplan erstellen
 T3P können diese Einheiten in einen Zeitplan einordnen und und geeignete Methoden bzw. methodische Bausteine wählen um die Lerneinheiten zu vermitteln. Dazu sollten sie in der Lage sein, zu erklären, wie sich verschiedene didaktische Methoden über die Dauer eines Kurses und über den Ablauf eines Tages hinweg ergänzen.
 
 
-[discrete]
+
 [[LZ-4-5]]
 ==== LZ 4-5: Zeitplan anpassen
 T3P sind in der Lage den Zeitplan ggfs. auch während des Trainings an den Lernfortschritt und die Bedürfnisse der TN anzupassen.

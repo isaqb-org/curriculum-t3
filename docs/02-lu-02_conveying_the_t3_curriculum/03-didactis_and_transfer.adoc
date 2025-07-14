@@ -1,12 +1,12 @@
 // tag::EN[]
-[discrete]
+
 === Didactics and Transfer
 // end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Method Hints
 // end::EN[]
 
@@ -21,7 +21,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Previous Knowledge Regarding the Contents
 // end::EN[]
 
@@ -37,7 +37,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Sustaining Knowledge Transfer - Short Term
 // end::EN[]
 
@@ -52,7 +52,7 @@ TBD - CAN be provided - your content here
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Sustaining Knowledge Transfer - Long Term
 // end::EN[]
 

@@ -1,12 +1,12 @@
 // tag::EN[]
-[discrete]
+
 === Didactics and Transfer
 // end::EN[]
 
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Method Hints
 // end::EN[]
 
@@ -16,7 +16,7 @@ Suggestions and recommendations for presenting the topic, ideas for exercises, a
 
 // tag::EN[]
 * Start with the participants idea for example scenario.
-* How would they proceed? Any past experience of training that comes to mind and is helpful? 
+* How would they proceed? Any past experience of training that comes to mind and is helpful?
 * Do they know any references that they might want to put to use?
 
 Example scenarios should demonstrate practical applications of CPSA-F topics, including but not limited to:
@@ -39,7 +39,7 @@ Consider that scenario complexity presents a trade-off:
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Previous Knowledge Regarding the Contents
 // end::EN[]
 
@@ -55,7 +55,7 @@ Learners should be familiar with the CPSA-F curriculum.
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Sustaining Knowledge Transfer - Short Term
 // end::EN[]
 
@@ -70,7 +70,7 @@ Sample example scenario used during this learning unit will be shared with parti
 // --------------------------------------------------------------------
 
 // tag::EN[]
-[discrete]
+
 ==== Sustaining Knowledge Transfer - Long Term
 // end::EN[]
 

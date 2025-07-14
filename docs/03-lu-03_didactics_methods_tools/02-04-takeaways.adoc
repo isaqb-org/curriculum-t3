@@ -1,5 +1,5 @@
 // tag::EN[]
-[discrete]
+
 === Takeaways for T3P
 // end::EN[]
 

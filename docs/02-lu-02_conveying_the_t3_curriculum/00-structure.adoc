@@ -3,6 +3,7 @@
 // ====================================================
 
 // tag::EN[]
+[toclevels=1]
 == LU02 - Mastering and Conveying the FL Curriculum
 // end::EN[]
 

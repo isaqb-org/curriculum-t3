@@ -3,6 +3,7 @@
 // ====================================================
 
 // tag::EN[]
+[toclevels=1]
 == LU06 - Logistics and Operational Aspects of Trainings
 // end::EN[]
 
